@@ -60,8 +60,8 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="lib\Sitecore.XA.Foundation.Multisite.dll" VersionOverride="10.4" />
-    <PackageReference Include="lib\Sitecore.XA.Foundation.SitecoreExtensions.dll" VersionOverride="10.4" />
+    <Reference Include=".\lib\Sitecore.XA.Foundation.Multisite.dll" VersionOverride="10.4" />
+    <Reference Include=".\lib\Sitecore.XA.Foundation.SitecoreExtensions.dll" VersionOverride="10.4" />
     <PackageReference Include="Sitecore.XmCloud.Kernel" />
     <PackageReference Include="Sitecore.XmCloud.ContentSearch" />
     <PackageReference Include="Sitecore.XmCloud.ContentSearch.Linq" />
@@ -74,6 +74,8 @@
     <None Include="Platform.wpp.targets" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />
     <None Include="README.md" />
+    <Content Include="lib\Sitecore.XA.Foundation.Multisite.dll" />
+    <Content Include="lib\Sitecore.XA.Foundation.SitecoreExtensions.dll" />
     <Content Include="sitecore\shell\Themes\Standard\DemoIcons\16x16\desktop.ini" />
     <Content Include="sitecore\shell\Themes\Standard\DemoIcons\24x24\desktop.ini" />
     <Content Include="sitecore\shell\Themes\Standard\DemoIcons\32x32\desktop.ini" />
