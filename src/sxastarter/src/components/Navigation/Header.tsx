@@ -34,9 +34,9 @@ export const WithLogoImage = (props: WithImageProps): JSX.Element => {
     <div className={`component header ${props.params.styles.trimEnd()}`} id={id ? id : undefined}>
       <div className={`container container-${props.params?.ContainerWidth?.toLowerCase()}-fluid`}>
         <div className="row align-items-center">
-          <div className="col-auto">
+          <a className="col-auto" href="/">
             <Image field={props.fields.LogoImage} />
-          </div>
+          </a>
           <div className="col">
             <Placeholder name="header-right" rendering={props.rendering} />
           </div>
