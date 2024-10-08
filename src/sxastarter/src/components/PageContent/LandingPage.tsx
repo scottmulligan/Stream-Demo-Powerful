@@ -16,11 +16,11 @@ interface Fields {
   BackgroundImage: ImageField;
 }
 
-export type LandingPageProps = ComponentProps & {
+export type PageBackgroundProps = ComponentProps & {
   fields: Fields;
 };
 
-export const Default = (props: LandingPageProps): JSX.Element => {
+export const Default = (props: PageBackgroundProps): JSX.Element => {
   const id = props.params?.RenderingIdentifier;
 
   return (
