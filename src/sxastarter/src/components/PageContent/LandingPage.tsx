@@ -31,7 +31,6 @@ export const Default = (props: LandingPageProps): JSX.Element => {
       <ParallaxBackgroundImage BackgroundImage={props.fields.BackgroundImage} />
 
       <div className="container" style="margin-top:2rem;">
-
         <h1 className="display-6 fw-bold">
           <Text field={props.fields.Title}></Text>
         </h1>
