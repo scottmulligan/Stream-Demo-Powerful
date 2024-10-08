@@ -16,11 +16,11 @@ interface Fields {
   BackgroundImage: ImageField;
 }
 
-export type PageBackgroundProps = ComponentProps & {
+export type LandingPageProps = ComponentProps & {
   fields: Fields;
 };
 
-export const Default = (props: PageBackgroundProps): JSX.Element => {
+export const Default = (props: LandingPageProps): JSX.Element => {
   const id = props.params?.RenderingIdentifier;
 
   return (
@@ -30,7 +30,7 @@ export const Default = (props: PageBackgroundProps): JSX.Element => {
     >
       <ParallaxBackgroundImage BackgroundImage={props.fields.BackgroundImage} />
 
-      <div className="container" style="margin-top:2rem;">
+      <div className="container">
         <h1 className="display-6 fw-bold">
           <Text field={props.fields.Title}></Text>
         </h1>
