@@ -59,15 +59,8 @@ export const Default = (props: PromoCtaProps): JSX.Element => {
 
               <RichText field={props.fields.Text} className="text-content" />
 
-              <div className="row mt-2">
-                <Placeholder name="promo-cta" rendering={props.rendering} />
-              </div>
-
               {(isPageEditing || props.fields?.Link?.value?.href) && (
                 <Link field={props.fields.Link} className="button button-main mt-3 me-4" />
-              )}
-              {(isPageEditing || props.fields?.Link2?.value?.href) && (
-                <Link field={props.fields.Link2} className="button button-simple mt-3 " />
               )}
             </div>
           </div>
