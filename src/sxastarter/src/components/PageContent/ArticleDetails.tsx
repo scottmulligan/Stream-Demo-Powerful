@@ -13,7 +13,7 @@ import { ParallaxBackgroundImage } from 'components/NonSitecore/ParallaxBackgrou
 
 interface Fields {
   Title: Field<string>;
-  Excerpt: Field<string>;
+  Excerpt: RichTextField;
   Content: RichTextField;
   Thumbnail: ImageField;
   BackgroundImage: ImageField;
