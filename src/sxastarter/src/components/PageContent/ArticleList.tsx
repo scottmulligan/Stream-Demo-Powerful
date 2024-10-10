@@ -14,7 +14,7 @@ import { useI18n } from 'next-localization';
 
 interface Fields {
   Title: Field<string>;
-  Excerpt: Field<string>;
+  Excerpt: RichTextField;
   Content: RichTextField;
   Thumbnail: ImageField;
   BackgroundImage: ImageField;
