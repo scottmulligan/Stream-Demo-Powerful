@@ -1,0 +1,17 @@
+﻿---
+ID: "e6e36bc6-5bd4-4d45-9efa-6610583a4079"
+Parent: "4656a729-2a92-40a8-a625-0904eb69fa9b"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/powerful/Personal/Borrowing/Credit cards
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70194f97-8ef6-4493-94ee-7028f7b5039c"
