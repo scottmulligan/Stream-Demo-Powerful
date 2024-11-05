@@ -1,0 +1,17 @@
+﻿---
+ID: "952c8d53-2886-41a0-9520-fa691fc4abee"
+Parent: "1a63ebcb-7c50-4394-846c-7af73fab7bf4"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/powerful/Business/International banking
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19d0e59b-899d-4443-8de3-13f17a504ac6"

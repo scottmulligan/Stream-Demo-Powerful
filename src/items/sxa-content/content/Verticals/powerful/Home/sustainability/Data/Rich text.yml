@@ -1,0 +1,65 @@
+﻿---
+ID: "23cb27e2-0e17-4087-81cb-cb4a18a2fe97"
+Parent: "8d6cfb18-6ea8-44ba-8145-eb49c8c00196"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/Verticals/powerful/Home/sustainability/Data/Rich text
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <h2>Our Commitment to Sustainability</h2>
+        <p>At <strong>POWERFUL</strong>, sustainability is not just a goal—it’s at the core of everything we do. From our ingredients to our packaging, we prioritize eco-friendly practices that reduce our environmental impact. We believe in protecting the planet while empowering people to live healthier lives.</p>
+        
+        <h2>Eco-Friendly Packaging</h2>
+        <p>We’re proud to use 100% recyclable and biodegradable packaging for all our products. This commitment minimizes waste and reduces our carbon footprint, ensuring that every POWERFUL product supports both you and the environment.</p>
+        
+        <h2>Ethical Ingredient Sourcing</h2>
+        <p>Our ingredients come from certified organic farms that prioritize sustainability and ethical labor practices. By supporting responsible farming, we ensure that our products not only fuel your body but also contribute to healthier ecosystems.</p>
+        
+        <h2>Reducing Our Carbon Footprint</h2>
+        <p>POWERFUL is constantly working to lower our greenhouse gas emissions. We invest in energy-efficient operations and transportation, making every step of our production and distribution process more sustainable. Our goal is to achieve carbon neutrality in the near future.</p>
+        
+        <h2>Supporting a Circular Economy</h2>
+        <p>We believe in reducing, reusing, and recycling. By integrating circular economy principles, we work to keep materials in use for as long as possible, reducing waste and promoting the reuse of resources across all stages of our production.</p>
+        
+        <h2>Empowering a Greener Future</h2>
+        <p>Our sustainability efforts extend beyond our products. We partner with environmental organizations and support initiatives that aim to restore natural habitats, clean up oceans, and fight climate change. Together, we’re creating a healthier future for both people and the planet.</p>
+        
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "83aafdf1-219a-40c6-90f6-be871cad4047"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content">
+        <h2>Contactez-nous</h2>
+        <p><strong>Support téléphonique - </strong>Appelez-nous au 1-800-123-4567. Nos représentants du service client sont disponibles du lundi au vendredi, de 8h à 20h heure locale.</p>
+        <p><strong>Support par email - </strong>Envoyez-nous un email à support@financewebsite.com, et nous vous répondrons sous 24 heures.</p>
+        <p><strong>Centre d'aide - </strong>Visitez notre Centre d'aide pour une liste complète d'articles et de guides couvrant un large éventail de sujets. Utilisez la barre de recherche pour trouver rapidement l'information dont vous avez besoin.</p>
+        <p><strong>Réseaux sociaux - </strong>Connectez-vous avec nous sur nos réseaux sociaux pour des mises à jour, des conseils et un support direct. Suivez-nous sur Twitter, Facebook et LinkedIn.</p>
+        
+        <h2>Assistance pour les comptes</h2>
+        <p><strong>Q : Comment puis-je réinitialiser mon mot de passe ?</strong><br /><strong>A :</strong> Pour réinitialiser votre mot de passe, cliquez sur le lien "Mot de passe oublié" sur la page de connexion. Suivez les instructions pour recevoir un lien de réinitialisation de mot de passe par email. Si vous rencontrez des problèmes, veuillez contacter notre équipe de support pour obtenir de l'aide supplémentaire.</p>
+        <p><strong>Q : Comment puis-je mettre à jour mes informations personnelles ?</strong><br /><strong>A :</strong> Connectez-vous à votre compte et accédez à la section "Paramètres du compte". Ici, vous pouvez mettre à jour vos informations personnelles, y compris votre adresse email, numéro de téléphone et adresse postale. Si vous avez besoin d'aide supplémentaire, notre équipe de support est là pour vous assister.</p>
+        
+        <h2>Support technique</h2>
+        <p><strong>Q : Que dois-je faire si je rencontre des problèmes techniques avec le site web ?</strong><br /><strong>A :</strong> Si vous rencontrez des problèmes techniques, veuillez vider le cache et les cookies de votre navigateur, puis essayez d'accéder au site à nouveau. Si le problème persiste, contactez notre équipe de support technique avec les détails du problème et les messages d'erreur que vous avez reçus.</p>
+        <p><strong>Q : Comment puis-je optimiser mon expérience sur le site web ?</strong><br /><strong>A :</strong> Pour une expérience optimale, assurez-vous d'utiliser la dernière version de votre navigateur web. Notre site web est optimisé pour une utilisation avec des navigateurs modernes tels que Chrome, Firefox, Safari et Edge. Si vous continuez à rencontrer des problèmes, veuillez contacter notre équipe de support.</p>
+        
+        <h2>Sécurité et fraude</h2>
+        <p><strong>Q : Comment assurez-vous la sécurité de mon compte ?</strong><br /><strong>A :</strong> Nous employons des mesures de sécurité avancées, y compris le cryptage, l'authentification à plusieurs facteurs et une surveillance continue pour protéger votre compte. Pour plus de détails, visitez notre section "Sécurité".</p>
+        <p><strong>Q : Quelles mesures dois-je prendre si je soupçonne une fraude ?</strong><br /><strong>A :</strong> Contactez immédiatement notre équipe de support contre la fraude si vous soupçonnez une activité frauduleuse sur votre compte. Nous travaillerons avec vous pour sécuriser votre compte et enquêter sur l'incident.</p>
+        
+        <p>Nous nous engageons à vous fournir le meilleur support possible. N'hésitez pas à nous contacter – nous sommes là pour vous aider à naviguer dans votre parcours financier avec confiance.</p>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "38771c64-9ccb-4b2f-abfe-64d2630317fb"

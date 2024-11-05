@@ -1,0 +1,32 @@
+﻿---
+ID: "abbe0549-21df-4ecc-8e38-5b03d7792206"
+Parent: "f99fa367-bf27-4efa-8b2e-124963f68b7c"
+Template: "2dc7a13e-6753-47ef-805a-1cde39012eec"
+Path: "/sitecore/content/Verticals/powerful/Home/get-a-loan/Data/Questions 1/Question 2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "929c2e41-a12d-4b77-93ee-949f83787c7e"
+    - ID: "93ba0221-aa2a-4a04-b8f6-39c2ab65c694"
+      Hint: Question
+      Value: "Do you require collateral for loans?"
+    - ID: "ef205dfd-6af2-4514-b694-77efa748f951"
+      Hint: Answer
+      Value: Collateral requirements vary depending on the type of loan. Some loans, such as secured loans, may require collateral such as a vehicle or property.
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40e5fd5e-f7de-4a58-9da8-410a46f07190"
+    - ID: "93ba0221-aa2a-4a04-b8f6-39c2ab65c694"
+      Hint: Question
+      Value: "Demandez-vous des garanties pour les prêts ?"
+    - ID: "ef205dfd-6af2-4514-b694-77efa748f951"
+      Hint: Answer
+      Value: Les exigences en matière de garanties varient en fonction du type de prêt. Certains prêts, comme les prêts garantis, peuvent nécessiter des garanties telles qu'un véhicule ou une propriété.

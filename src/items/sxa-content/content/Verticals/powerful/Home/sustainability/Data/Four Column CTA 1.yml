@@ -1,0 +1,117 @@
+﻿---
+ID: "5247777b-5ea1-428d-b4b6-9c720ccd0351"
+Parent: "8d6cfb18-6ea8-44ba-8145-eb49c8c00196"
+Template: "1b694ef9-154d-429a-9c3f-d7774cd4a852"
+Path: /sitecore/content/Verticals/powerful/Home/sustainability/Data/Four Column CTA 1
+SharedFields:
+- ID: "23f621dd-d403-49df-93f6-391a1757feb3"
+  Hint: Image4
+  Value: |
+    <image mediaid="D4E2041F-293E-4CEE-8363-5EEF185D25B0" />
+- ID: "84c2cd69-b897-4e4a-a336-66d3222fe1b5"
+  Hint: Image1
+  Value: |
+    <image mediaid="{778FC848-59FC-4782-BFB6-49A761B8B421}" />
+- ID: "954a7e15-cdad-4e9c-8949-ab0ee63200c6"
+  Hint: Image3
+  Value: |
+    <image mediaid="{BFB56AF4-3147-4BAE-9FDF-6D9B95F9D228}" />
+- ID: "a98fc4bc-b088-4296-aa32-fba35f964ebd"
+  Hint: Image2
+  Value: |
+    <image mediaid="{F99E88A6-1CD5-46BF-A034-9A6E9892A8D3}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "07f3e30f-8075-4c1b-912e-e27fffeda904"
+      Hint: Text1
+      Value: Our packaging is 100% recyclable and biodegradable.
+    - ID: "256528b0-4d93-44a1-85c9-0cd544091a3f"
+      Hint: Text4
+      Value: Everything is based on transparency, starting with our supply chain data.
+    - ID: "34f50b54-e781-493a-85c0-8e9af1969d64"
+      Hint: Title3
+      Value: Our Impact
+    - ID: "4e62adbe-4082-45fe-9e77-66ef0945fb18"
+      Hint: Title4
+      Value: Transparent Data
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b6e051e-e4b9-4aa1-b186-51074348c851"
+    - ID: "8f23bb30-a050-47b3-bc66-6ca478213eef"
+      Hint: Text3
+      Value: Stats on how POWERFUL has reduced its carbon footprint.
+    - ID: "94e8b735-889e-44f3-a980-c7c8143bae19"
+      Hint: Title2
+      Value: Ethical Sourcing
+    - ID: "b1b9e108-7c50-4a04-8e7a-37f30c6a784c"
+      Hint: Link3
+      Value: |
+        <link class="" querystring="" id="{77B5B72F-8674-4313-B074-B8A2BC9EFEBC}" anchor="" target="" title="" linktype="internal" text="" url="/Verticals/Financial" />
+    - ID: "b2befdd5-351d-4c5e-85fd-2402e3ff96bf"
+      Hint: Link1
+      Value: |
+        <link class="" querystring="" id="{77B5B72F-8674-4313-B074-B8A2BC9EFEBC}" anchor="" target="" title="" linktype="internal" text="" url="/Verticals/Financial" />
+    - ID: "ba2af883-e3bb-43cf-8c97-ab5c97edc09d"
+      Hint: Link4
+      Value: |
+        <link class="" querystring="" id="{77B5B72F-8674-4313-B074-B8A2BC9EFEBC}" anchor="" target="" title="" linktype="internal" text="" url="/Verticals/Financial" />
+    - ID: "be5597c5-a55d-4a6a-bf53-7fe1a7bf4bdc"
+      Hint: Title1
+      Value: "Eco-Friendly Packaging"
+    - ID: "c24d6ca7-49ab-4f08-9dae-e5a844d79139"
+      Hint: Text2
+      Value: We work with organic farms to source the best ingredients.
+    - ID: "df548755-6a31-445f-bb84-c704698d6048"
+      Hint: Link2
+      Value: |
+        <link class="" querystring="" id="{77B5B72F-8674-4313-B074-B8A2BC9EFEBC}" anchor="" target="" title="" linktype="internal" text="" url="/Verticals/Financial" />
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "07f3e30f-8075-4c1b-912e-e27fffeda904"
+      Hint: Text1
+      Value: Nous vous contacterons.
+    - ID: "256528b0-4d93-44a1-85c9-0cd544091a3f"
+      Hint: Text4
+      Value: 0700 11 333 / *2375
+    - ID: "34f50b54-e781-493a-85c0-8e9af1969d64"
+      Hint: Title3
+      Value: Commentaires
+    - ID: "4e62adbe-4082-45fe-9e77-66ef0945fb18"
+      Hint: Title4
+      Value: "Appelez-nous"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c2ffc1b4-a2cb-4af4-86a5-082b898442e1"
+    - ID: "8f23bb30-a050-47b3-bc66-6ca478213eef"
+      Hint: Text3
+      Value: Pour évaluation et recommandation
+    - ID: "94e8b735-889e-44f3-a980-c7c8143bae19"
+      Hint: Title2
+      Value: Trouvez une succursale
+    - ID: "b1b9e108-7c50-4a04-8e7a-37f30c6a784c"
+      Hint: Link3
+      Value: |
+        <link querystring="sc_lang=en&amp;sc_site=Financial" id="{E5C7F793-2E22-425D-9305-70C7D36950BE}" anchor="" target="" title="" linktype="internal" text="Accueil" url="/Verticals/Financial/Home" />
+    - ID: "b2befdd5-351d-4c5e-85fd-2402e3ff96bf"
+      Hint: Link1
+      Value: |
+        <link querystring="sc_lang=en&amp;sc_site=Financial" id="{E5C7F793-2E22-425D-9305-70C7D36950BE}" anchor="" target="" title="" linktype="internal" text="Accueil" url="/Verticals/Financial/Home" />
+    - ID: "ba2af883-e3bb-43cf-8c97-ab5c97edc09d"
+      Hint: Link4
+      Value: |
+        <link querystring="sc_lang=en&amp;sc_site=Financial" id="{E5C7F793-2E22-425D-9305-70C7D36950BE}" anchor="" target="" title="" linktype="internal" text="Accueil" url="/Verticals/Financial/Home" />
+    - ID: "be5597c5-a55d-4a6a-bf53-7fe1a7bf4bdc"
+      Hint: Title1
+      Value: Service à la clientèle
+    - ID: "c24d6ca7-49ab-4f08-9dae-e5a844d79139"
+      Hint: Text2
+      Value: Explorez notre réseau d'agences et de distributeurs automatiques (DAB).
+    - ID: "df548755-6a31-445f-bb84-c704698d6048"
+      Hint: Link2
+      Value: |
+        <link querystring="sc_lang=en&amp;sc_site=Financial" id="{E5C7F793-2E22-425D-9305-70C7D36950BE}" anchor="" target="" title="" linktype="internal" text="Accueil" url="/Verticals/Financial/Home" />

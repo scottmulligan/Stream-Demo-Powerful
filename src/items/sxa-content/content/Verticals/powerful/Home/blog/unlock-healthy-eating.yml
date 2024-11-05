@@ -1,0 +1,167 @@
+﻿---
+ID: "d6b8a0d9-ba4c-414d-9cf2-ff16d76bfadb"
+Parent: "85f128bc-a2f6-42a2-bedc-aa885b770bac"
+Template: "f83ccefd-fc41-4a60-9882-8f7ea5cf41a8"
+Path: "/sitecore/content/Verticals/powerful/Home/blog/unlock-healthy-eating"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{63CC4D0D-63F1-4BFB-BF63-7EC9D231AFA8}"
+- ID: "ad26114f-29dd-4ef9-b5bf-1d64d558872d"
+  Hint: BackgroundImage
+  Value: |
+    <image mediaid="{DA37360F-43E0-41B9-AA06-F1A2A909E9CA}" alt="Blurred background image - fountain pen on notebook" height="" width="" hspace="" vspace="" />
+- ID: "ba2b872d-f67d-40dc-be41-6366b7030144"
+  Hint: Thumbnail
+  Value: |
+    <image mediaid="{A6AF9C9C-9671-47CA-888F-FA540C7CF2DD}" alt="Mobile finance app" height="" width="" hspace="" vspace="" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{1333C7A2-2A6C-4310-AE74-8D5DE936F8B3}"
+          s:ds="A4CDF271-3F8A-4510-AFEC-513A92FCD33C" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Unlock Healthy Eating with the New Powerful Mobile App
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "03117268-f84f-4fd8-ad9e-5990b3a21fe6"
+      Hint: Content
+      Value: |
+        <p>In today&rsquo;s fast-paced world, sticking to healthy eating can be a challenge. At Powerful, we&rsquo;re excited to introduce a solution designed to make nutritious choices simple and accessible&mdash;our brand-new mobile app! Whether you're tracking your daily meals, exploring new recipes, or setting personal health goals, the Powerful app is your go-to tool for all things healthy living.</p>
+        <p><a href="https://example.com" rel="noopener noreferrer" target="_blank" title="Opens in new window"><img src="-/media/FEAF65D3394846DAB95213780D61AADA.ashx?h=45&amp;w=149" alt="Download MOBILE! Finance from the App Store" style="height: 45px; width: 149px;" /></a>&nbsp;&nbsp;&nbsp;<a href="https://example.com" rel="noopener noreferrer" target="_blank" title="Opens in new window"><img src="-/media/DCDCD7A8F8DA4110BA4FD19FEFFD1465.ashx?h=45&amp;w=151" alt="Google Play" style="height: 45px; width: 151px;" /></a></p>
+        <h2><strong>Key Features of the <em>Powerful</em> Mobile App</strong></h2>
+        <h3>1. Custom Nutrition Tracking</h3>
+        <p>No more guesswork! Our app allows you to easily log your meals and track calories, macronutrients, and micronutrients. Personalized recommendations based on your goals (whether it's weight loss, muscle gain, or simply maintaining a balanced diet) make it easier to stay on track. The app syncs seamlessly with other fitness apps, giving you a comprehensive overview of your nutrition and activity.</p>
+        <h3>2. Healthy Recipes at Your Fingertips</h3>
+        <p>Looking for inspiration? Browse our library of delicious, nutrient-packed recipes designed to fuel your body and taste buds. Each recipe comes with step-by-step instructions and customizable options based on your dietary preferences&mdash;whether you&rsquo;re vegan, paleo, or simply looking for high-protein meals. Filter by meal type, ingredients, or nutrition goals to find the perfect recipe anytime, anywhere.</p>
+        <h3>3. Meal Planning Made Simple</h3>
+        <p>With our built-in meal planner, you can create weekly meal plans tailored to your lifestyle and nutritional needs. Get grocery lists automatically generated from your planned meals, saving you time and effort. With the <em>Powerful</em> app, sticking to your healthy eating goals is as easy as planning ahead.</p>
+        <h3>4. Goal Setting and Progress Tracking</h3>
+        <p>Set personalized health goals and track your progress over time. Whether it's reducing sugar intake, increasing protein consumption, or simply eating more whole foods, the <em>Powerful</em> app keeps you accountable. Weekly summaries and insights offer a detailed breakdown of your eating habits, helping you make better choices moving forward.</p>
+        <h3>5. Exclusive Deals and Product Information</h3>
+        <p>Get access to exclusive discounts on <em>Powerful</em> products and be the first to know about new product launches. The app also provides in-depth information about our range of high-protein snacks, shakes, and meals, ensuring you always have the best options to fuel your healthy lifestyle.</p>
+        <h2>Why Choose the <em>Powerful</em> App?</h2>
+        <p>At <em>Powerful</em>, we&rsquo;re passionate about making healthy eating not just accessible but enjoyable. Our app is designed to meet you where you are on your health journey&mdash;whether you&rsquo;re a busy professional, a fitness enthusiast, or someone just starting their wellness adventure. The app&rsquo;s user-friendly interface and robust features empower you to take control of your nutrition, without the hassle.</p>
+        <h2>Download the <em>Powerful</em> App Today!</h2>
+        <p>Ready to transform your healthy eating habits? The <em>Powerful</em> mobile app is available for download on both iOS and Android platforms. Get started today and experience the convenience of having your personal health coach right in your pocket.</p>
+        <p><strong>Join the Powerful community and take the first step towards better nutrition, smarter choices, and a healthier you!</strong></p>
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5B04434D-4A62-4847-A71D-B303BB4F7FA8}"
+              p:after="*[1=2]"
+              s:ds="0ff4d8d7-0fae-40dc-8c58-a3b23f88303a"
+              s:id="{1A375FAC-6CC1-4A5A-A159-9BC6DBC66B80}"
+              s:pt="personalizationTest"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B49F0CFD6-EF47-4AD3-B011-3622D1AB250D%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-article-content/background-page-content-0-1">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{FA10B9C2-D497-46D8-A17A-6473256C34B9}"
+                    s:name="5b04434d4a624847a71db303bb4f7fa8_e061d33319d64f5581f5154a9375aaf3">
+                    <conditions>
+                      <condition
+                        uid="BB1A12EB3C2E4969908AB53FEEF16829"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="5b04434d4a624847a71db303bb4f7fa8_e061d33319d64f5581f5154a9375aaf3" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{24672251-2E63-44C1-AC81-156181D3A187}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="b665a7fe-5abb-429d-bed9-d6278b31ab51" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="18843E3ECABC4292BEE6912EB051568A"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+          </d>
+        </r>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{13D6CCE7-A6C3-4EE1-A1D9-8A8E34225ED7}"
+    - ID: "3e700dce-26eb-4bf0-990f-9d9fe555990d"
+      Hint: Excerpt
+      Value: "Say hello to effortless healthy eating! With the Powerful mobile app, tracking nutrition, finding recipes, and staying on top of your wellness goals has never been easier. Here’s how our app will transform your approach to healthy living."
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Introducing MOBILE! Finance"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0f59f72a-864d-42d8-9ca5-a1ec86adbc31"
+    - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
+      Hint: Title
+      Value: Unlock Healthy Eating with the New Powerful Mobile App
+- Language: "fr-CA"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "On vous présente MOBILE! Finance"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03117268-f84f-4fd8-ad9e-5990b3a21fe6"
+      Hint: Content
+      Value: |
+        <p><strong>La puissance de MOBILE! Finance</strong></p>
+        <p>MOBILE! Finance est bien plus qu'une simple application financière&mdash;c'est votre compagnon financier ultime, offrant une suite complète de fonctionnalités et d'outils pour vous aider à prendre le contrôle de vos finances avec facilité et confiance. Que vous suiviez vos dépenses, économisiez pour un objectif ou planifiiez votre retraite, MOBILE! Finance a tout ce dont vous avez besoin pour réussir.</p>
+        <p><a href="https://example.com" rel="noopener noreferrer" target="_blank" title="Ouvre dans une nouvelle fenêtre"><img src="-/media/FEAF65D3394846DAB95213780D61AADA.ashx?h=45&amp;w=149" alt="Télécharger MOBILE! Finance depuis l'App Store" style="height: 45px; width: 149px;" /></a>&nbsp;&nbsp;&nbsp;<a href="https://example.com" rel="noopener noreferrer" target="_blank" title="Ouvre dans une nouvelle fenêtre"><img src="-/media/DCDCD7A8F8DA4110BA4FD19FEFFD1465.ashx?h=45&amp;w=151" alt="Google Play" style="height: 45px; width: 151px;" /></a></p>
+        <p><strong><br />
+        Fonctionnalités principales</strong></p>
+        <ul>
+            <li><strong><em>Budget personnalisé</em></strong> : Créez des budgets personnalisés adaptés à votre situation financière unique et suivez vos dépenses en temps réel.</li>
+            <li><strong><em>Épargne basée sur les objectifs</em></strong> : Fixez des objectifs d'épargne pour toutes vos aspirations financières, d'un voyage de rêve à un acompte sur une maison, et suivez vos progrès sans effort.</li>
+            <li><strong><em>Investissement intelligent</em></strong> : Accédez à une gamme d'options et d'outils d'investissement pour vous aider à accroître votre patrimoine et atteindre vos objectifs financiers à long terme.</li>
+            <li><strong><em>Gestion des factures</em></strong> : Ne manquez plus jamais un paiement de facture avec des rappels automatiques et des fonctionnalités de planification des paiements.</li>
+            <li><strong><em>Sécurité et confidentialité</em></strong> : Soyez assuré que vos informations financières sensibles sont protégées par des mesures de sécurité et des protocoles de cryptage de pointe.</li>
+        </ul>
+        <p><strong>Pourquoi choisir MOBILE! Finance?</strong></p>
+        <p>En tant que partie intégrante de la plateforme de banque en ligne de confiance, MOBILE! Finance offre une intégration transparente avec vos comptes bancaires existants, vous offrant une vue d'ensemble de vos finances en un seul endroit pratique. De plus, avec notre interface conviviale et notre design intuitif, gérer votre argent n'a jamais été aussi facile et agréable.</p>
+        <p><strong>Commencez dès aujourd'hui</strong></p>
+        <p>Prêt à prendre le contrôle de vos finances et à débloquer votre potentiel financier? Téléchargez dès maintenant l'application MOBILE! Finance et rejoignez des milliers d'utilisateurs satisfaits qui profitent déjà des avantages de la banque moderne avec PLAY! Finance.</p>
+    - ID: "3e700dce-26eb-4bf0-990f-9d9fe555990d"
+      Hint: Excerpt
+      Value: "Nous sommes ravis de vous présenter MOBILE! Finance, une nouvelle application financière révolutionnaire conçue pour transformer votre façon de gérer vos finances et vos opérations bancaires."
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "On vous présente MOBILE! Finance"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d8c6bde-20fb-4bc3-b8bf-f57ad82a4ac2"
+    - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
+      Hint: Title
+      Value: "On vous présente MOBILE! Finance : Votre nouvelle application de compagnon financier"

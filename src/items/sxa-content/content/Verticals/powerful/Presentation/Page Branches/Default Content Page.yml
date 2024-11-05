@@ -1,0 +1,92 @@
+﻿---
+ID: "8c7c50d4-779e-442c-8c4c-3269d028bd7c"
+Parent: "051add6e-05aa-4ccc-ac1d-ce78c14a17b1"
+Template: "fbc802e5-4b9e-480f-93da-3f2a80cae5cb"
+Path: /sitecore/content/Verticals/powerful/Presentation/Page Branches/Default Content Page
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "bb3391dd-f8be-4b2e-ae9f-47bb63c166ce"
+  Hint: Rule
+  Value: |
+    <ruleset>
+      <rule
+        uid="{8C8DE469-540C-4410-B109-583B8951B468}">
+        <conditions>
+          <and
+            uid="F5CEC1E956A1482C90CA6ED0B7A33622">
+            <condition
+              id="{7D5DA661-BEF9-441C-B1F7-D80DE3E0972F}"
+              uid="2DEC1D095877488B92952D70064537E4"
+              itemid="{E5C7F793-2E22-425D-9305-70C7D36950BE}" />
+            <and
+              uid="391E23DE4F9640119366D39536A697D9">
+              <condition
+                id="{7D5DA661-BEF9-441C-B1F7-D80DE3E0972F}"
+                uid="1A54C42B142C478197BD59BD2F74F038"
+                except="true"
+                itemid="{5B8A0B63-C095-4FCF-BC85-0D4EC31B07BD}" />
+              <and
+                uid="492C9A417DA0486283034F6AFB0970C2">
+                <condition
+                  id="{7D5DA661-BEF9-441C-B1F7-D80DE3E0972F}"
+                  uid="5E0B6418E58A400EAC85B8A58F5423CD"
+                  except="true"
+                  itemid="{C20C4721-6206-4DEA-8063-39302065C2B5}" />
+                <and
+                  uid="FBE8FAE465074812932B210ED5437846">
+                  <condition
+                    id="{7D5DA661-BEF9-441C-B1F7-D80DE3E0972F}"
+                    uid="241C42921F804BDF9E7373544A79E9FB"
+                    except="true"
+                    itemid="{679B6CBB-C371-453E-91DB-D8BF8C7A21FF}" />
+                  <and
+                    uid="C8B8E46987DB4410967CC564F850B38B">
+                    <condition
+                      id="{7D5DA661-BEF9-441C-B1F7-D80DE3E0972F}"
+                      uid="F4E576622445425E954ED733A3E407AB"
+                      except="true"
+                      itemid="{85F128BC-A2F6-42A2-BEDC-AA885B770BAC}" />
+                    <and
+                      uid="64FB1AF142CC48B9A6A7378917055988">
+                      <condition
+                        id="{7D5DA661-BEF9-441C-B1F7-D80DE3E0972F}"
+                        uid="96B170E9A8424F21A2EE397E6B597E9E"
+                        except="true"
+                        itemid="{8C5E8B08-BF39-49DD-8E87-6D2543FC7803}" />
+                      <condition
+                        id="{24E8928E-4EB7-44B2-AF62-1893F8715918}"
+                        uid="C150DF43134E4E649561E64253AB9258"
+                        except="true"
+                        itemid="{6970938A-6777-4EDE-8707-7F1C1E499FFA}" />
+                    </and>
+                  </and>
+                </and>
+              </and>
+            </and>
+          </and>
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="5756E57FF81043F28781CB0228669C48"
+            PageBranchId="{18C808B9-661E-43D9-ACC3-AA32973B454D}" />
+        </actions>
+      </rule>
+    </ruleset>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b7f6b7cb-36b7-4eab-83a7-78947b863028"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "60cabec3-704b-47d7-b15d-2129724d14a9"

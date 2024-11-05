@@ -1,0 +1,13 @@
+﻿---
+ID: "f6c7a043-301d-46f7-ae46-0dbdd3741e8f"
+Parent: "da12ad18-3d7b-48c2-bbef-e345caf621d4"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: "/sitecore/content/Verticals/powerful/Home/blog/unlock-healthy-eating/Data/Promo CTA 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ae765f00-4486-4fb6-8350-75cec100c7a6"

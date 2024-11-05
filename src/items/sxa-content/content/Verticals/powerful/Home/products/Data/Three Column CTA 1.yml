@@ -1,0 +1,93 @@
+﻿---
+ID: "ecca52e0-b973-4765-aa7d-42c8df13e8e6"
+Parent: "0a609d8b-b6f2-4667-b915-f9953ff030f8"
+Template: "148d07ba-f923-4fb2-8907-0bd440d5db44"
+Path: /sitecore/content/Verticals/powerful/Home/products/Data/Three Column CTA 1
+SharedFields:
+- ID: "39b3d592-0895-4f30-9c17-454b171f0b2e"
+  Hint: Image3
+  Value: |
+    <image mediaid="{77BA2569-2267-43DB-8A9B-6399B0C2192B}" />
+- ID: "39fe4fb3-3794-4b9a-a584-ff877e93e33b"
+  Hint: Image2
+  Value: |
+    <image mediaid="{94D302D1-2BDC-404C-B40C-08AF6ED79CC6}" />
+- ID: "c511247c-fec1-4690-81d6-ce791da18d4a"
+  Hint: Image1
+  Value: |
+    <image mediaid="{12E2EF7F-7A47-4610-810E-203EA7E3BC8F}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a10d09c-166b-464e-99cb-4401b527f3f2"
+      Hint: Link2
+      Value: |
+        <link class="" id="{C94369C9-E768-4F6A-9A8E-304CE92F60D2}" querystring="" anchor="" target="" title="" linktype="internal" text="Learn more" url="/Verticals/Financial/Home/products/granola-and-snacks" />
+    - ID: "2731b4d6-b866-466a-9731-5161788d662b"
+      Hint: SubText2
+      Value: "Snack smarter with our clean granola and on-the-go bites."
+    - ID: "277e3acc-b359-4c11-88b9-4016574419dc"
+      Hint: Link3
+      Value: |
+        <link class="" id="{088FA65D-BE8F-497F-BB40-0ED9783EF042}" querystring="" anchor="" target="" title="" linktype="internal" text="Learn more" url="/Verticals/Financial/Home/products/natural-energy-drinks" />
+    - ID: "34f6d379-9a96-4cb8-839f-0d224a4f6db1"
+      Hint: Text2
+      Value: Granola & Snacks
+    - ID: "4c50be2f-021e-4846-abb0-50feb2df5eed"
+      Hint: SubText1
+      Value: "Nutrient-packed for sustained energy."
+    - ID: "5264d7eb-64cd-4203-98e5-a4d0380f57e6"
+      Hint: Text1
+      Value: Power Bars
+    - ID: "5eb6058f-3f45-4dd4-8153-8c74390859f4"
+      Hint: Text3
+      Value: Natural Energy Drinks
+    - ID: "63e1abec-67cb-4aea-ab72-8b5b60b69473"
+      Hint: Link1
+      Value: |
+        <link class="" id="{E6BF81A2-2195-4139-B7F5-FF640FFFE185}" querystring="" anchor="" target="" title="" linktype="internal" text="Learn more" url="/Verticals/Financial/Home/products/power-bars" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c1772ab1-2e61-48d6-a393-cc5435c51ac2"
+    - ID: "a3a36b2d-a20b-4344-9f1d-ad867cb99aa4"
+      Hint: SubText3
+      Value: Match your energy to your lifestyle.
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a10d09c-166b-464e-99cb-4401b527f3f2"
+      Hint: Link2
+      Value: |
+        <link class="" id="C94369C9-E768-4F6A-9A8E-304CE92F60D2" querystring="" anchor="" target="" title="" linktype="internal" text="Commencez" url="/Verticals/Financial/Home/products/granola-and-snacks" />
+    - ID: "2731b4d6-b866-466a-9731-5161788d662b"
+      Hint: SubText2
+      Value: Recevez et effectuez des paiements internationaux depuis plus de 70 pays.
+    - ID: "277e3acc-b359-4c11-88b9-4016574419dc"
+      Hint: Link3
+      Value: |
+        <link class="" id="088FA65D-BE8F-497F-BB40-0ED9783EF042" querystring="" anchor="" target="" title="" linktype="internal" text="Commencez" url="/Verticals/Financial/Home/products/natural-energy-drinks" />
+    - ID: "34f6d379-9a96-4cb8-839f-0d224a4f6db1"
+      Hint: Text2
+      Value: Services bancaires internationaux
+    - ID: "4c50be2f-021e-4846-abb0-50feb2df5eed"
+      Hint: SubText1
+      Value: Des prêts qui ont du sens pour votre petite entreprise.
+    - ID: "5264d7eb-64cd-4203-98e5-a4d0380f57e6"
+      Hint: Text1
+      Value: Prêts pour petites encreprises
+    - ID: "5eb6058f-3f45-4dd4-8153-8c74390859f4"
+      Hint: Text3
+      Value: Gestion des employés
+    - ID: "63e1abec-67cb-4aea-ab72-8b5b60b69473"
+      Hint: Link1
+      Value: |
+        <link class="" id="E6BF81A2-2195-4139-B7F5-FF640FFFE185" querystring="" anchor="" target="" title="" linktype="internal" text="Commencez" url="/Verticals/Financial/Home/products/power-bars" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0f12e8c0-033f-44ba-8b02-93ca8a90a9ae"
+    - ID: "a3a36b2d-a20b-4344-9f1d-ad867cb99aa4"
+      Hint: SubText3
+      Value: "Simplifiez la paie et concentrez-vous sur la réussite de votre entreprise."

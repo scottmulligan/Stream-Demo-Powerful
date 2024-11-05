@@ -1,0 +1,58 @@
+﻿---
+ID: "021d86d7-c398-40e9-b574-23521770cf46"
+Parent: "90f1353a-e9f8-4a4f-bd46-783d365df994"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/Verticals/powerful/Home/about/Data/Rich text
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <p>We create energy bars packed with high-quality ingredients to fuel performance. Whether you’re an athlete, a parent, or an adventurer, POWERFUL has your back.</p>
+        <h2>Our Story</h2>
+        <p>A detailed story about Sarah Jensen and Marcus Lee, the brand&rsquo;s humble beginnings, and their journey from college athletes to health-conscious entrepreneurs.</p>
+        <h2>Our Mission</h2>
+        <p>&ldquo;We are on a mission to fuel your life with clean, wholesome energy so you can pursue your passion, push your limits, and perform at your best.&rdquo;</p>
+        <h2>Our Values</h2>
+        <ul>
+            <li>Performance</li>
+            <li>Sustainability</li>
+            <li>Innovation</li>
+            <li>Inclusion</li>
+        </ul>
+        <h2>Timeline</h2>
+        <ul>
+            <li><strong>2012</strong>: POWERFUL is born.</li>
+            <li><strong>2015</strong>: POWERFUL becomes a key player in the clean eating movement.</li>
+            <li><strong>2020</strong>: Launch of keto and vegan lines.</li>
+            <li><strong>2024</strong>: Expanding into international markets and continuing to innovate.</li>
+        </ul>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d29cb4a7-51ec-4f49-9e0c-1ca033133add"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <p>Chez PLAY! Finance, nous croyons que gérer vos finances devrait être aussi agréable qu'essentiel. Nous ne sommes pas seulement une banque; nous sommes votre partenaire financier, engagé à rendre l'expérience bancaire fluide et gratifiante.</p>
+        
+        <h2>Notre mission</h2>
+        <p>Notre mission est de donner à nos clients les moyens d'atteindre leurs objectifs et leurs rêves financiers en offrant des solutions bancaires innovantes et un service personnalisé. Nous nous efforçons de créer une expérience bancaire simple, pratique et agréable, vous permettant de vous concentrer sur ce qui compte le plus : vivre votre meilleure vie.</p>
+        
+        <h2>Qui nous sommes</h2>
+        <p>PLAY! Finance est une institution financière dynamique et avant-gardiste dédiée à réinventer la banque pour le monde moderne. Nous combinons une technologie de pointe avec une touche humaine pour offrir des solutions financières adaptées aux besoins uniques de notre clientèle diversifiée.</p>
+        
+        <h2>Ce qui nous distingue</h2>
+        <p>Chez PLAY! Finance, nous comprenons qu'une approche unique ne convient pas à tous en matière de banque. C'est pourquoi nous proposons une large gamme de produits et de services conçus pour répondre aux besoins des individus, des familles et des entreprises de toutes tailles. Que vous épargniez pour des vacances de rêve, achetiez votre première maison ou développiez votre entreprise, nous avons les outils et l'expertise pour vous aider à réussir.</p>
+        
+        <h2>Notre engagement envers vous</h2>
+        <p>Au cœur de PLAY! Finance se trouve un engagement à mettre nos clients en premier. Nous croyons en la transparence, l'intégrité et la responsabilité dans tout ce que nous faisons. Notre équipe de professionnels bancaires expérimentés est dédiée à fournir un service et des conseils exceptionnels à chaque étape, vous assurant le soutien nécessaire pour prendre des décisions financières éclairées.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f06afd93-edb7-41eb-b5a9-5a0de53bb3cb"

@@ -1,0 +1,55 @@
+﻿---
+ID: "a8ab97f6-14ad-4421-b9e8-6bd1519023e0"
+Parent: "0b2a5c7f-d17b-4dde-8972-e0acaf5b03db"
+Template: "bbcccd48-218c-4f19-a1d4-bb3dbf1f4d89"
+Path: "/sitecore/content/Verticals/powerful/Data/Promos/App Promos/App Promo - Business"
+SharedFields:
+- ID: "23fec4a6-1e53-4d30-8bb4-1a08632f3545"
+  Hint: Image
+  Value: |
+    <image mediaid="{36FF4B07-C34B-46AB-AE17-983BBCEA7F99}" alt="Hand holding mobile phone" height="" width="" hspace="" vspace="" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "19611527-1e31-4490-8042-482e61e3ce84"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><p>Introducing your new companion for everyday help with healthy eating.</p><div class="container"><div class="row row-gap-3"><div class="col-sm"><img src="-/media/30D834B274534C3683CD39A278B3FE4C.ashx?h=46&amp;w=150" alt="" width="150" height="46" /></div><div class="col-sm"><a href="http://www.sitecore.com" target="_blank" rel="noopener noreferrer"><img src="-/media/DCDCD7A8F8DA4110BA4FD19FEFFD1465.ashx?h=46&amp;w=150" alt="Google Play" width="150" height="46" /></a></div><div class="col-sm"><a href="http://www.sitecore.com" target="_blank" rel="noopener noreferrer"><img src="-/media/3FB814AFD8E846FF9BFD4312B2213EC4.ashx?h=44&amp;w=150" alt="" width="150" height="44" /></a></div></div></div></div>
+    - ID: "1f0455dc-9254-4487-b94d-6c66f103e7bf"
+      Hint: Title
+      Value: Say hello to healthy eating with our mobile application
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e07d2cbf-ee2f-42fa-a357-4a8b28cfc8af"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19611527-1e31-4490-8042-482e61e3ce84"
+      Hint: Text
+      Value: |
+        <p>Voici votre nouveau compagnon financier pour vous aider au quotidien avec la paie, les paiements internationaux et les op&eacute;rations bancaires courantes de votre entreprise.</p>
+        <div class="container">
+        <div class="row  row-gap-3">
+        <div class="col-sm">
+        <a rel="noopener noreferrer" href="http://www.sitecore.com" target="_blank"><img alt="" src="-/media/FEAF65D3394846DAB95213780D61AADA.ashx?h=46&amp;w=150" style="height: 46px; width: 150px;" /></a></div>
+        <div class="col-sm">
+        <a rel="noopener noreferrer" href="http://www.sitecore.com" target="_blank"><img alt="Google Play" src="-/media/DCDCD7A8F8DA4110BA4FD19FEFFD1465.ashx?h=46&amp;w=150" style="height: 46px; width: 150px;" /></a></div>
+        <div class="col-sm">
+        <a rel="noopener noreferrer" href="http://www.sitecore.com" target="_blank"><img alt="" src="-/media/3FB814AFD8E846FF9BFD4312B2213EC4.ashx?h=44&amp;w=150" style="height: 44px; width: 150px;" /></a></div>
+        </div>
+        </div>
+    - ID: "1f0455dc-9254-4487-b94d-6c66f103e7bf"
+      Hint: Title
+      Value: "Gérer votre entreprise est un travail de tous les instants - nous sommes là pour vous."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "413f9b23-5718-468a-bbce-861696e66973"

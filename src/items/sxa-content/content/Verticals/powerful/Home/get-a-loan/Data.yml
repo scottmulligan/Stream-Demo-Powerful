@@ -1,0 +1,20 @@
+﻿---
+ID: "43429773-8613-42de-a9f8-01fe7b4f70f9"
+Parent: "5bf475bc-e6a2-427a-8ebe-e3ad8a6b929b"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/powerful/Home/get-a-loan/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "465f3027-d332-4062-89ba-ef73bbbf9240"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d4e25c44-b5b9-4d29-bc4a-e25b3ef64c68"

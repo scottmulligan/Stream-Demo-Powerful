@@ -1,0 +1,28 @@
+﻿---
+ID: "83eba97f-bbf3-492f-9aa5-5a2b65f6e744"
+Parent: "63e78c5b-feb1-4a3e-86d3-a8e5bfaf262c"
+Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
+Path: /sitecore/content/Verticals/powerful/Presentation/Page Branches/Personal Content Page/Content Page
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/32x32/logviewer.png
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{F376C3B7-2D02-4C46-BFD2-1683BE6BF6DF}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c6d74061-bb82-4949-b442-74744eda7e44"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5d011aab-c694-4955-894a-5bb9cab0f7c1"

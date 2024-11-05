@@ -11,7 +11,7 @@ SharedFields:
 - ID: "ba2b872d-f67d-40dc-be41-6366b7030144"
   Hint: Thumbnail
   Value: |
-    <image mediaid="{32909CAB-5F82-4428-A428-DF531E7776DD}" alt="Market report" height="" width="" hspace="" vspace="" />
+    <image mediaid="{A2826AC5-C2DF-428E-B562-72E6F5EF3054}" alt="Colorful huts on a beach" height="" width="" hspace="" vspace="" />
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 300
@@ -49,10 +49,10 @@ Languages:
         <p>In consequat, libero sed viverra placerat, metus lectus accumsan velit, a suscipit elit dui sit amet justo. Fusce vitae purus vel justo aliquam hendrerit. Integer pretium mi vel ex convallis, vel dignissim ex finibus.</p>
     - ID: "3e700dce-26eb-4bf0-990f-9d9fe555990d"
       Hint: Excerpt
-      Value: Discover the keys to financial literacy with expert insights on budgeting, saving, investing, and retirement planning. Uncover practical tips and strategies to take control of your finances and build a secure future for you and your family.
+      Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "68fb3b2f-9da3-4b79-ae2b-c36b78b98f5d"
+      Value: "d6ea4e11-8b5d-4f6d-84c5-97db7eed81c1"
     - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
       Hint: Title
       Value: $name

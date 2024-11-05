@@ -1,0 +1,20 @@
+﻿---
+ID: "1fcf0fa4-1324-489b-8b04-65fdec700840"
+Parent: "5eb148bb-35f0-4f09-8c14-89221a2ea61e"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/powerful/Home/personal/everyday-banking/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "35c71183-8f69-4f58-955a-5042cf07c3c6"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f548452-7d04-47a8-be73-0bea72237110"

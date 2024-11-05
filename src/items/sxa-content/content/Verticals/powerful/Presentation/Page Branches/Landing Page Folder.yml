@@ -1,0 +1,34 @@
+﻿---
+ID: "58e536cc-9ce4-4f1f-be2b-067f28ab1864"
+Parent: "051add6e-05aa-4ccc-ac1d-ce78c14a17b1"
+Template: "fbc802e5-4b9e-480f-93da-3f2a80cae5cb"
+Path: /sitecore/content/Verticals/powerful/Presentation/Page Branches/Landing Page Folder
+SharedFields:
+- ID: "bb3391dd-f8be-4b2e-ae9f-47bb63c166ce"
+  Hint: Rule
+  Value: |
+    <ruleset>
+      <rule
+        uid="{5687B689-3AE7-4488-B2B2-99E5F0911060}">
+        <conditions>
+          <condition
+            id="{7D5DA661-BEF9-441C-B1F7-D80DE3E0972F}"
+            uid="D8CA5322C8EE4403B093C7979CB908EC"
+            itemid="{6970938A-6777-4EDE-8707-7F1C1E499FFA}" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="BC4E2135875B46088395E3D4FA3D97FB"
+            PageBranchId="{C6D7D12B-A82D-400D-8977-863ED045BF9B}" />
+        </actions>
+      </rule>
+    </ruleset>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b2d3e625-19ca-4524-9187-fcf3a70ec00b"

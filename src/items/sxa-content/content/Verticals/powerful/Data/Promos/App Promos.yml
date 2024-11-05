@@ -1,0 +1,20 @@
+﻿---
+ID: "0b2a5c7f-d17b-4dde-8972-e0acaf5b03db"
+Parent: "215ad522-8417-46ab-a5f6-12b3ce16422d"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/Verticals/powerful/Data/Promos/App Promos
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "079d8d75-a2f3-490d-bfd2-a1f2d4bf44ad"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dcbde4d5-507a-4045-8da6-e8930ef7f40e"

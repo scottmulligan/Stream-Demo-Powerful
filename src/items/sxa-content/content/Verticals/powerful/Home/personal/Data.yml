@@ -1,0 +1,24 @@
+﻿---
+ID: "9ed86825-dc23-4a87-8d71-629bdcd68d09"
+Parent: "5b8a0b63-c095-4fcf-bc85-0d4ec31b07bd"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Verticals/powerful/Home/personal/Data
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "350ced96-3f9b-450d-9755-92727e68d2ce"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "02e8b59a-d4b3-486c-8bf9-9f95eb606ee5"

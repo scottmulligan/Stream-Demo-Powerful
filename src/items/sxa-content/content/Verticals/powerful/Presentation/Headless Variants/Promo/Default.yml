@@ -1,0 +1,25 @@
+﻿---
+ID: "0fda379f-6ec0-4a63-8c03-26421b2cf528"
+Parent: "4f78199b-f4d6-499e-82a4-b2c0c9157825"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Verticals/powerful/Presentation/Headless Variants/Promo/Default
+BranchID: "37229eac-e94c-4507-b543-6cb1f31294e4"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{C8F0AA39-7D5A-4BD2-9452-C21B3BFED25D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "283553d1-a8aa-434e-88c2-b9903394fc97"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "90072d92-32d2-4f4e-95b1-5d178b68a95a"

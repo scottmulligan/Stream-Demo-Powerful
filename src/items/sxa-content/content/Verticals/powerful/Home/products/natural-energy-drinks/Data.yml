@@ -1,0 +1,25 @@
+﻿---
+ID: "2e631dea-b319-4cc5-bc10-08b70957440d"
+Parent: "088fa65d-be8f-497f-bb40-0ed9783ef042"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/powerful/Home/products/natural-energy-drinks/Data"
+BranchID: "e6952b59-41b9-4f19-a6a8-e995ea78df57"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D030377C-FA27-4EE8-93B8-2454B79C95DF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca28e347-7bbf-446f-91b2-59fbb1efbc33"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "47efe86a-3b5d-4ab1-aa7e-17eba9e6c57d"

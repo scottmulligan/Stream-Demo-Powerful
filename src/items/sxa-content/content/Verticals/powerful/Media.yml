@@ -1,0 +1,30 @@
+﻿---
+ID: "02aa3966-7928-411b-8bef-24abb792b795"
+Parent: "77b5b72f-8674-4313-b074-b8a2bc9efebc"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: /sitecore/content/Verticals/powerful/Media
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
+  Hint: AdditionalChildren
+  Value: |
+    {E6CAD5D2-B16C-4CC9-AF38-B0DC501E4236}
+    {0471133E-2103-481B-BE54-16612D58B5C2}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A7F39EA2-9018-4622-891D-CB65627E5AF2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a8e6c78e-f5c4-4c5c-94b5-db5acaf28836"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97dcb026-8e50-4f46-859e-54fabcc73c6f"

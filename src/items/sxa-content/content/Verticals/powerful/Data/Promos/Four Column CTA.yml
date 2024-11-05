@@ -1,0 +1,20 @@
+﻿---
+ID: "4b3f31e6-f178-4dd3-a906-3541b1ce2b82"
+Parent: "215ad522-8417-46ab-a5f6-12b3ce16422d"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: /sitecore/content/Verticals/powerful/Data/Promos/Four Column CTA
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "99357c5a-7989-4e21-82b0-a51d04009fe2"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1ad6111-38d5-4d8e-8fa0-f95df3fb9ad7"

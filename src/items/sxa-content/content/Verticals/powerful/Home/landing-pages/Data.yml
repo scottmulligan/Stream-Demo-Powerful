@@ -1,0 +1,18 @@
+﻿---
+ID: "94638f14-b5e4-4f51-a2d7-778e917f61b1"
+Parent: "6970938a-6777-4ede-8707-7f1c1e499ffa"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/powerful/Home/landing-pages/Data"
+BranchID: "5914dab5-7831-494e-ac68-b9e3a207a42f"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{82254C44-B91C-4847-9DCA-0CB5964D6566}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c74ca6af-9a9a-405b-a57a-c929f79c4ce1"

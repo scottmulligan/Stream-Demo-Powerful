@@ -1,0 +1,20 @@
+﻿---
+ID: "f38a69d1-59d1-49ad-afef-1bd9afc3c36a"
+Parent: "6278483b-2b10-4489-908d-0554720530ea"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/powerful/Home/blog/discover-the-power-behind-powerful/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b0db69b7-9d73-4336-823c-c1ea3cc7604d"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cb1beeb7-f135-479e-ba59-4eea42f97a6d"

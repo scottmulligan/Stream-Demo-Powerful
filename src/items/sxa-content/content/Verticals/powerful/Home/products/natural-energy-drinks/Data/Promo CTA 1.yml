@@ -1,0 +1,40 @@
+﻿---
+ID: "90afcf77-22c7-4c51-8b22-e00e06b7fa5f"
+Parent: "2e631dea-b319-4cc5-bc10-08b70957440d"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: "/sitecore/content/Verticals/powerful/Home/products/natural-energy-drinks/Data/Promo CTA 1"
+SharedFields:
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="{01FF8554-B3BD-4316-B45B-3D35063E85BD}" alt="Man typing on a laptop" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Effective employee management to nurture your talent
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "62e8960c-df65-44b0-ab0f-3fda9694db69"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: "<p>Supercharge your workforce with our comprehensive employee management strategies, designed to foster engagement, productivity, and long-term success.</p>"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Gestion efficace des employés pour cultiver vos talents
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bd3b7951-6e48-435b-9a76-ab7dd651005a"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>Boostez votre effectif avec nos stratégies complètes de gestion des employés, conçues pour favoriser l'engagement, la productivité et le succès à long terme.</p>

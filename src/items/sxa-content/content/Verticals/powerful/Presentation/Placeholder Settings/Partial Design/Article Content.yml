@@ -1,0 +1,24 @@
+﻿---
+ID: "1ad70f7c-1882-4ba2-be3b-8ef3dd14a9af"
+Parent: "156af066-b6f0-4635-b166-5750159bfd2a"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/content/Verticals/powerful/Presentation/Placeholder Settings/Partial Design/Article Content
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-article-content"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "86155538-e47f-4335-acab-898e3e7cfce4"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01391ed3-9555-45f5-a56f-93a4047cd789"

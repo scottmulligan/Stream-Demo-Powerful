@@ -1,0 +1,24 @@
+﻿---
+ID: "c65b2ed5-877b-4d96-9db6-eaad21bf2b89"
+Parent: "1dd137d2-21be-4e8c-95b1-198690357e36"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Verticals/powerful/Data/Button Styles/Main
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/button.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df199761-9bd0-4961-9c01-eba86b3b300e"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3c6bce44-554f-4ec9-ac0d-eb8c1b8c1e82"

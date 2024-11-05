@@ -1,0 +1,40 @@
+﻿---
+ID: "fac99e0d-93e4-4870-9535-d0b75c5daca3"
+Parent: "9ed86825-dc23-4a87-8d71-629bdcd68d09"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: /sitecore/content/Verticals/powerful/Home/personal/Data/Promo CTA 2_var2
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 275
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="829432F9-DE58-4DEC-9FFF-9C084F59A055" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Personalized banking solutions for modern needs
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50cde069-628e-4875-a81c-1a92c4c48777"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: "<p>No more cookie-cutter banking experiences – we offer tailored services designed to fit your unique needs.</p>"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Solutions bancaires personnalisées pour les besoins modernes
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ca49010-18fb-4fdc-a301-eecdeee20373"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>Fini les expériences bancaires standardisées – nous offrons des services sur mesure conçus pour répondre à vos besoins uniques.</p>

@@ -1,0 +1,13 @@
+﻿---
+ID: "3d6ef993-9239-4c1c-bc3b-56b366f98286"
+Parent: "e6cad5d2-b16c-4cc9-af38-b0dc501e4236"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/powerful/Powerful
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "13f2c2d7-6132-4a39-a4c7-ee80d139cf47"

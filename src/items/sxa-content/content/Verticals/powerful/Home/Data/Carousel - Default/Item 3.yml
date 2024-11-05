@@ -1,0 +1,45 @@
+﻿---
+ID: "08dfd076-4b7d-4303-9c40-6f7483d70d6c"
+Parent: "1ffd97d2-70c8-424d-94b9-246f76ea6c8d"
+Template: "54db209d-cd0f-49d9-ae4e-ecb65d72cc4d"
+Path: "/sitecore/content/Verticals/powerful/Home/Data/Carousel - Default/Item 3"
+SharedFields:
+- ID: "ba78a3c0-7c60-40ba-8d42-6bf559d9ca72"
+  Hint: Image
+  Value: |
+    <image mediaid="{FEB09FB6-01BB-4DAC-A56A-F009C4FE84B1}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Clean Energy, Anytime
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link class="" querystring="" id="{E29D4305-5388-4D26-B43D-DC20D10DE0ED}" anchor="" target="" title="" linktype="internal" text="Read more" url="/Verticals/Financial/Home/personal/borrowing" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c0689bb4-26d1-4a99-8b03-723b0cd2805e"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: "<p>Grab a POWERFUL snack and stay energized wherever life takes you—with clean, all-natural ingredients that fuel your day.</p>"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Emprunter intelligemment pour un avenir solide
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link class="" id="{E29D4305-5388-4D26-B43D-DC20D10DE0ED}" querystring="" anchor="" target="" title="" linktype="internal" text="Faites votre demande" url="/Verticals/Financial/Home/personal/borrowing" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "805eac99-50a1-4898-8066-622cb0809b27"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Faites en sorte que chaque décision d'emprunt compte en privilégiant des pratiques responsables et en sécurisant votre avenir financier.</p>

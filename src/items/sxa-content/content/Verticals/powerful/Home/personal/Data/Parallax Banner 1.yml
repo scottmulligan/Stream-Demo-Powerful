@@ -1,0 +1,60 @@
+﻿---
+ID: "06dacdc8-989e-40a1-a29b-56067dca6b02"
+Parent: "9ed86825-dc23-4a87-8d71-629bdcd68d09"
+Template: "28b7f396-dc4a-4116-8c93-3b7909cbeb0e"
+Path: /sitecore/content/Verticals/powerful/Home/personal/Data/Parallax Banner 1
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "143cb4dc-b0b5-46ae-98b1-b16900ec79f6"
+      Hint: Text
+      Value: Whether you're saving for a major life event, planning for retirement, or simply looking to build a robust financial cushion, our expert advisors are here to guide you every step of the way.
+    - ID: "1fbdde82-0dd2-46ad-a636-0d5e714dd086"
+      Hint: ForegroundImage
+      Value: |
+        <image mediaid="{E021183A-7821-48E5-A1D2-29564D5A9496}" alt="Plant on counter" height="" width="" hspace="" vspace="" />
+    - ID: "5ba03d3f-ffbc-412e-80ff-6dd0fe312042"
+      Hint: Link
+      Value: |
+        <link text="Learn more" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{85F128BC-A2F6-42A2-BEDC-AA885B770BAC}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17e97b54-8d3d-452f-9ba1-33abe0578d35"
+    - ID: "a54476a3-eb25-4a1a-a521-e702f1372b8f"
+      Hint: BackgroundImage
+      Value: |
+        <image mediaid="{45AF598A-11A1-4294-8ABA-9DC8AF475659}" alt="Background texture" height="" width="" hspace="" vspace="" />
+    - ID: "f34c6976-7e76-490b-a91e-5977db4a2208"
+      Hint: Title
+      Value: "Grow your savings with us!"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "143cb4dc-b0b5-46ae-98b1-b16900ec79f6"
+      Hint: Text
+      Value: Que vous économisiez pour un événement majeur de la vie
+    - ID: "1fbdde82-0dd2-46ad-a636-0d5e714dd086"
+      Hint: ForegroundImage
+      Value: |
+        <image mediaid="{E021183A-7821-48E5-A1D2-29564D5A9496}" alt="Plante sur comptoir" height="" width="" hspace="" vspace="" />
+    - ID: "5ba03d3f-ffbc-412e-80ff-6dd0fe312042"
+      Hint: Link
+      Value: |
+        <link text="En savoir plus" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{85F128BC-A2F6-42A2-BEDC-AA885B770BAC}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d18bd4f-5b7f-4857-a85e-7b25a604cf8f"
+    - ID: "a54476a3-eb25-4a1a-a521-e702f1372b8f"
+      Hint: BackgroundImage
+      Value: |
+        <image mediaid="{45AF598A-11A1-4294-8ABA-9DC8AF475659}" alt="Background texture" height="" width="" hspace="" vspace="" />
+    - ID: "f34c6976-7e76-490b-a91e-5977db4a2208"
+      Hint: Title
+      Value: banque au quotidien

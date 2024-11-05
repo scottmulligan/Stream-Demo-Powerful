@@ -1,0 +1,20 @@
+﻿---
+ID: "190678dd-7e52-4dce-8f0b-3e367d2c786a"
+Parent: "43314bd4-1935-4238-83d2-5af5ded7d8b1"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: /sitecore/content/Verticals/powerful/Data/Navigation Filters
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b44e210f-cb65-49fe-8f23-48ecef6f5500"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f6e73f1b-9ed7-4a35-9c46-1056f912e0c5"

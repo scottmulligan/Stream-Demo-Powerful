@@ -1,0 +1,108 @@
+﻿---
+ID: "5c15349c-3c95-4409-a07b-74f1c010530e"
+Parent: "6970938a-6777-4ede-8707-7f1c1e499ffa"
+Template: "1226c3c7-2d1f-48f5-87b4-c1da459f05e5"
+Path: "/sitecore/content/Verticals/powerful/Home/landing-pages/Fruitful Product Launch"
+BranchID: "c6f9a204-044e-4aa8-8c15-11fd3882f475"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DBC9D6FF-8DEA-4CB6-8D66-C4D9255B5BA4}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{E9B6C600-C6E8-4867-BCB7-8B0DC5F19840}"
+- ID: "df6dc0ca-f8ee-493a-a920-f2b710f08452"
+  Hint: BackgroundImage
+  Value: |
+    <image mediaid="11CF5252-0F55-45F6-9668-70D65DA32DCC" alt="test" height="" width="" hspace="" vspace="" />
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EFEEEA98-3ADD-4241-B7DB-7E0B61AA5009}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{776D80EC-B5AF-45EF-AF16-157CE8909AC6}"
+              p:before="*"
+              s:ds="A8AB97F6-14AD-4421-B9E8-6BD1519023E0"
+              s:id="{F9905F68-21E8-4C6F-8B89-56BB99020D31}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="headless-main" />
+            <r
+              uid="{1FA10770-95D6-4DC6-B791-0238A954047F}"
+              p:after="r[@uid='{776D80EC-B5AF-45EF-AF16-157CE8909AC6}']"
+              s:ds="local:/Data/Rich Text"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B30F0134F-9B3D-485D-8925-3DF75D041D7D%7D&amp;Styles=%7B3095075E-F1C0-4CEB-9CAF-2258775A026F%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/sxa-page-content/landing-page-content-0-1" />
+            <r
+              uid="{97422285-3647-4510-979C-C51DE633D953}"
+              p:after="*[1=2]"
+              s:id="{DDC43BE7-D77A-4CE3-9282-03DD036EEC6D}"
+              s:pt="personalizationTest"
+              s:par="ComponentName=SitecoreForm%3FformId%3D283430210f8f41589ff36c824a92117c-euw&amp;ComponentProps&amp;ComponentLabel=Fruitful%20product%20launch&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/sxa-page-content/landing-page-content-0-1">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{E32D6C62-0D27-4B4C-A7E0-D496D9051BE5}"
+                    s:name="9742228536474510979cc51de633d953_fb2ac10101794fcda62fe42857ed204e">
+                    <conditions>
+                      <condition
+                        uid="BEDFA21F21A8427F92B61979A213CC37"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="9742228536474510979cc51de633d953_fb2ac10101794fcda62fe42857ed204e" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{2011142B-52D1-48BC-918F-9F6A15856BC7}"
+                        s:id="{7B578B65-BD2F-4C7C-9A24-DAE3E98B4F23}"
+                        s:RenderingItem="ddc43be7-d77a-4ce3-9282-03dd036eec6d" />
+                      <action
+                        uid="{E1057AA0-4C47-4784-A3C9-350697B17EB1}"
+                        s:id="{525C7B5A-8FD2-4B99-89F6-4F3F6D23BB02}"
+                        s:Parameters="ComponentName=SitecoreForm%3FformId%3Decd48d4399914bccbefd685ddd0137e8-euw&amp;ComponentLabel=Fruitful%20product%20launch%20Short" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="5D4F77E860BE46BA91C9E1A7CF980E18"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+          </d>
+        </r>
+    - ID: "247be607-394a-4bf2-8c8a-509b07025dd9"
+      Hint: Title
+      Value: Fruitful Product Launch
+    - ID: "3d30539f-d403-496a-a512-ac885b1a2f8b"
+      Hint: Content
+      Value: <p>Lorem ipsum dolor sit amet</p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{171CCFD4-8543-428E-9A9B-8E6557E63B6D}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Fruitful Product Launch
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "160dd077-3723-4599-9554-346565b94fd6"

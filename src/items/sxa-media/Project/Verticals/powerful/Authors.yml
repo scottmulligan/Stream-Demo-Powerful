@@ -1,0 +1,17 @@
+﻿---
+ID: "7dc6a616-f3b5-4bc0-82ac-0f691f016e8c"
+Parent: "e6cad5d2-b16c-4cc9-af38-b0dc501e4236"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/powerful/Authors
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f48c67c1-bea8-4cc3-ba4e-21216d511e7a"

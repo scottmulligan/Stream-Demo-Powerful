@@ -1,0 +1,67 @@
+﻿---
+ID: "5590de39-9758-490a-b588-585b558588e2"
+Parent: "8b8d24a2-324b-4c0b-be84-9ee8a792f6c9"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: /sitecore/content/Verticals/powerful/Home/Data/Fuel Your Ambition
+SharedFields:
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="{6BC1CB38-20FF-4160-8C96-704040909A2A}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Fuel Your Ambition
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Fuel Your Ambition
+    - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
+      Hint: Eyebrow
+      Value: Power Through Your Day
+    - ID: "32f3e9b1-c441-4285-a063-0897453f37e2"
+      Hint: Link2
+      Value: 
+    - ID: "507ba267-78fc-42f1-ac96-a1cb769b6de6"
+      Hint: Link
+      Value: |
+        <link class="" id="{61D5AB1E-6AC5-4D45-8C55-5850C4A45A7B}" querystring="" anchor="" target="" title="" linktype="internal" text="Read more" url="/Verticals/Financial/Home/blog/closing-the-wealth-gap" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ca91a09-aad9-4292-b8ac-a1168783c628"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: Whether you’re hitting the gym or tackling a busy schedule, POWERFUL has the nutrition you need. Our clean energy bars and granola are crafted with natural ingredients to give you the boost to stay energized and perform at your best—anytime, anywhere.
+    - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
+      Hint: Subtitle
+      Value: 
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Réduire l'écart de richesse
+    - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
+      Hint: Eyebrow
+      Value: 
+    - ID: "32f3e9b1-c441-4285-a063-0897453f37e2"
+      Hint: Link2
+      Value: 
+    - ID: "507ba267-78fc-42f1-ac96-a1cb769b6de6"
+      Hint: Link
+      Value: |
+        <link class="" querystring="" id="{61D5AB1E-6AC5-4D45-8C55-5850C4A45A7B}" anchor="" target="" title="" linktype="internal" text="En savoir plus" url="/Verticals/Financial/Home/blog/closing-the-wealth-gap" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5e9cb44b-67d8-4b8d-8c7c-40f2deca36c7"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: Des conseils pratiques pour créer des voies équitables de croissance des revenues.
+    - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
+      Hint: Subtitle
+      Value: 

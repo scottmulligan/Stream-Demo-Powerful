@@ -1,0 +1,16 @@
+﻿---
+ID: "527a11e8-6eb9-4c2c-88bf-fa623a1d31f1"
+Parent: "ae920d6c-1766-434e-b534-e83f6cf684da"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/Verticals/powerful/Presentation/Page Branches/Landing Page Folder/Landing Page/$name/Data/Rich Text
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: "<p>We’re excited to announce the launch of Fruitful Fresh Juices, a new line of premium, 100% natural fruit juices crafted to bring the essence of nature right to your glass. Made from the finest, sun-ripened fruits, each bottle is packed with pure, refreshing flavor and essential nutrients to fuel your day. With no added sugars or artificial ingredients, Fruitful Fresh Juices offer a healthier choice without compromising on taste. </p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a214743c-c1d6-4330-baed-3d0eca1ac911"

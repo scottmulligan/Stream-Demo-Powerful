@@ -1,0 +1,17 @@
+﻿---
+ID: "e11efff6-f306-4788-b518-546e0a4a779e"
+Parent: "9420e80c-1490-4ef9-8d56-47b5b09adeba"
+Template: "0da7aa52-0c24-4721-9b6c-f6d8d9faaaa0"
+Path: /sitecore/content/Verticals/powerful/Presentation/Partial Designs/Header/Data/Header
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0bf1334e-9153-4310-89f7-3cd8c5bbf927"
+      Hint: LogoImage
+      Value: |
+        <image mediaid="{814D68BB-7D1F-4A72-BBFE-E24155059DEB}" alt="Logo" height="" width="" hspace="" vspace="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9e471f65-cbd5-4382-bfd9-191c815a21e5"

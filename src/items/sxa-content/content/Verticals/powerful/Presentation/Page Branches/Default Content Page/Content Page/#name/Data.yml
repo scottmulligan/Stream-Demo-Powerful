@@ -1,0 +1,20 @@
+﻿---
+ID: "82254c44-b91c-4847-9dca-0cb5964d6566"
+Parent: "49dfa58e-a22f-4b69-9bf1-ae7f852904e7"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Verticals/powerful/Presentation/Page Branches/Default Content Page/Content Page/$name/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c486adb2-e78e-43a2-a862-af7e39b812e8"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f548452-7d04-47a8-be73-0bea72237110"

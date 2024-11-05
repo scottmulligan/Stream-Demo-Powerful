@@ -1,0 +1,20 @@
+﻿---
+ID: "e1c09c84-0fbf-4f14-af01-aa9751e22f21"
+Parent: "af2d7cef-daf8-4e53-9a72-0e9438198fa2"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Verticals/powerful/Presentation/Headless Variants/Article List/ThreeColumn
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8d90919b-c1c5-45cc-aa31-389ac069539b"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ce852bb-7441-4bcc-9a20-4c91bf15f9ca"

@@ -1,0 +1,13 @@
+﻿---
+ID: "d8f270b5-9094-4f26-965b-6344c3791be5"
+Parent: "f38a69d1-59d1-49ad-afef-1bd9afc3c36a"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: "/sitecore/content/Verticals/powerful/Home/blog/discover-the-power-behind-powerful/Data/Promo CTA 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "872dda07-f7da-49c1-9026-3a1c7a7da54a"

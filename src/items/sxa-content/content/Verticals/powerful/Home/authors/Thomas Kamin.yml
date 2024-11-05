@@ -1,0 +1,64 @@
+﻿---
+ID: "77766843-8d72-4d1f-ba52-bf83b49747ef"
+Parent: "8c5e8b08-bf39-49dd-8e87-6d2543fc7803"
+Template: "aad350f5-9331-4d71-a942-e3643653c028"
+Path: /sitecore/content/Verticals/powerful/Home/authors/Thomas Kamin
+SharedFields:
+- ID: "2404bb97-b42a-439a-be76-de66213cb281"
+  Hint: BackgroundImage
+  Value: |
+    <image mediaid="{D40D276F-CE03-4209-A088-0BF10912AE47}" alt="Author Paper" height="" width="" hspace="" vspace="" />
+- ID: "6be59cd8-74bd-4c67-b611-e81e140679b4"
+  Hint: Photo
+  Value: |
+    <image mediaid="{298E2C5A-38AD-47FE-923A-7654E68E2ABD}" alt="Thomas Author Bio" height="" width="" hspace="" vspace="" />
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{E9B6C600-C6E8-4867-BCB7-8B0DC5F19840}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{171CCFD4-8543-428E-9A9B-8E6557E63B6D}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Thomas Kamin
+    - ID: "524c9c82-80d5-4d65-b7e3-4dd0e365b762"
+      Hint: Position
+      Value: Founder and Product Lead
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a9266f4a-55e1-40d8-8c8a-2913ed9f1d1a"
+    - ID: "97b19c3f-9341-48ac-be54-22e1caaa1d48"
+      Hint: Bio
+      Value: |
+        <div class="ck-content"><p>With over two decades of experience in finance and accounting, Thomas leads our investment team with precision and expertise. His strategic vision and keen analytical skills drive our financial planning and decision-making processes, ensuring that PLAY! Finance remains financially strong and resilient in today's dynamic market.</p></div>
+    - ID: "996749ca-6a47-463d-a759-7db65676f179"
+      Hint: Name
+      Value: Thomas Kamin
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "524c9c82-80d5-4d65-b7e3-4dd0e365b762"
+      Hint: Position
+      Value: Directeur des investissements
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1219706e-8b90-48a4-bdb0-fb076eab513e"
+    - ID: "97b19c3f-9341-48ac-be54-22e1caaa1d48"
+      Hint: Bio
+      Value: |
+        <div class="ck-content"><p>Avec plus de deux décennies d'expérience en finance et en comptabilité, Thomas dirige notre équipe d'investissement avec précision et expertise. Sa vision stratégique et ses compétences analytiques pointues guident nos processus de planification financière et de prise de décision, garantissant que PLAY! Finance reste financièrement solide et résilient dans le marché dynamique d'aujourd'hui.</p></div>
+    - ID: "996749ca-6a47-463d-a759-7db65676f179"
+      Hint: Name
+      Value: Thomas Kamin

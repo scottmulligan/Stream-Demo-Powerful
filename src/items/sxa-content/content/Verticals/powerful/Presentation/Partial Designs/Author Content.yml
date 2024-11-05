@@ -1,0 +1,49 @@
+﻿---
+ID: "8cb0c2e4-d321-4337-a14a-0b3bc3f8d61b"
+Parent: "37448eda-251c-4942-8a2c-097101101261"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/Verticals/powerful/Presentation/Partial Designs/Author Content
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "author-content"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{2ACB2C15-D0FB-44B8-8D09-C60D12BBA13D}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F59395FE-244D-4421-84E9-B681C40B8633}"
+          p:before="*"
+          s:id="{F7BB574A-E5C1-4475-A07E-0EBF590CC50E}"
+          s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{4E94E9C6-404D-4A6D-B2C9-8228624577AC}"
+          p:after="*[1=2]"
+          s:id="{613A1798-71DD-4A5C-A183-A3BAB92289C4}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/page-navigation-0-1" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d8850732-29ff-495b-bc6f-f74777d05db0"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9255dbf3-f72a-48f4-ae60-ddfc800a1e60"

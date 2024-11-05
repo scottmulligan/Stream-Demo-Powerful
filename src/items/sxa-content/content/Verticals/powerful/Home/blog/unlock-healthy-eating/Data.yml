@@ -1,0 +1,20 @@
+﻿---
+ID: "da12ad18-3d7b-48c2-bbef-e345caf621d4"
+Parent: "d6b8a0d9-ba4c-414d-9cf2-ff16d76bfadb"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/powerful/Home/blog/unlock-healthy-eating/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "283c3e7c-816f-4a8f-af79-550c86af5238"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8a28d097-1b08-4781-81f4-3b97de965b93"

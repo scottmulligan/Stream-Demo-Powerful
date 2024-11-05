@@ -1,0 +1,24 @@
+﻿---
+ID: "71e45340-b172-4bcf-ab9c-9d843475a1f1"
+Parent: "679b6cbb-c371-453e-91db-d8bf8c7a21ff"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/powerful/Home/athletes-and-partners/Data"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d357e8e3-cb18-4193-8c8e-d851692bad82"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4d6272a6-74dc-4049-82fc-ae0fbbe77938"

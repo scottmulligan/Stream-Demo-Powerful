@@ -1,0 +1,27 @@
+﻿---
+ID: "b5cb7274-00ca-4d6b-93b3-812e917bffa1"
+Parent: "5d6d177f-5f65-49e2-a57e-bbc94c90b2de"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Verticals/powerful/Presentation/Styles/Theming/Saturated Background
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: saturated
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Value: "{1A375FAC-6CC1-4A5A-A159-9BC6DBC66B80}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ad8094b-e057-4293-9b84-e2a06dc5d906"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04446ca4-a666-4bb9-9eba-190a488a6e40"

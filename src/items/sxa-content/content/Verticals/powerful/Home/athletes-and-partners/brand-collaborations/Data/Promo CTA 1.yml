@@ -1,0 +1,40 @@
+﻿---
+ID: "f7f9feee-943f-46db-977c-5c4fe9304d2f"
+Parent: "39465ffe-8bd4-48de-9ab2-086c16f68b3a"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: "/sitecore/content/Verticals/powerful/Home/athletes-and-partners/brand-collaborations/Data/Promo CTA 1"
+SharedFields:
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="{AB780120-BC95-416E-AD8C-A7B848D067A8}" alt="Grand kid sitting on lap of grandparents" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Solving the retirement wealth mystery
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ae19a37c-7109-4021-812e-34b525273b85"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>Let us show you the secrets to building lasting wealth in retirement with our comprehensive guide. Designed to achieve financial independence and live your best retirement life.</p>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Résoudre le mystère de la richesse à la retraite
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "02abb4c2-3134-46a4-b8db-666a6cb3f5a8"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: "<p>Laissez-nous vous dévoiler les secrets pour bâtir une richesse durable à la retraite avec notre guide complet. Conçu pour atteindre l'indépendance financière et vivre la meilleure vie possible à la retraite.</p>"

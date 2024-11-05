@@ -1,0 +1,117 @@
+﻿---
+ID: "dff7a687-d8f1-45d0-8c83-79182fe14942"
+Parent: "85f128bc-a2f6-42a2-bedc-aa885b770bac"
+Template: "f83ccefd-fc41-4a60-9882-8f7ea5cf41a8"
+Path: /sitecore/content/Verticals/powerful/Home/blog/Health Is Happiness
+SharedFields:
+- ID: "9b0343a9-9f69-4e0f-a059-9215bc8fe422"
+  Hint: EntityIdentifier
+  Value: Content.HealthIsHappiness
+- ID: "ad26114f-29dd-4ef9-b5bf-1d64d558872d"
+  Hint: BackgroundImage
+  Value: |
+    <image mediaid="{DA37360F-43E0-41B9-AA06-F1A2A909E9CA}" alt="Blurred background image - fountain pen on notebook" height="" width="" hspace="" vspace="" />
+- ID: "ba2b872d-f67d-40dc-be41-6366b7030144"
+  Hint: Thumbnail
+  Value: |
+    <image dam-id="34661" thumbnailsrc="https://mtst-d-037.sitecorecontenthub-staging.cloud/api/public/content/56a9fe56dc4347da868302a8ddd9569c?v=78b9943b" src="https://mtst-d-037.sitecorecontenthub-staging.cloud/api/public/content/07e64b4d7dc6499ca42b3d7c18a345bc?v=e9fd80fa" mediaid="" dam-content-type="Image" alt="arno-smit-141735.jpg" height="2895" width="4896" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+        <r
+          ds="{CEC15C00-944C-4DE1-8699-6BBD8FECDABC}"
+          id="{9D7DE58D-9DA4-43D8-8371-3C728A582ADC}"
+          par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          ph="/headless-main/sxa-article-content/article-meta-0-1"
+          uid="{1333C7A2-2A6C-4310-AE74-8D5DE936F8B3}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Health Is Happiness
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "03117268-f84f-4fd8-ad9e-5990b3a21fe6"
+      Hint: Content
+      Value: "<p>Happiness researcher Robert Holden conducted a survey and found that 65 out of 100 people would choose happiness over health, but that both were highly valued. Fortunately, we don’t have to choose: happiness and health go hand-in-hand. As Holden stated, “There is no true health without happiness”.</p><p>There is also ample evidence that unhappiness—depression, anxiety, and stress, for example—are also linked to poorer health outcomes. These negative states, if chronic, can dampen immunity and increase inflammation in the body leading to a multitude of diseases and conditions. The principles of positive psychology can combat these negative states, further increasing the likelihood of health.</p><p>In a world that's always moving, it's easy to overlook the simple connection between health and happiness. At <i>Health Is Happiness</i>, we believe that true joy starts from within. Whether it's nourishing your body with wholesome foods, finding time to move, or practicing mindfulness, every small step you take contributes to a healthier, happier life.</p>"
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1333C7A2-2A6C-4310-AE74-8D5DE936F8B3}"
+              s:par="FieldNames&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1" />
+            <r
+              uid="{EAC64CBE-96A8-44AB-B9C8-69AECED285AE}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Promo CTA 1"
+              s:id="{1A375FAC-6CC1-4A5A-A159-9BC6DBC66B80}"
+              s:pt="personalizationTest"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B49F0CFD6-EF47-4AD3-B011-3622D1AB250D%7D&amp;Styles=%7BC25FE9D5-5B15-437E-B35F-009A5A7DC27C%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-article-content/background-page-content-0-1">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{B2B2FB21-8A77-4CF2-9D8D-A8ADF8EA0A93}"
+                    s:name="eac64cbe96a844abb9c869aeced285ae_12e9b51d9a7346ab87c098d6d43aabed">
+                    <conditions>
+                      <condition
+                        uid="9593055F643C4AEFA0F8CED775175A75"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="eac64cbe96a844abb9c869aeced285ae_12e9b51d9a7346ab87c098d6d43aabed" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{80E68FCA-3A61-4CBC-ABE6-33BFE31392C1}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="b8f702bb-50b6-4cbf-ac1a-bc1ceae0bd68" />
+                      <action
+                        uid="{3E836437-C331-4803-B3BD-0EC597CD4A83}"
+                        s:id="{525C7B5A-8FD2-4B99-89F6-4F3F6D23BB02}"
+                        s:Parameters="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B49F0CFD6-EF47-4AD3-B011-3622D1AB250D%7D&amp;Styles=%7BC25FE9D5-5B15-437E-B35F-009A5A7DC27C%7D%7C%7B499BF296-B716-41FD-93BB-ADD4F11E3920%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="C2853267E29342C4BB6076144C0F402C"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+          </d>
+        </r>
+    - ID: "3e700dce-26eb-4bf0-990f-9d9fe555990d"
+      Hint: Excerpt
+      Value: "Join us as we explore tips, insights, and stories that will inspire you to embrace wellness, balance, and joy. Because when you're healthy, happiness follows naturally. Let's embark on this journey together!"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Health Is Happiness
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "61ccbb16-f5e6-476d-b988-1a51f9071a61"
+    - ID: "e81c4912-a4d2-4466-842c-02f0b2c9dc42"
+      Hint: Title
+      Value: Health Is Happiness

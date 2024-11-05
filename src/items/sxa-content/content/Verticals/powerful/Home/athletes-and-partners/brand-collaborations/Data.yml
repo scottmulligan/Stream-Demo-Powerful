@@ -1,0 +1,25 @@
+﻿---
+ID: "39465ffe-8bd4-48de-9ab2-086c16f68b3a"
+Parent: "f840a22d-b2b9-4a30-9526-7074518cb351"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/powerful/Home/athletes-and-partners/brand-collaborations/Data"
+BranchID: "f4216084-ae14-4cbb-adf1-22292083f63c"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{795BDBBD-7DC6-454C-A4C7-859E31AF92E5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5246106e-836c-4bb9-8f5d-9afc7f42dce0"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3eaf8238-9b82-47cb-9e56-667ad3d8cbab"

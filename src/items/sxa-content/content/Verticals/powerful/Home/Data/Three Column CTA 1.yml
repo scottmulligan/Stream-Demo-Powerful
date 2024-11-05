@@ -1,0 +1,96 @@
+﻿---
+ID: "3fd3347e-72a6-48b7-aac1-b76ac6f3aec7"
+Parent: "8b8d24a2-324b-4c0b-be84-9ee8a792f6c9"
+Template: "148d07ba-f923-4fb2-8907-0bd440d5db44"
+Path: /sitecore/content/Verticals/powerful/Home/Data/Three Column CTA 1
+SharedFields:
+- ID: "39b3d592-0895-4f30-9c17-454b171f0b2e"
+  Hint: Image3
+  Value: |
+    <image mediaid="{7AF18828-5673-4397-BF0C-2ABB01852452}" />
+- ID: "39fe4fb3-3794-4b9a-a584-ff877e93e33b"
+  Hint: Image2
+  Value: |
+    <image mediaid="{7F2D67A6-F226-42D3-922D-2FA3C86D72A4}" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1300
+- ID: "c511247c-fec1-4690-81d6-ce791da18d4a"
+  Hint: Image1
+  Value: |
+    <image mediaid="{3D04876F-3159-4446-9161-57272B7B163F}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a10d09c-166b-464e-99cb-4401b527f3f2"
+      Hint: Link2
+      Value: |
+        <link class="" id="{C94369C9-E768-4F6A-9A8E-304CE92F60D2}" querystring="" anchor="" target="" title="" linktype="internal" text="Details" url="/Verticals/Financial/Home/products/granola-and-snacks" />
+    - ID: "2731b4d6-b866-466a-9731-5161788d662b"
+      Hint: SubText2
+      Value: "Enjoy a guilt-free snack packed with wholesome ingredients for a healthy crunch any time."
+    - ID: "277e3acc-b359-4c11-88b9-4016574419dc"
+      Hint: Link3
+      Value: |
+        <link class="" querystring="" id="{5EB148BB-35F0-4F09-8C14-89221A2EA61E}" anchor="" target="" title="" linktype="internal" text="Details" url="/Verticals/Financial/Home/personal/everyday-banking" />
+    - ID: "34f6d379-9a96-4cb8-839f-0d224a4f6db1"
+      Hint: Text2
+      Value: Healthful Chips
+    - ID: "4c50be2f-021e-4846-abb0-50feb2df5eed"
+      Hint: SubText1
+      Value: "Start strong with our nutrient-rich granola, crafted to power your day with clean energy."
+    - ID: "5264d7eb-64cd-4203-98e5-a4d0380f57e6"
+      Hint: Text1
+      Value: POWERFUL Granola
+    - ID: "5eb6058f-3f45-4dd4-8153-8c74390859f4"
+      Hint: Text3
+      Value: Fruitful Juice
+    - ID: "63e1abec-67cb-4aea-ab72-8b5b60b69473"
+      Hint: Link1
+      Value: |
+        <link class="" querystring="" id="{85F128BC-A2F6-42A2-BEDC-AA885B770BAC}" anchor="" target="" title="" linktype="internal" text="Details" url="/Verticals/Financial/Home/blog" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "113e88f4-0ecc-4953-8e6b-3b23cd52cbf6"
+    - ID: "a3a36b2d-a20b-4344-9f1d-ad867cb99aa4"
+      Hint: SubText3
+      Value: Bursting with natural fruit flavors, these drinks deliver a refreshing boost to fuel your active lifestyle.
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0a10d09c-166b-464e-99cb-4401b527f3f2"
+      Hint: Link2
+      Value: |
+        <link class="" querystring="" id="{C94369C9-E768-4F6A-9A8E-304CE92F60D2}" anchor="" target="" title="" linktype="internal" text="Détails" url="/Verticals/Financial/Home/products/granola-and-snacks" />
+    - ID: "2731b4d6-b866-466a-9731-5161788d662b"
+      Hint: SubText2
+      Value: Découvrez en plus sur nos services financiers internationaux.
+    - ID: "277e3acc-b359-4c11-88b9-4016574419dc"
+      Hint: Link3
+      Value: |
+        <link class="" id="{5EB148BB-35F0-4F09-8C14-89221A2EA61E}" querystring="" anchor="" target="" title="" linktype="internal" text="Détails" url="/Verticals/Financial/Home/personal/everyday-banking" />
+    - ID: "34f6d379-9a96-4cb8-839f-0d224a4f6db1"
+      Hint: Text2
+      Value: Marchés mondiaux
+    - ID: "4c50be2f-021e-4846-abb0-50feb2df5eed"
+      Hint: SubText1
+      Value: Apprenez de nos experts du secteur.
+    - ID: "5264d7eb-64cd-4203-98e5-a4d0380f57e6"
+      Hint: Text1
+      Value: Restez informé
+    - ID: "5eb6058f-3f45-4dd4-8153-8c74390859f4"
+      Hint: Text3
+      Value: Banque en ligne
+    - ID: "63e1abec-67cb-4aea-ab72-8b5b60b69473"
+      Hint: Link1
+      Value: |
+        <link class="" id="{85F128BC-A2F6-42A2-BEDC-AA885B770BAC}" querystring="" anchor="" target="" title="" linktype="internal" text="Détails" url="/Verticals/Financial/Home/blog" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d83dcf3a-45f7-4a40-9d98-76822af2f9c0"
+    - ID: "a3a36b2d-a20b-4344-9f1d-ad867cb99aa4"
+      Hint: SubText3
+      Value: Accédez à vos fonds n'importe où, n'importe quand.

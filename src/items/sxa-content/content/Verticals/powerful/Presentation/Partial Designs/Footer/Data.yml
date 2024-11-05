@@ -1,0 +1,25 @@
+﻿---
+ID: "608075bc-7103-4d44-a7a3-761cc2c0f45a"
+Parent: "55c52cb3-c5a1-4ee5-9843-c4c28661b06e"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Verticals/powerful/Presentation/Partial Designs/Footer/Data
+BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E40DAC6C-75CE-4489-A49D-9CFC58B28EC9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "45858a28-bf72-4d7c-892a-2c74d543a3be"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2dbc2c56-79b9-47ac-b5b5-8392fb014581"

@@ -1,0 +1,20 @@
+﻿---
+ID: "5267b8b7-b909-455f-8e24-0bd60154949f"
+Parent: "3aa68b44-9675-4a3c-b242-7efa2a4eeb60"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Verticals/powerful/Presentation/Headless Variants/Promo CTA/WithBackgroundImage
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "377c6adc-2477-4aaa-9fda-30e6d31892bf"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0e83e83-3fac-4138-993a-49076be2dbaf"

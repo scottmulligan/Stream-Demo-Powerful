@@ -1,0 +1,24 @@
+﻿---
+ID: "af2d7cef-daf8-4e53-9a72-0e9438198fa2"
+Parent: "30d8e3a1-75f5-4b4f-ac8d-f924b607b9fb"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/Verticals/powerful/Presentation/Headless Variants/Article List
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/32x32/Cddisks.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "33a47701-8040-4aaa-ad9f-f3ee051c6b53"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d1255f87-6bb5-490b-97c2-aa07a1b8fb90"

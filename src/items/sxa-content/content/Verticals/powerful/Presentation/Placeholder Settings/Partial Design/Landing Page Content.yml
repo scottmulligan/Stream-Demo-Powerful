@@ -1,0 +1,17 @@
+﻿---
+ID: "968b1482-8aa6-4455-bb9f-65fbdf614c9c"
+Parent: "156af066-b6f0-4635-b166-5750159bfd2a"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/content/Verticals/powerful/Presentation/Placeholder Settings/Partial Design/Landing Page Content
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-page-content"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6556aa3-b844-4fec-ad90-00533970f354"

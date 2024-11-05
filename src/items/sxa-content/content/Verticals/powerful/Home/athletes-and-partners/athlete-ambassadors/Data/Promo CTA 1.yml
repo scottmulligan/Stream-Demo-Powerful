@@ -1,0 +1,40 @@
+﻿---
+ID: "e2dc085c-cfa9-49c9-8108-04f067cac452"
+Parent: "db2b84fd-ac28-4774-b8fc-b5655819e71e"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: "/sitecore/content/Verticals/powerful/Home/athletes-and-partners/athlete-ambassadors/Data/Promo CTA 1"
+SharedFields:
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="{B19BA4A0-7320-435B-8F5F-B5EBEE04EF93}" alt="Man holding a camera in front of landscape" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: "Retirement Journey: Embrace the Possibilities"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f83d3fc-19cf-4527-939e-e06a4eab1eec"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>Discover the art of retirement with our comprehensive guide, empowering you to create a fulfilling and purposeful retirement lifestyle that reflects your values and aspirations.</p>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: "Parcours de retraite : Embrassez les possibilités"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d1dce15-8bf5-4fc7-9691-b44b92cd4b15"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>Découvrez l'art de la retraite avec notre guide complet, vous permettant de créer un style de vie de retraite épanouissant et significatif qui reflète vos valeurs et vos aspirations.</p>

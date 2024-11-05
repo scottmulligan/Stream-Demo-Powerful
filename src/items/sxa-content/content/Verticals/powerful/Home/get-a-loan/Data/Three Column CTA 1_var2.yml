@@ -1,0 +1,51 @@
+﻿---
+ID: "c4054fba-0105-4838-8716-1d9cd1297966"
+Parent: "43429773-8613-42de-a9f8-01fe7b4f70f9"
+Template: "148d07ba-f923-4fb2-8907-0bd440d5db44"
+Path: "/sitecore/content/Verticals/powerful/Home/get-a-loan/Data/Three Column CTA 1_var2"
+SharedFields:
+- ID: "39b3d592-0895-4f30-9c17-454b171f0b2e"
+  Hint: Image3
+  Value: |
+    <image mediaid="D4E2041F-293E-4CEE-8363-5EEF185D25B0" />
+- ID: "39fe4fb3-3794-4b9a-a584-ff877e93e33b"
+  Hint: Image2
+  Value: |
+    <image mediaid="12E3EFE2-5C1D-470E-B735-4042D9682D22" />
+- ID: "c511247c-fec1-4690-81d6-ce791da18d4a"
+  Hint: Image1
+  Value: |
+    <image mediaid="E08F8246-EBA1-48C5-8AF5-90D2322EF861" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "34f6d379-9a96-4cb8-839f-0d224a4f6db1"
+      Hint: Text2
+      Value: "Not matter where you are - you save valuable time"
+    - ID: "5264d7eb-64cd-4203-98e5-a4d0380f57e6"
+      Hint: Text1
+      Value: Response within 1 working day
+    - ID: "5eb6058f-3f45-4dd4-8153-8c74390859f4"
+      Hint: Text3
+      Value: Easy online signup
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3768cc14-d71d-4804-aaff-5635ef01efeb"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "34f6d379-9a96-4cb8-839f-0d224a4f6db1"
+      Hint: Text2
+      Value: "Peu importe où vous êtes - vous gagnez un temps précieux"
+    - ID: "5264d7eb-64cd-4203-98e5-a4d0380f57e6"
+      Hint: Text1
+      Value: Réponse sous 1 jour ouvrable
+    - ID: "5eb6058f-3f45-4dd4-8153-8c74390859f4"
+      Hint: Text3
+      Value: Inscription en ligne facile
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8bfe6002-433f-4d76-aa78-02a695815be7"

@@ -1,0 +1,28 @@
+﻿---
+ID: "916a4d37-3d84-44c5-9395-a6ec17c7eda4"
+Parent: "8d6cfb18-6ea8-44ba-8145-eb49c8c00196"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/Verticals/powerful/Home/sustainability/Data/Tagline
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <h2>POWERFUL <em style="color: var(--bg-accent);"> has your back.</em></h2>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f799d51d-38ba-40b2-a7aa-a8ab1be48583"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <h2>Prenez en main vos finances,<em style="color: var(--bg-accent);"> prenez en main votre vie.</em></h2>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f13757c3-dbee-4cd6-aee4-6728c2f7b4fc"

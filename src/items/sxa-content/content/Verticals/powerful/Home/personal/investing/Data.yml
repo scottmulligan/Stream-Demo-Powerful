@@ -1,0 +1,20 @@
+﻿---
+ID: "5f6cd45d-b927-45b6-aa27-2515070ceb77"
+Parent: "f31ad7aa-bb30-452a-9761-14956fa2241a"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Verticals/powerful/Home/personal/investing/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "840069b1-fe5d-4028-9a52-be758fb13410"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f548452-7d04-47a8-be73-0bea72237110"

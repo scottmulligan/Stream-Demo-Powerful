@@ -1,0 +1,32 @@
+﻿---
+ID: "9a26d326-d13a-4352-bb3a-f61e8f39a18b"
+Parent: "88c1c505-a90c-4da9-85cf-a681656168eb"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/Verticals/powerful/Home/products/power-bars/Data/Tagline"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E9064436-A91E-4DD4-A7BB-2FDCA3CD7CA6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <h2>POWERFUL <em style="color: var(--bg-accent);"> has your back.</em></h2>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "96c11833-27c3-42c0-af78-68ccf715289b"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <h2>Propulser les petites entreprises,<em style="color: var(--bg-accent);"> une transaction à la fois.</em></h2>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "49800a45-92f3-4965-a47c-4029f75b7a2c"

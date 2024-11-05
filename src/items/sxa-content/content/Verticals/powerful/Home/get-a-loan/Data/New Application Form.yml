@@ -1,0 +1,35 @@
+﻿---
+ID: "d8b49180-1e81-42f5-b535-0379eb6a995f"
+Parent: "43429773-8613-42de-a9f8-01fe7b4f70f9"
+Template: "ae920ce6-5c6e-4842-b54c-e4b516dc0752"
+Path: "/sitecore/content/Verticals/powerful/Home/get-a-loan/Data/New Application Form"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4559d5d3-2bb6-42cb-901b-491da0b0a51c"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50b65341-d540-4ca7-b494-1371b72e7111"
+    - ID: "d663bd4f-2e16-421d-84a8-6c54fa9ddc0e"
+      Hint: Title
+      Value: Appliquer
+    - ID: "de1ea50c-6bff-4b85-ab2f-c99e57326322"
+      Hint: Subtitle
+      Value: "Postulez en ligne pour un prêt à la consommation sans frais pour l'examen et l'approbation de la demande!"
+    - ID: "e8781b03-b723-42ee-b5c4-3acb1a639f39"
+      Hint: Footnote
+      Value: |
+        
+        En cliquant sur le bouton « Soumettre », vous acceptez les <a href="#terms-and-conditions">Conditions de traitement des données personnelles et de soumission de la demande en ligne</a>
+    - ID: "ef4297fb-1ef8-4b4e-ae14-2edb6069d9d8"
+      Hint: SubmitButton
+      Value: |
+        <link text="Soumettre" linktype="anchor" url="submit" anchor="submit" title="Submit button" class="" />

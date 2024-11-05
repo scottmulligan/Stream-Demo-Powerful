@@ -1,0 +1,25 @@
+﻿---
+ID: "88c1c505-a90c-4da9-85cf-a681656168eb"
+Parent: "e6bf81a2-2195-4139-b7f5-ff640fffe185"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/powerful/Home/products/power-bars/Data"
+BranchID: "e6952b59-41b9-4f19-a6a8-e995ea78df57"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D030377C-FA27-4EE8-93B8-2454B79C95DF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "99f4cefd-0e7b-4172-b812-268992e39bd0"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5e60c4cc-ca5a-4e9d-92d2-327a7f3e492a"

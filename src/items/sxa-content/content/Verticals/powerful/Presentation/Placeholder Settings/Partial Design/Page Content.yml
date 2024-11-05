@@ -1,0 +1,24 @@
+﻿---
+ID: "b24736a6-5269-467e-a60e-b623cc0e237a"
+Parent: "156af066-b6f0-4635-b166-5750159bfd2a"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/content/Verticals/powerful/Presentation/Placeholder Settings/Partial Design/Page Content
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-page-content"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "92b3bb72-220e-42da-ad46-e5fbb065ecdf"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d52e459a-a750-4588-bb79-cd24a857ecc0"

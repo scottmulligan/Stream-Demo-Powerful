@@ -1,0 +1,27 @@
+﻿---
+ID: "5631550f-5f31-408f-a4f0-304ed5838f5e"
+Parent: "5d6d177f-5f65-49e2-a57e-bbc94c90b2de"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Verticals/powerful/Presentation/Styles/Theming/Spaced top
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "spaced-top"
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Value: "{1F52FB4E-FB4B-40ED-A5D8-F8F9784B36F2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "229046fd-3e77-4c56-835e-b85bbce2a49a"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e6f22d73-0892-4388-a5b1-989dabe22bf6"

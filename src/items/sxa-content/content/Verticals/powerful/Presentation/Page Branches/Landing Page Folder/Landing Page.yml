@@ -1,0 +1,17 @@
+﻿---
+ID: "c6d7d12b-a82d-400d-8977-863ed045bf9b"
+Parent: "58e536cc-9ce4-4f1f-be2b-067f28ab1864"
+Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
+Path: /sitecore/content/Verticals/powerful/Presentation/Page Branches/Landing Page Folder/Landing Page
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/32x32/logviewer.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac1ceab4-7869-4da5-b14d-eb52299d26a8"

@@ -1,0 +1,33 @@
+﻿---
+ID: "9ea7e40f-45bd-46c7-824a-28ff96124431"
+Parent: "4d545a4b-d37a-4f84-a335-dedeff1ecd5d"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/Verticals/powerful/Presentation/Available Renderings/Page Structure
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}
+    {15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}
+    {5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{5C3DAFA2-8F50-485F-ACB1-22E3A492E86D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f3270137-883e-4658-857b-d1b64da19085"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8ec3ed3e-964f-4f32-926c-6fd2564b0805"

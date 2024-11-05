@@ -1,0 +1,17 @@
+﻿---
+ID: "e0d2cc2c-d8ea-485d-89b7-aa5e51048001"
+Parent: "29c52b9a-a150-470a-a1ec-02cc6045c167"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/powerful/Personal/Investing
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c46febb0-1632-41bc-a596-9608145787f4"

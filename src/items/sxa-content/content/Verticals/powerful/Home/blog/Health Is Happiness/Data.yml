@@ -1,0 +1,13 @@
+﻿---
+ID: "264a4ded-867b-4051-87b8-1aa09da66fae"
+Parent: "dff7a687-d8f1-45d0-8c83-79182fe14942"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Verticals/powerful/Home/blog/Health Is Happiness/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3317581f-876f-4dab-bea4-a98fc15abf79"

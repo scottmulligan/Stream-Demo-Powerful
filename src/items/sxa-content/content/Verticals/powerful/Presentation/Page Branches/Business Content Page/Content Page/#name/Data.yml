@@ -1,0 +1,20 @@
+﻿---
+ID: "d030377c-fa27-4ee8-93b8-2454b79c95df"
+Parent: "61dd5581-fc56-4cbe-bc76-33f853dc6b07"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Verticals/powerful/Presentation/Page Branches/Business Content Page/Content Page/$name/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7f3bb6c7-fe22-4223-b6df-9942e52e423e"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f548452-7d04-47a8-be73-0bea72237110"

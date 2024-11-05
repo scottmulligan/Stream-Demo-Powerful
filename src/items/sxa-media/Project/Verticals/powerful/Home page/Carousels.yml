@@ -1,0 +1,17 @@
+﻿---
+ID: "78f4679b-cb0b-4614-92d8-e04e755a17f7"
+Parent: "ea67a2dd-4568-49a4-941e-fe746c751bcd"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/powerful/Home page/Carousels
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ed62a8fc-0872-4c4b-be7b-1bd507a72c33"

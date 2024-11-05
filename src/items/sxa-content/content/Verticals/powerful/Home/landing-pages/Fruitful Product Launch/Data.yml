@@ -1,0 +1,18 @@
+﻿---
+ID: "20190553-b927-4494-a1a0-c2bfb56f0d64"
+Parent: "5c15349c-3c95-4409-a07b-74f1c010530e"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/powerful/Home/landing-pages/Fruitful Product Launch/Data"
+BranchID: "c6f9a204-044e-4aa8-8c15-11fd3882f475"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{AE920D6C-1766-434E-B534-E83F6CF684DA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e23e87f-9893-4f3f-bf7a-9327a6d32e62"

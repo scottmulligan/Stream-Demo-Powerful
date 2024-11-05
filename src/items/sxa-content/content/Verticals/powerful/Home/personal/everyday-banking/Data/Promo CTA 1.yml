@@ -1,0 +1,40 @@
+﻿---
+ID: "6cec384c-d8c0-4447-ada7-0c31d7e73fbd"
+Parent: "1fcf0fa4-1324-489b-8b04-65fdec700840"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: "/sitecore/content/Verticals/powerful/Home/personal/everyday-banking/Data/Promo CTA 1"
+SharedFields:
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="D25A703C-49EC-486B-96A6-F91EC67F39F5" alt="Close up photo of person on cell phone" height="" width="" hspace="" vspace="" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: A checking account that works for you
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0d528939-2125-498a-9dd8-e02b41097e5b"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: "<p>No fees, no fuss - a chequing account with modern services to grow with your finances.</p>"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Un compte chèque qui fonctionne pour vous
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4bef3f7b-9ac9-4ac7-b1ee-c6fda3327a78"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: "<p>Pas de frais, pas de tracas - un compte courant avec des services modernes pour accompagner la croissance de vos finances.</p>"

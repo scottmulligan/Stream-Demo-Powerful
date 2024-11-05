@@ -1,0 +1,52 @@
+﻿---
+ID: "beb0c738-f057-4fa7-90b3-9f01c940cbeb"
+Parent: "92ec394a-49da-4f5a-a62f-fb2b96f20d76"
+Template: "54db209d-cd0f-49d9-ae4e-ecb65d72cc4d"
+Path: "/sitecore/content/Verticals/powerful/Home/Data/Carousel - Retirement planning/Item 1"
+SharedFields:
+- ID: "afea6373-024f-4b89-a68b-83115e3701d8"
+  Hint: Video
+  Value: |
+    <image mediaid="{EA9435AB-D74A-46ED-B2F5-20E7744E9B19}" />
+- ID: "ba78a3c0-7c60-40ba-8d42-6bf559d9ca72"
+  Hint: Image
+  Value: |
+    <image mediaid="{DC596588-2AE2-49D2-856E-3000A95E0DB2}" alt="Retired person interacting with phone and younger person" height="" width="" hspace="" vspace="" />
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{321B71A6-169C-4A12-905A-0BF5F5CCD7E3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Plan today, thrive tomorrow
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link text="Secure your future" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{679B6CBB-C371-453E-91DB-D8BF8C7A21FF}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "909bbb1f-edb3-4b5b-9fc2-64104fcd507e"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Take care of your estate, take care of family.</p>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3351af3f-868e-47fc-b5c3-ad0446981faf"
+      Hint: Title
+      Value: Planifiez aujourd'hui, prospérez demain
+    - ID: "3cba1ba9-9f99-4a72-9144-7f02b3bdd158"
+      Hint: Link
+      Value: |
+        <link text="Sécurisez votre avenir" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{679B6CBB-C371-453E-91DB-D8BF8C7A21FF}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9ab4278-9668-49b6-b507-5505a9f8558d"
+    - ID: "ad84ce04-c8f0-485e-bf12-9b321c6ff2fb"
+      Hint: Text
+      Value: <p>Prenez soin de votre patrimoine, prenez soin de votre famille.</p>

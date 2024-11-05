@@ -1,0 +1,17 @@
+﻿---
+ID: "0e8d3372-2db5-4ab1-a80e-1ddf04b55d2b"
+Parent: "1a63ebcb-7c50-4394-846c-7af73fab7bf4"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/powerful/Business/Employee management
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 175
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d2e87cc0-ca64-4630-84b4-63c864a04c3c"

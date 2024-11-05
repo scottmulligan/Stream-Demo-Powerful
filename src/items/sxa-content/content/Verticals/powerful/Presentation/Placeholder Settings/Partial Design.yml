@@ -1,0 +1,20 @@
+﻿---
+ID: "156af066-b6f0-4635-b166-5750159bfd2a"
+Parent: "c21777cc-2d56-4dff-9bf0-b11fa9743987"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: /sitecore/content/Verticals/powerful/Presentation/Placeholder Settings/Partial Design
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19255805-18a1-40f0-9569-9f088d97e87d"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c190dd23-ba4b-4154-a4a7-3389c598315e"

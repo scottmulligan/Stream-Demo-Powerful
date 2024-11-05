@@ -1,0 +1,42 @@
+﻿---
+ID: "4ff9a66e-f33f-488c-8080-ea23491430cb"
+Parent: "d00d7443-099e-4005-892c-a97d10a098e4"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: "/sitecore/content/Verticals/powerful/Home/landing-pages/Test Landing Page/Data/Promo CTA 1"
+BranchID: "c6d7d12b-a82d-400d-8977-863ed045bf9b"
+SharedFields:
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="7AF18828-5673-4397-BF0C-2ABB01852452" />
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{DB076ACA-84B6-414E-AF03-B451F2144639}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: "Introducing Nature's Best in Every Sip!"
+    - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
+      Hint: Eyebrow
+      Value: Sip the Good, Live the life
+    - ID: "32f3e9b1-c441-4285-a063-0897453f37e2"
+      Hint: Link2
+      Value: |
+        <link linktype="external" url="https://example.com" target="" text="More details" title="" class=""/>
+    - ID: "507ba267-78fc-42f1-ac96-a1cb769b6de6"
+      Hint: Link
+      Value: |
+        <link linktype="internal" id="C20C4721-6206-4DEA-8063-39302065C2B5" anchor="" querystring="" target="" class="" text="Details" title=""/>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "242a3ddf-b7b0-4a4d-96b8-19d7743db471"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: <p>Packed with real fruit, vibrant flavors, and essential nutrients, every bottle is a step towards a healthier, more energized you.</p>
+    - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
+      Hint: Subtitle
+      Value: 

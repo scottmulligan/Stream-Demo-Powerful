@@ -1,0 +1,74 @@
+﻿---
+ID: "8f757896-b40b-4378-a65b-2087789832d9"
+Parent: "8b8d24a2-324b-4c0b-be84-9ee8a792f6c9"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: /sitecore/content/Verticals/powerful/Home/Data/Snack Smarter Live Stronger_var6
+SharedFields:
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="{77BA2569-2267-43DB-8A9B-6399B0C2192B}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Snack Smarter Live Stronger
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Choose Smarter Snacks for Enhanced Vitality
+    - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
+      Hint: Eyebrow
+      Value: Optimal Nutrition for Active Lifestyles
+    - ID: "32f3e9b1-c441-4285-a063-0897453f37e2"
+      Hint: Link2
+      Value: 
+    - ID: "507ba267-78fc-42f1-ac96-a1cb769b6de6"
+      Hint: Link
+      Value: |
+        <link class="" id="5EB148BB-35F0-4F09-8C14-89221A2EA61E" querystring="" anchor="" target="" title="" linktype="internal" text="Get started" url="/Verticals/Financial/Home/personal/everyday-banking" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9535ab3e-beac-46fb-9937-671796f0d62a"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><p>POWERFUL provides nutrient-dense snacks that integrate smoothly with your active lifestyle. Whether for post-workout recovery or everyday sustenance, our product line offers high-performance nutrition to aid your wellness journey.</p></div>
+    - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
+      Hint: Subtitle
+      Value: "Discover the power of nutrient-dense snacks designed for those who lead active lives. Whether you're looking to recover post-exercise or maintain daily energy levels, our products are crafted to support your wellness goals."
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: "Débloquez un compte-chèques qui évolue avec vous"
+    - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
+      Hint: Eyebrow
+      Value: 
+    - ID: "32f3e9b1-c441-4285-a063-0897453f37e2"
+      Hint: Link2
+      Value: 
+    - ID: "507ba267-78fc-42f1-ac96-a1cb769b6de6"
+      Hint: Link
+      Value: |
+        <link class="" querystring="" id="5EB148BB-35F0-4F09-8C14-89221A2EA61E" anchor="" target="" title="" linktype="internal" text="Commencez" url="/Verticals/Financial/Home/personal/everyday-banking" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e1166547-8e7e-4e5c-8361-e86b7737325f"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: "À mesure que vos finances augmentent, vous débloquerez plus d'avantages et de services de PLAY! financier."
+    - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
+      Hint: Subtitle
+      Value: 

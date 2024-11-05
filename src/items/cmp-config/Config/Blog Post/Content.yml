@@ -1,0 +1,24 @@
+﻿---
+ID: "d2b31caf-5b79-4870-a66a-a5fc8a856e07"
+Parent: "ca3695f9-99b5-402c-9913-efa0362425e3"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Blog Post/Content
+BranchID: "70eb42ee-92b2-4246-bc65-aa920bb7f322"
+SharedFields:
+- ID: "da990633-7884-44a2-8638-94389c5cbfec"
+  Hint: CMP Field Name
+  Value: Blog_Body
+- ID: "db99415a-fe86-4a2d-9583-db92894cb80a"
+  Hint: Sitecore Field Name
+  Value: "{03117268-F84F-4FD8-AD9E-5990B3A21FE6}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4C94598B-EB37-400C-88C3-BEB971888C9A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8c56bb83-ab51-4c82-b853-23ef5d6cf3a5"
