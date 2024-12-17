@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import { useCallback, useEffect } from 'react';
 import { GetStaticPaths, GetStaticProps } from 'next';
 import NotFound from 'src/NotFound';
 import Layout from 'src/Layout';
@@ -20,24 +20,25 @@ const SitecorePage = ({
     handleEditorFastRefresh();
   }, []);
 
-  if (notFound || !layoutData.sitecore.route) {
-    // Shouldn't hit this (as long as 'notFound' is being returned below), but just to be safe
-    return <NotFound />;
-  }
-
-  const isEditing = layoutData.sitecore.context.pageEditing;
-
-  // Initialize the module
-  const initPersonalize = async () => {
+  const initPersonalize = useCallback(async () => {
     await init({
       sitecoreEdgeContextId: 'UUpUOJsg1nBfkZrqgzjJ6',
       siteName: 'powerful',
       enableBrowserCookie: true,
     });
     console.log('Initialized the personalize/browser module.');
-  };
-  initPersonalize();
-  // Initialize the module
+  }, []);
+
+  useEffect(() => {
+    initPersonalize();
+  }, [initPersonalize]);
+
+  if (notFound || !layoutData.sitecore.route) {
+    // Shouldn't hit this (as long as 'notFound' is being returned below), but just to be safe
+    return <NotFound />;
+  }
+
+  const isEditing = layoutData.sitecore.context.pageEditing;
 
   return (
     <ComponentPropsContext value={componentProps}>
