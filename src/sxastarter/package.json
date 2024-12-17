@@ -31,7 +31,8 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "@sitecore-cloudsdk/events": "^0.3.1",
+    "@sitecore-cloudsdk/core": "^0.4.2",
+    "@sitecore-cloudsdk/events": "^0.4.2",
     "@sitecore-cloudsdk/personalize": "^0.4.3",
     "@sitecore-feaas/clientside": "^0.5.17",
     "@sitecore-jss/sitecore-jss-nextjs": "~22.1.3",
