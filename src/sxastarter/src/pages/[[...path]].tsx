@@ -9,12 +9,12 @@ import { sitecorePagePropsFactory } from 'lib/page-props-factory';
 import { componentBuilder } from 'temp/componentBuilder';
 import { init } from '@sitecore-cloudsdk/personalize/browser';
 
-const SitecorePage = async ({
+const SitecorePage = ({
   notFound,
   componentProps,
   layoutData,
   headLinks,
-}: SitecorePageProps): Promise<JSX.Element> => {
+}: SitecorePageProps): JSX.Element => {
   useEffect(() => {
     // Since Sitecore editors do not support Fast Refresh, need to refresh editor chromes after Fast Refresh finished
     handleEditorFastRefresh();
