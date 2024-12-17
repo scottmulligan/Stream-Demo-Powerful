@@ -7,7 +7,7 @@ import { handleEditorFastRefresh } from '@sitecore-jss/sitecore-jss-nextjs/utils
 import { SitecorePageProps } from 'lib/page-props';
 import { sitecorePagePropsFactory } from 'lib/page-props-factory';
 import { componentBuilder } from 'temp/componentBuilder';
-import { init, personalize } from '@sitecore-cloudsdk/personalize/browser';
+import { init } from '@sitecore-cloudsdk/personalize/browser';
 
 const SitecorePage = async ({
   notFound,
@@ -38,15 +38,6 @@ const SitecorePage = async ({
   };
   initPersonalize();
   // Initialize the module
-
-  // Run personalization
-  const personalizeRes = await personalize({
-    channel: 'WEB',
-    currency: 'EUR',
-    friendlyId: 'running_shoes_popup_02',
-  });
-  console.log('Personalized content:', personalizeRes);
-  // Run personalization
 
   return (
     <ComponentPropsContext value={componentProps}>
