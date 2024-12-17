@@ -7,14 +7,13 @@ import { handleEditorFastRefresh } from '@sitecore-jss/sitecore-jss-nextjs/utils
 import { SitecorePageProps } from 'lib/page-props';
 import { sitecorePagePropsFactory } from 'lib/page-props-factory';
 import { componentBuilder } from 'temp/componentBuilder';
-import { init, personalize } from '@sitecore-cloudsdk/personalize/browser';
 
-const SitecorePage = async ({
+const SitecorePage = ({
   notFound,
   componentProps,
   layoutData,
   headLinks,
-}: SitecorePageProps): Promise<JSX.Element> => {
+}: SitecorePageProps): JSX.Element => {
   useEffect(() => {
     // Since Sitecore editors do not support Fast Refresh, need to refresh editor chromes after Fast Refresh finished
     handleEditorFastRefresh();
@@ -26,27 +25,6 @@ const SitecorePage = async ({
   }
 
   const isEditing = layoutData.sitecore.context.pageEditing;
-
-  // Initialize the module
-  const initPersonalize = async () => {
-    await init({
-      sitecoreEdgeContextId: '<YOUR_CONTEXT_ID>',
-      siteName: 'powerful',
-      enableBrowserCookie: true,
-    });
-    console.log('Initialized the personalize/browser module.');
-  };
-  initPersonalize();
-  // Initialize the module
-
-  // Run personalization
-  const personalizeRes = await personalize({
-    channel: 'WEB',
-    currency: 'EUR',
-    friendlyId: 'running_shoes_popup_02',
-  });
-  console.log('Personalized content:', personalizeRes);
-  // Run personalization
 
   return (
     <ComponentPropsContext value={componentProps}>
