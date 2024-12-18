@@ -7,6 +7,8 @@ import { handleEditorFastRefresh } from '@sitecore-jss/sitecore-jss-nextjs/utils
 import { SitecorePageProps } from 'lib/page-props';
 import { sitecorePagePropsFactory } from 'lib/page-props-factory';
 import { componentBuilder } from 'temp/componentBuilder';
+import { CloudSDK } from '@sitecore-cloudsdk/core/browser';
+import '@sitecore-cloudsdk/events/browser';
 import { init } from '@sitecore-cloudsdk/personalize/browser';
 
 const SitecorePage = ({
@@ -20,18 +22,18 @@ const SitecorePage = ({
     handleEditorFastRefresh();
   }, []);
 
-  const initPersonalize = useCallback(async () => {
-    await init({
+  // Initialize Personalize
+  useEffect(() => {
+    CloudSDK({
       sitecoreEdgeContextId: 'UUpUOJsg1nBfkZrqgzjJ6',
       siteName: 'powerful',
       enableBrowserCookie: true,
-    });
-    console.log('Initialized the personalize/browser module.');
-  }, []);
-
-  useEffect(() => {
-    initPersonalize();
-  }, [initPersonalize]);
+    })
+      .addEvents() // Initialize the events package
+      .addPersonalize({ enablePersonalizeCookie: true, webPersonalization: true }) // Initialize the personalize package
+      .initialize(); // Run the initialization logic and set cookies
+  });
+  // Initialize Personalize
 
   if (notFound || !layoutData.sitecore.route) {
     // Shouldn't hit this (as long as 'notFound' is being returned below), but just to be safe
