@@ -31,7 +31,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "@sitecore-cloudsdk/core/browser": "^0.3.1",
+    "@sitecore-cloudsdk/core": "^0.3.1",
     "@sitecore-cloudsdk/events": "^0.3.1",
     "@sitecore-cloudsdk/personalize": "^0.3.1",
     "@sitecore-feaas/clientside": "^0.5.17",
