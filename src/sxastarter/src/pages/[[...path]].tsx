@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import { useCallback, useEffect } from 'react';
 import { GetStaticPaths, GetStaticProps } from 'next';
 import NotFound from 'src/NotFound';
 import Layout from 'src/Layout';
@@ -7,9 +7,7 @@ import { handleEditorFastRefresh } from '@sitecore-jss/sitecore-jss-nextjs/utils
 import { SitecorePageProps } from 'lib/page-props';
 import { sitecorePagePropsFactory } from 'lib/page-props-factory';
 import { componentBuilder } from 'temp/componentBuilder';
-import { CloudSDK } from '@sitecore-cloudsdk/core/browser';
-import '@sitecore-cloudsdk/events/browser';
-import '@sitecore-cloudsdk/personalize/browser';
+import { init, personalize } from '@sitecore-cloudsdk/personalize/browser';
 
 const SitecorePage = ({
   notFound,
@@ -22,18 +20,25 @@ const SitecorePage = ({
     handleEditorFastRefresh();
   }, []);
 
-  // Initialize Personalize
-  useEffect(() => {
-    CloudSDK({
+  const initPersonalize = useCallback(async () => {
+    await init({
       sitecoreEdgeContextId: 'UUpUOJsg1nBfkZrqgzjJ6',
       siteName: 'powerful',
       enableBrowserCookie: true,
-    })
-      .addEvents() // Initialize the events package
-      .addPersonalize({ enablePersonalizeCookie: true, webPersonalization: true }) // Initialize the personalize package
-      .initialize(); // Run the initialization logic and set cookies
-  });
-  // Initialize Personalize
+    });
+    console.log('Initialized the personalize/browser module.');
+
+    const personalizeResponse = await personalize({
+      channel: 'WEB',
+      currency: 'EUR',
+      friendlyId: 'demo_interactive_experience_scm',
+    });
+    console.log('This experience is now running:', personalizeResponse);
+  }, []);
+
+  useEffect(() => {
+    initPersonalize();
+  }, [initPersonalize]);
 
   if (notFound || !layoutData.sitecore.route) {
     // Shouldn't hit this (as long as 'notFound' is being returned below), but just to be safe
