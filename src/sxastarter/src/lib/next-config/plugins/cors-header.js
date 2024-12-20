@@ -23,7 +23,7 @@ const corsHeaderPlugin = (nextConfig = {}) => {
           ],
         },
         {
-          source: '/api/:path*',
+          source: '*',
           headers: [
             {
               key: 'Access-Control-Allow-Origin',
