@@ -20,6 +20,21 @@
     padding-right: $size-padding;
   }
 
+  &.kiosk {
+    color: var(--bg-main-alt);
+    background-color: var(--text-body);
+
+    height: 100vh;
+
+    .container-fluid {
+      height: 100%;
+
+      .row {
+        height: 100%;
+      }
+    }
+  }
+
   &.with-dotted-accents {
     .image-wrapper {
       margin: 3.5rem;
