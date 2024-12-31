@@ -1,0 +1,20 @@
+﻿---
+ID: "0a654ea5-f574-4789-9a04-5307fe09ae0b"
+Parent: "3aa68b44-9675-4a3c-b242-7efa2a4eeb60"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/Verticals/powerful/Presentation/Headless Variants/Promo CTA/Kiosk
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01da2595-6797-48e5-8c52-6a9a6aa5f499"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0e83e83-3fac-4138-993a-49076be2dbaf"

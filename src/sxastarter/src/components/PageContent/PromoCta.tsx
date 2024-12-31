@@ -15,6 +15,8 @@ import { ParallaxBackgroundImage } from 'components/NonSitecore/ParallaxBackgrou
 import useVisibility from 'src/hooks/useVisibility';
 import { ComponentProps } from 'lib/component-props';
 import { DottedAccent } from 'components/NonSitecore/DottedAccent';
+import NextImage from 'next/image';
+import qr from '../../../public/qr.webp';
 
 interface Fields {
   Eyebrow: Field<string>;
@@ -75,6 +77,62 @@ export const Default = (props: PromoCtaProps): JSX.Element => {
               ></Image>
               <DottedAccent className="dotted-accent-bottom" />
             </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export const Kiosk = (props: PromoCtaProps): JSX.Element => {
+  const id = props.params.RenderingIdentifier;
+  const { sitecoreContext } = useSitecoreContext();
+  const isPageEditing = sitecoreContext.pageEditing;
+  const [isVisible, domRef] = useVisibility();
+
+  return (
+    <div
+      className={`component promo-cta kiosk ${props.params.styles.trimEnd()}`}
+      id={id ? id : undefined}
+      ref={domRef}
+    >
+      <div className="container-fluid">
+        <div className="row row-gap-4">
+          <div className="col-lg-5 text-center text-lg-start p-5">
+            <h6 className="eyebrow-accent">
+              <Text field={props.fields.Eyebrow} />
+            </h6>
+            <h1 className="display-2 fw-bold mb-3">
+              <Text field={props.fields.Title} />
+            </h1>
+            <div className="promo-cta-text">
+              <p className="fs-5">
+                <Text field={props.fields.Subtitle} />
+              </p>
+
+              <RichText field={props.fields.Text} className="text-content" />
+
+              {(isPageEditing || props.fields?.Link?.value?.href) && (
+                <Link field={props.fields.Link} className="button button-main mt-3 me-4" />
+              )}
+            </div>
+          </div>
+          <div className="d-flex align-items-end mx-auto col-lg-5 mx-lg-0 p-5">
+            <div className="image-wrapper">
+              <DottedAccent className="dotted-accent-top" />
+              <Image
+                field={props.fields.Image}
+                className={`d-block mx-lg-auto img-fluid ${
+                  !isPageEditing ? `fade-section ${isVisible ? 'is-visible' : ''}` : ''
+                }`}
+              ></Image>
+              <DottedAccent className="dotted-accent-bottom" />
+            </div>
+          </div>
+          <div className="d-flex align-items-end mx-auto col-lg-2">
+            <Link field={props.fields.Link} className="bg-white p-2 rounded-3">
+              <NextImage src={qr} width={150} height={150} alt="QR Code"></NextImage>
+            </Link>
           </div>
         </div>
       </div>
