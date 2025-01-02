@@ -7,7 +7,8 @@ import { handleEditorFastRefresh } from '@sitecore-jss/sitecore-jss-nextjs/utils
 import { SitecorePageProps } from 'lib/page-props';
 import { sitecorePagePropsFactory } from 'lib/page-props-factory';
 import { componentBuilder } from 'temp/componentBuilder';
-import { init, personalize } from '@sitecore-cloudsdk/personalize/browser';
+import { init } from '@sitecore-cloudsdk/personalize/browser';
+import config from 'temp/config';
 
 const SitecorePage = ({
   notFound,
@@ -22,25 +23,26 @@ const SitecorePage = ({
 
   const initPersonalize = useCallback(async () => {
     await init({
-      sitecoreEdgeContextId: 'UUpUOJsg1nBfkZrqgzjJ6',
-      siteName: 'powerful',
+      sitecoreEdgeUrl: config.sitecoreEdgeUrl,
+      sitecoreEdgeContextId: config.sitecoreEdgeContextId,
+      siteName: config.sitecoreSiteName,
       enableBrowserCookie: true,
     });
     console.log('Initialized the personalize/browser module.');
 
-    const personalizeResponse = await personalize({
-      channel: 'WEB',
-      currency: 'EUR',
-      friendlyId: 'demo_interactive_experience_scm',
-    });
-    console.log('This experience is now running:', personalizeResponse);
+    // const personalizeResponse = await personalize({
+    //   channel: 'WEB',
+    //   currency: 'EUR',
+    //   friendlyId: 'demo_interactive_experience_scm',
+    // });
+    // console.log('This experience is now running:', personalizeResponse);
 
-    const getGuestDataResponse = await personalize({
-      channel: 'WEB',
-      currency: 'EUR',
-      friendlyId: 'get_customer_data',
-    });
-    console.log('This experience is now running:', getGuestDataResponse);
+    // const getGuestDataResponse = await personalize({
+    //   channel: 'WEB',
+    //   currency: 'EUR',
+    //   friendlyId: 'get_customer_data',
+    // });
+    // console.log('This experience is now running:', getGuestDataResponse);
   }, []);
 
   useEffect(() => {
