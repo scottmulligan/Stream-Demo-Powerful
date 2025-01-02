@@ -1,50 +1,23 @@
-import { Field, ImageField } from '@sitecore-jss/sitecore-jss-nextjs';
-import { personalize } from '@sitecore-cloudsdk/personalize/browser';
+import { init, personalize } from '@sitecore-cloudsdk/personalize/browser';
 import { context } from 'lib/context';
-
-interface Fields {
-  Title: Field<string>;
-  EmailLabel: Field<string>;
-  SubjectLabel: Field<string>;
-  MessageLabel: Field<string>;
-  ButtonLabel: Field<string>;
-  BackgroundImage: ImageField;
-}
-
-const message = {
-  channel: 'WEB',
-  type: 'IDENTITY',
-  language: 'EN',
-  currency: 'EUR',
-  //page: 'Login',
-  pos: 'powerful',
-  //browser_id: browser_id,
-  //title: 'Sir',
-  email: 'allison.dorner@example.com',
-  firstname: 'Allison',
-  lastname: 'Dorner',
-};
-
-JSON.stringify(message);
+import config from 'temp/config';
 
 export type CustomerDataProps = {
   params: { [key: string]: string };
-  fields: Fields;
 };
 
 export const Default = (props: CustomerDataProps): JSX.Element => {
   const id = props.params.RenderingIdentifier;
 
-  function handleClick() {
-    // context.getSDK('Events').then((Events) =>
-    //   Events.pageView({
-    //     channel: 'WEB',
-    //     currency: 'EUR',
-    //     page: 'Test name',
-    //     language: 'EN',
-    //   })
-    // );
+  init({
+    sitecoreEdgeUrl: config.sitecoreEdgeUrl,
+    sitecoreEdgeContextId: config.sitecoreEdgeContextId,
+    siteName: config.sitecoreSiteName,
+    enableBrowserCookie: true,
+  });
+  console.log('Initialized the personalize/browser module.');
 
+  function handleClick() {
     context
       .getSDK('Events')
       .then((Events) =>
@@ -82,7 +55,6 @@ export const Default = (props: CustomerDataProps): JSX.Element => {
     friendlyId: 'get_customer_data',
   });
   console.log('This experience is now running:', getGuestDataResponse);
-  const guestDataOutput = JSON.stringify(getGuestDataResponse);
 
   return (
     <div
@@ -109,7 +81,6 @@ export const Default = (props: CustomerDataProps): JSX.Element => {
         <br />
         <br />
         <h2 className="mb-4">My Customer Data</h2>
-        <p>{guestDataOutput}</p>
         <h2 className="mb-4">My Personalized Data</h2>
       </div>
     </div>
