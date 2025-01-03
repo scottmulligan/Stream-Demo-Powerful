@@ -15,8 +15,6 @@ import { ParallaxBackgroundImage } from 'components/NonSitecore/ParallaxBackgrou
 import useVisibility from 'src/hooks/useVisibility';
 import { ComponentProps } from 'lib/component-props';
 import { DottedAccent } from 'components/NonSitecore/DottedAccent';
-import NextImage from 'next/image';
-import qr from '../../../public/qr.webp';
 
 interface Fields {
   Eyebrow: Field<string>;
