@@ -1,5 +1,6 @@
 import { personalize } from '@sitecore-cloudsdk/personalize/browser';
 import { useEffect, useState } from 'react';
+import { useSitecoreContext } from '@sitecore-jss/sitecore-jss-nextjs';
 
 export type WelcomeMessageProps = {
   params: { [key: string]: string };
@@ -8,6 +9,7 @@ export type WelcomeMessageProps = {
 export const Default = ({}: WelcomeMessageProps): JSX.Element => {
   const [guestData, setGuestData] = useState<GuestProfile>();
   const [guestPersonalizedData, setGuestPersonalizedData] = useState<GuestPersonalizedData>();
+  const { sitecoreContext } = useSitecoreContext();
 
   interface GuestProfile {
     firstName: string;
@@ -57,7 +59,20 @@ export const Default = ({}: WelcomeMessageProps): JSX.Element => {
       .catch(console.error);
   }, []);
 
-  if (guestData?.firstName === null || guestData?.firstName === '') {
+  if (sitecoreContext.pageEditing) {
+    return (
+      <div className={`component rich-text contact-form component-spaced`}>
+        <div className="container">
+          <h2 className="mb-4">Hello, $FirstName!</h2>
+          <p>
+            <strong>
+              Personalized welcome message will display here if the user is identified.
+            </strong>
+          </p>
+        </div>
+      </div>
+    );
+  } else if (guestData?.firstName === null || guestData?.firstName === '') {
     return <></>;
   } else {
     return (
