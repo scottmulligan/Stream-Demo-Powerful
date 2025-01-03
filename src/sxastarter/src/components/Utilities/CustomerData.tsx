@@ -7,8 +7,8 @@ export type CustomerDataProps = {
 };
 
 export const Default = ({}: CustomerDataProps): JSX.Element => {
-  const [guestData, setGuestData] = useState<unknown>({});
-  const [guestPersonalizedData, setGuestPersonalizedData] = useState<unknown>({});
+  const [guestData, setGuestData] = useState<GuestProfile>();
+  const [guestPersonalizedData, setGuestPersonalizedData] = useState<GuestPersonalizedData>();
   //const id = props.params.RenderingIdentifier;
 
   // if (typeof window !== 'undefined') {
@@ -44,15 +44,28 @@ export const Default = ({}: CustomerDataProps): JSX.Element => {
     console.log('Sent identity event.');
   }
 
-  //setGuestData(GetGuestDataResponse);
+  interface GuestProfile {
+    firstName: string;
+    lastName: string;
+    email: string;
+    title: string;
+    country: string;
+  }
+
+  interface GuestPersonalizedData {
+    welcomeMessage: string;
+    favoriteBrand: string;
+    favoriteProduct: string;
+  }
+
   useEffect(() => {
     // declare the data fetching function
     const fetchData = async () => {
-      const GetGuestDataResponse = await personalize({
+      const GetGuestDataResponse = (await personalize({
         channel: 'WEB',
         currency: 'EUR',
         friendlyId: 'get_customer_data',
-      });
+      })) as unknown as GuestProfile;
       console.log('This experience is now running:', GetGuestDataResponse);
       setGuestData(GetGuestDataResponse);
     };
@@ -62,15 +75,14 @@ export const Default = ({}: CustomerDataProps): JSX.Element => {
       .catch(console.error);
   }, []);
 
-  //setGuestData(GetGuestDataResponse);
   useEffect(() => {
     // declare the data fetching function
     const fetchData = async () => {
-      const GetPersonalizedDataResponse = await personalize({
+      const GetPersonalizedDataResponse = (await personalize({
         channel: 'WEB',
         currency: 'EUR',
         friendlyId: 'demo_interactive_experience_scm',
-      });
+      })) as unknown as GuestPersonalizedData;
       console.log('This experience is now running:', GetPersonalizedDataResponse);
       setGuestPersonalizedData(GetPersonalizedDataResponse);
     };
@@ -107,19 +119,19 @@ export const Default = ({}: CustomerDataProps): JSX.Element => {
           <strong>Personalized welcome message</strong>
         </p>
         <ul>
-          <li>{guestPersonalizedData.welcomeMessage}</li>
+          <li>{guestPersonalizedData?.welcomeMessage}</li>
         </ul>
         <p>
           <strong>Favorite brand</strong>
         </p>
         <ul>
-          <li>{guestPersonalizedData.favoriteBrand}</li>
+          <li>{guestPersonalizedData?.favoriteBrand}</li>
         </ul>
         <p>
           <strong>Favorite product</strong>
         </p>
         <ul>
-          <li>{guestPersonalizedData.favoriteProduct}</li>
+          <li>{guestPersonalizedData?.favoriteProduct}</li>
         </ul>
 
         <h2 className="mb-4">My Customer Data</h2>
