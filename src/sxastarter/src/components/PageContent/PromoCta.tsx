@@ -24,6 +24,7 @@ interface Fields {
   Subtitle: Field<string>;
   Text: RichTextField;
   Image: ImageField;
+  Image2: ImageField;
   Link: LinkField;
   Link2: LinkField;
 }
@@ -106,10 +107,6 @@ export const Kiosk = (props: PromoCtaProps): JSX.Element => {
               <Text field={props.fields.Title} />
             </h1>
             <div className="promo-cta-text">
-              <p className="fs-5">
-                <Text field={props.fields.Subtitle} />
-              </p>
-
               <RichText field={props.fields.Text} className="text-content" />
 
               {(isPageEditing || props.fields?.Link?.value?.href) && (
@@ -130,9 +127,7 @@ export const Kiosk = (props: PromoCtaProps): JSX.Element => {
             </div>
           </div>
           <div className="d-flex align-items-end mx-auto col-lg-2">
-            <Link field={props.fields.Link} className="bg-white p-2 rounded-3">
-              <NextImage src={qr} width={150} height={150} alt="QR Code"></NextImage>
-            </Link>
+            <Image field={props.fields.Image2}></Image>
           </div>
         </div>
       </div>
