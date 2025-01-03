@@ -112,7 +112,7 @@ export const Kiosk = (props: PromoCtaProps): JSX.Element => {
               )}
             </div>
           </div>
-          <div className="d-flex align-items-end mx-auto col-lg-5 mx-lg-0 p-5">
+          <div className="d-flex align-items-top mx-auto col-lg-5 mx-lg-0 p-5">
             <div className="image-wrapper">
               <DottedAccent className="dotted-accent-top" />
               <Image
