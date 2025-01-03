@@ -9,13 +9,15 @@ export type CustomerDataProps = {
 export const Default = (props: CustomerDataProps): JSX.Element => {
   const id = props.params.RenderingIdentifier;
 
-  init({
-    sitecoreEdgeUrl: config.sitecoreEdgeUrl,
-    sitecoreEdgeContextId: config.sitecoreEdgeContextId,
-    siteName: config.sitecoreSiteName,
-    enableBrowserCookie: true,
-  });
-  console.log('Initialized the personalize/browser module.');
+  if (typeof window !== 'undefined') {
+    init({
+      sitecoreEdgeUrl: config.sitecoreEdgeUrl,
+      sitecoreEdgeContextId: config.sitecoreEdgeContextId,
+      siteName: config.sitecoreSiteName,
+      enableBrowserCookie: true,
+    });
+    console.log('Initialized the personalize/browser module.');
+  }
 
   function handleClick() {
     context
@@ -40,21 +42,12 @@ export const Default = (props: CustomerDataProps): JSX.Element => {
     console.log('Sent identity event.');
   }
 
-  // const handleFormSubmit = async (event: FormEvent<HTMLFormElement>) => {
-  //   event.preventDefault();
-
-  //   if (!email.trim()) {
-  //     alert('Email form fields must be filled.');
-  //     return;
-  //   }
-  // };
-
-  const getGuestDataResponse = personalize({
+  const GetGuestDataResponse = personalize({
     channel: 'WEB',
     currency: 'EUR',
     friendlyId: 'get_customer_data',
   });
-  console.log('This experience is now running:', getGuestDataResponse);
+  console.log('This experience is now running:', GetGuestDataResponse);
 
   return (
     <div
@@ -81,6 +74,7 @@ export const Default = (props: CustomerDataProps): JSX.Element => {
         <br />
         <br />
         <h2 className="mb-4">My Customer Data</h2>
+        <p>{}</p>
         <h2 className="mb-4">My Personalized Data</h2>
       </div>
     </div>
