@@ -22,13 +22,15 @@ const SitecorePage = ({
   }, []);
 
   const initPersonalize = useCallback(async () => {
-    await init({
-      sitecoreEdgeUrl: config.sitecoreEdgeUrl,
-      sitecoreEdgeContextId: config.sitecoreEdgeContextId,
-      siteName: config.sitecoreSiteName,
-      enableBrowserCookie: true,
-    });
-    console.log('Initialized the personalize/browser module.');
+    if (typeof window !== 'undefined') {
+      await init({
+        sitecoreEdgeUrl: config.sitecoreEdgeUrl,
+        sitecoreEdgeContextId: config.sitecoreEdgeContextId,
+        siteName: config.sitecoreSiteName,
+        enableBrowserCookie: true,
+      });
+      console.log('Initialized the personalize/browser module.');
+    }
 
     // const personalizeResponse = await personalize({
     //   channel: 'WEB',
