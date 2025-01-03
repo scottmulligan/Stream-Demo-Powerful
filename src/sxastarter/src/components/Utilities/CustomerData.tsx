@@ -1,23 +1,25 @@
-import { init, personalize } from '@sitecore-cloudsdk/personalize/browser';
+import { personalize } from '@sitecore-cloudsdk/personalize/browser';
 import { context } from 'lib/context';
-import config from 'temp/config';
+import { useEffect, useState } from 'react';
 
 export type CustomerDataProps = {
   params: { [key: string]: string };
 };
 
-export const Default = (props: CustomerDataProps): JSX.Element => {
-  const id = props.params.RenderingIdentifier;
+export const Default = ({}: CustomerDataProps): JSX.Element => {
+  const [guestData, setGuestData] = useState<unknown>({});
+  const [guestPersonalizedData, setGuestPersonalizedData] = useState<unknown>({});
+  //const id = props.params.RenderingIdentifier;
 
-  if (typeof window !== 'undefined') {
-    init({
-      sitecoreEdgeUrl: config.sitecoreEdgeUrl,
-      sitecoreEdgeContextId: config.sitecoreEdgeContextId,
-      siteName: config.sitecoreSiteName,
-      enableBrowserCookie: true,
-    });
-    console.log('Initialized the personalize/browser module.');
-  }
+  // if (typeof window !== 'undefined') {
+  //   init({
+  //     sitecoreEdgeUrl: config.sitecoreEdgeUrl,
+  //     sitecoreEdgeContextId: config.sitecoreEdgeContextId,
+  //     siteName: config.sitecoreSiteName,
+  //     enableBrowserCookie: true,
+  //   });
+  //   console.log('Initialized the personalize/browser module.');
+  // }
 
   function handleClick() {
     context
@@ -42,18 +44,44 @@ export const Default = (props: CustomerDataProps): JSX.Element => {
     console.log('Sent identity event.');
   }
 
-  const GetGuestDataResponse = personalize({
-    channel: 'WEB',
-    currency: 'EUR',
-    friendlyId: 'get_customer_data',
-  });
-  console.log('This experience is now running:', GetGuestDataResponse);
+  //setGuestData(GetGuestDataResponse);
+  useEffect(() => {
+    // declare the data fetching function
+    const fetchData = async () => {
+      const GetGuestDataResponse = await personalize({
+        channel: 'WEB',
+        currency: 'EUR',
+        friendlyId: 'get_customer_data',
+      });
+      console.log('This experience is now running:', GetGuestDataResponse);
+      setGuestData(GetGuestDataResponse);
+    };
+    // call the function
+    fetchData()
+      // make sure to catch any error
+      .catch(console.error);
+  }, []);
+
+  //setGuestData(GetGuestDataResponse);
+  useEffect(() => {
+    // declare the data fetching function
+    const fetchData = async () => {
+      const GetPersonalizedDataResponse = await personalize({
+        channel: 'WEB',
+        currency: 'EUR',
+        friendlyId: 'demo_interactive_experience_scm',
+      });
+      console.log('This experience is now running:', GetPersonalizedDataResponse);
+      setGuestPersonalizedData(GetPersonalizedDataResponse);
+    };
+    // call the function
+    fetchData()
+      // make sure to catch any error
+      .catch(console.error);
+  }, []);
 
   return (
-    <div
-      className={`component contact-form component-spaced ${props.params.styles.trimEnd()}`}
-      id={id ? id : undefined}
-    >
+    <div className={`component contact-form component-spaced`}>
       <div className="container">
         <div className="contact-form-inner">
           <form>
@@ -73,9 +101,45 @@ export const Default = (props: CustomerDataProps): JSX.Element => {
         </div>
         <br />
         <br />
-        <h2 className="mb-4">My Customer Data</h2>
-        <p>{}</p>
+
         <h2 className="mb-4">My Personalized Data</h2>
+        <p>
+          <strong>Personalized welcome message</strong>
+        </p>
+        <ul>
+          <li>{guestPersonalizedData.welcomeMessage}</li>
+        </ul>
+        <p>
+          <strong>Favorite brand</strong>
+        </p>
+        <ul>
+          <li>{guestPersonalizedData.favoriteBrand}</li>
+        </ul>
+        <p>
+          <strong>Favorite product</strong>
+        </p>
+        <ul>
+          <li>{guestPersonalizedData.favoriteProduct}</li>
+        </ul>
+
+        <h2 className="mb-4">My Customer Data</h2>
+        <ul>
+          <li>
+            <strong>Email:</strong> {guestData?.email}
+          </li>
+          <li>
+            <strong>Title:</strong> {guestData?.title}
+          </li>
+          <li>
+            <strong>First name:</strong> {guestData?.firstName}
+          </li>
+          <li>
+            <strong>Last name:</strong> {guestData?.lastName}
+          </li>
+          <li>
+            <strong>Country:</strong> {guestData?.country}
+          </li>
+        </ul>
       </div>
     </div>
   );

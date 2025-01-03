@@ -23,14 +23,16 @@ const SitecorePage = ({
 
   const initPersonalize = useCallback(async () => {
     if (typeof window !== 'undefined') {
+      console.log('Running in the if');
+      console.log('test env var' + config.sitecoreEdgeUrl);
       await init({
         sitecoreEdgeUrl: config.sitecoreEdgeUrl,
         sitecoreEdgeContextId: config.sitecoreEdgeContextId,
         siteName: config.sitecoreSiteName,
         enableBrowserCookie: true,
       });
-      console.log('Initialized the personalize/browser module.');
     }
+    console.log('Initialized the personalize/browser module.');
 
     // const personalizeResponse = await personalize({
     //   channel: 'WEB',
@@ -47,9 +49,11 @@ const SitecorePage = ({
     // console.log('This experience is now running:', getGuestDataResponse);
   }, []);
 
-  useEffect(() => {
-    initPersonalize();
-  }, [initPersonalize]);
+  initPersonalize();
+
+  // useEffect(() => {
+  //   initPersonalize();
+  // }, [initPersonalize]);
 
   if (notFound || !layoutData.sitecore.route) {
     // Shouldn't hit this (as long as 'notFound' is being returned below), but just to be safe
