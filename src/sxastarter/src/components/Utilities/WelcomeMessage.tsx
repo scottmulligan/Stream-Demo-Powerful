@@ -63,10 +63,10 @@ export const Default = ({}: WelcomeMessageProps): JSX.Element => {
     return (
       <div className={`component rich-text contact-form component-spaced`}>
         <div className="container">
-          <h2 className="mb-4">Hello, $FirstName!</h2>
+          <h2 className="mb-4">Hello, $firstname!</h2>
           <p>
             <strong>
-              Personalized welcome message will display here if the user is identified.
+              A personalized welcome message will display here if the user is identified.
             </strong>
           </p>
         </div>
