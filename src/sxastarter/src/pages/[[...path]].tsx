@@ -33,20 +33,6 @@ const SitecorePage = ({
       });
     }
     console.log('Initialized the personalize/browser module.');
-
-    // const personalizeResponse = await personalize({
-    //   channel: 'WEB',
-    //   currency: 'EUR',
-    //   friendlyId: 'demo_interactive_experience_scm',
-    // });
-    // console.log('This experience is now running:', personalizeResponse);
-
-    // const getGuestDataResponse = await personalize({
-    //   channel: 'WEB',
-    //   currency: 'EUR',
-    //   friendlyId: 'get_customer_data',
-    // });
-    // console.log('This experience is now running:', getGuestDataResponse);
   }, []);
 
   initPersonalize();
