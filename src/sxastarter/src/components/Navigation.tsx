@@ -6,6 +6,7 @@ import {
   TextField,
   useSitecoreContext,
 } from '@sitecore-jss/sitecore-jss-nextjs';
+import { MiniCart } from './Products/MiniCart';
 
 interface Fields {
   Id: string;
@@ -105,7 +106,14 @@ export const Default = (props: NavigationProps): JSX.Element => {
         <div className="component-content">
           <nav>
             {/* DEMO TEAM CUSTOMIZATION */}
-            <ul>{list}</ul>
+            <ul>
+              {list}
+              {/* DEMO TEAM CUSTOMIZATION */}
+              <li>
+                <MiniCart />
+              </li>
+              {/* END DEMO TEAM CUSTOMIZATION */}
+            </ul>
           </nav>
         </div>
       </label>

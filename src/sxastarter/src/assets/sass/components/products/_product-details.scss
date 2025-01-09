@@ -1,0 +1,38 @@
+.product-details {
+  .product-details-footer {
+    border-top: 1px solid var(--hr-color);
+  }
+
+  .spinner-border {
+    width: 1em;
+    height: 1em;
+    border-width: 0.3em;
+  }
+
+  .add-to-cart {
+    min-width: 200px;
+  }
+}
+
+.quantity-control {
+  .quantity-value {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+
+  .quantity-button {
+    background: none;
+    border: none;
+    font-size: 1.25rem;
+    cursor: pointer;
+
+    &:hover:not(:disabled) {
+      font-weight: bold;
+    }
+
+    &:disabled {
+      opacity: 0.2;
+      cursor: not-allowed;
+    }
+  }
+}
