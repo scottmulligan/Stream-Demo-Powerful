@@ -12,7 +12,7 @@ class EdgePlatformPlugin implements ConfigPlugin {
   async exec(config: JssConfig) {
     const sitecoreEdgeUrl =
       process.env[`${constantCase('sitecoreEdgeUrl')}`]?.replace(/\/$/, '') ||
-      'https://edge-platform-staging.sitecore-staging.cloud';
+      'https://edge-platform.sitecorecloud.io';
     const sitecoreEdgeContextId = process.env[`${constantCase('sitecoreEdgeContextId')}`];
 
     if (config.sitecoreApiKey && sitecoreEdgeContextId) {
