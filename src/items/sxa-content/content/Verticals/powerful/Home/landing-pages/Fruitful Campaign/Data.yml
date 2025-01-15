@@ -1,0 +1,18 @@
+﻿---
+ID: "6a10c412-682c-4d18-940c-69104de2c2cc"
+Parent: "e9f099b7-7108-4877-b2a7-dca27758c0a1"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/powerful/Home/landing-pages/Fruitful Campaign/Data"
+BranchID: "c6d7d12b-a82d-400d-8977-863ed045bf9b"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{AE920D6C-1766-434E-B534-E83F6CF684DA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bfee725b-3db5-4c55-8732-3464c845dab8"

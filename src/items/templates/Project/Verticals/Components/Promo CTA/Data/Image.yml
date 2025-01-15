@@ -4,6 +4,9 @@ Parent: "0799ce0d-c5c5-49df-a3e1-93cfb71e95b9"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
 Path: /sitecore/templates/Project/Verticals/Components/Promo CTA/Data/Image
 SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "query:$siteMedia"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Image
@@ -20,4 +23,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cb783429-3f23-46a0-8405-ef88a6a7d0ac"
+      Value: "32f48b83-a832-4a2f-9ce2-ebcd15a6a6ce"

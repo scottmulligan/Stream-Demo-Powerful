@@ -1,0 +1,24 @@
+﻿---
+ID: "66fceb84-49c7-4bf2-b239-63ed1607c465"
+Parent: "6a10c412-682c-4d18-940c-69104de2c2cc"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: "/sitecore/content/Verticals/powerful/Home/landing-pages/Fruitful Campaign/Data/Promo CTA 2"
+SharedFields:
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="8f6bbf84-b5f5-4327-a35d-95b8ac56cc29" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: Lift your 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3fd85e5d-a002-4f05-9647-bbf09418c580"
