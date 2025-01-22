@@ -1,0 +1,18 @@
+﻿---
+ID: "937e3f3e-92e1-4b18-b0cd-0cba6847ae6a"
+Parent: "36fb1a67-eb6c-44de-875a-b1fa585b79b3"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/Verticals/powerful/Home/landing-pages/Storyboard Drag and Drop/Data"
+BranchID: "c6d7d12b-a82d-400d-8977-863ed045bf9b"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{AE920D6C-1766-434E-B534-E83F6CF684DA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70d8d220-0824-4c6e-b517-652cbe05b1a1"

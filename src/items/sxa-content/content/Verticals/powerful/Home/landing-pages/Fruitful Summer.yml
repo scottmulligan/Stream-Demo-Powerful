@@ -1,8 +1,8 @@
 ﻿---
-ID: "ff1385a5-82dd-4e4c-b298-e22b10a30033"
+ID: "c1892dae-f994-499d-bd35-0d1c46bd4b6a"
 Parent: "6970938a-6777-4ede-8707-7f1c1e499ffa"
 Template: "1226c3c7-2d1f-48f5-87b4-c1da459f05e5"
-Path: "/sitecore/content/Verticals/powerful/Home/landing-pages/New Landing Page"
+Path: "/sitecore/content/Verticals/powerful/Home/landing-pages/Fruitful Summer"
 BranchID: "c6d7d12b-a82d-400d-8977-863ed045bf9b"
 SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
@@ -58,35 +58,19 @@ Languages:
                 <ruleset
                   s:pet="true">
                   <rule
-                    uid="{9573FA9A-8CBF-40D7-B7C9-F745D9504C5D}"
-                    s:name="df32940d148b4ad68fb3c63ff981b0d2_6a25bc720c3b43388d1545f6fb4cff32">
+                    uid="{039DE5FF-8742-48EE-AC5D-6CE7146EA780}"
+                    s:name="11bb44f2cbbe4028a50f41151fc736ae">
                     <conditions>
                       <condition
-                        uid="3236E528410440A59460E7175220C3A4"
+                        uid="5C3E7480C7A1403188F44916DF89A49F"
                         s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
-                        s:VariantName="df32940d148b4ad68fb3c63ff981b0d2_6a25bc720c3b43388d1545f6fb4cff32" />
+                        s:VariantName="11bb44f2cbbe4028a50f41151fc736ae" />
                     </conditions>
                     <actions>
                       <action
-                        uid="{4065D251-0DA0-45EC-A7DB-93BA766EBDB2}"
+                        uid="{027607A0-9054-45B3-A3BB-83053C67E374}"
                         s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
-                        s:DataSource="05f0ce8f-6a93-4665-9520-90dbb986a8c3" />
-                    </actions>
-                  </rule>
-                  <rule
-                    uid="{442F4EA5-AB6B-4792-908A-6222A0B080C7}"
-                    s:name="df32940d148b4ad68fb3c63ff981b0d2_552def085abb441fa4edb3b90455d0bb">
-                    <conditions>
-                      <condition
-                        uid="09FD8105E6B742A1B7B4B38EE509CC78"
-                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
-                        s:VariantName="df32940d148b4ad68fb3c63ff981b0d2_552def085abb441fa4edb3b90455d0bb" />
-                    </conditions>
-                    <actions>
-                      <action
-                        uid="{DCE6DC34-46EA-4E5F-8F7F-A199E5BDCF81}"
-                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
-                        s:DataSource="5771f375-ab6a-4ada-88b1-6732f506d093" />
+                        s:DataSource="1936a2ed-e5a9-4610-aa97-2e9ff685ddd2" />
                     </actions>
                   </rule>
                   <rule
@@ -94,7 +78,7 @@ Languages:
                     s:name="Default">
                     <conditions>
                       <condition
-                        uid="AC135370735948D9B585B532A681AB29"
+                        uid="6E1FE60D6DDD4B1BA3C3AA1A34EF0B34"
                         s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
                     </conditions>
                   </rule>
@@ -105,16 +89,17 @@ Languages:
         </r>
     - ID: "247be607-394a-4bf2-8c8a-509b07025dd9"
       Hint: Title
-      Value: New Landing Page
+      Value: Fruitful Summer
     - ID: "3d30539f-d403-496a-a512-ac885b1a2f8b"
       Hint: Content
-      Value: <p>Lorem ipsum dolor sit amet</p>
+      Value: |
+        <div class="ck-content"><p>Your ultimate thirst-quenchers</p></div>
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{C8FF2A20-ABA6-409B-AD69-955CD5219D07}"
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: New Landing Page
+      Value: Fruitful Summer
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d3b19e81-7512-4dbf-9ec3-acb7aba2ac99"
+      Value: "9f08027d-6cf0-412e-b640-99ddcb9310b0"

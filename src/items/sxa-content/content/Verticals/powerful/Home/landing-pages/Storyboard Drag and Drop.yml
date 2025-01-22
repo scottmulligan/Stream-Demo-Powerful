@@ -1,8 +1,8 @@
 ﻿---
-ID: "ff1385a5-82dd-4e4c-b298-e22b10a30033"
+ID: "36fb1a67-eb6c-44de-875a-b1fa585b79b3"
 Parent: "6970938a-6777-4ede-8707-7f1c1e499ffa"
 Template: "1226c3c7-2d1f-48f5-87b4-c1da459f05e5"
-Path: "/sitecore/content/Verticals/powerful/Home/landing-pages/New Landing Page"
+Path: "/sitecore/content/Verticals/powerful/Home/landing-pages/Storyboard Drag and Drop"
 BranchID: "c6d7d12b-a82d-400d-8977-863ed045bf9b"
 SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
@@ -49,63 +49,23 @@ Languages:
               s:ph="/headless-main/sxa-page-content/landing-page-content-0-1" />
             <r
               uid="{DF32940D-148B-4AD6-8FB3-C63FF981B0D2}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{1FA10770-95D6-4DC6-B791-0238A954047F}']"
               s:ds="local:/Data/Promo CTA 1"
               s:id="{1A375FAC-6CC1-4A5A-A159-9BC6DBC66B80}"
               s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B49F0CFD6-EF47-4AD3-B011-3622D1AB250D%7D&amp;Styles=%7B556C1B7B-E0B6-42CB-BDD7-CAC09677991E%7D%7C%7BC631FF42-A943-46CF-8CA9-52578F078B7F%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
-              s:ph="/headless-main/sxa-page-content/landing-page-content-0-1">
-              <rls>
-                <ruleset
-                  s:pet="true">
-                  <rule
-                    uid="{9573FA9A-8CBF-40D7-B7C9-F745D9504C5D}"
-                    s:name="df32940d148b4ad68fb3c63ff981b0d2_6a25bc720c3b43388d1545f6fb4cff32">
-                    <conditions>
-                      <condition
-                        uid="3236E528410440A59460E7175220C3A4"
-                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
-                        s:VariantName="df32940d148b4ad68fb3c63ff981b0d2_6a25bc720c3b43388d1545f6fb4cff32" />
-                    </conditions>
-                    <actions>
-                      <action
-                        uid="{4065D251-0DA0-45EC-A7DB-93BA766EBDB2}"
-                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
-                        s:DataSource="05f0ce8f-6a93-4665-9520-90dbb986a8c3" />
-                    </actions>
-                  </rule>
-                  <rule
-                    uid="{442F4EA5-AB6B-4792-908A-6222A0B080C7}"
-                    s:name="df32940d148b4ad68fb3c63ff981b0d2_552def085abb441fa4edb3b90455d0bb">
-                    <conditions>
-                      <condition
-                        uid="09FD8105E6B742A1B7B4B38EE509CC78"
-                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
-                        s:VariantName="df32940d148b4ad68fb3c63ff981b0d2_552def085abb441fa4edb3b90455d0bb" />
-                    </conditions>
-                    <actions>
-                      <action
-                        uid="{DCE6DC34-46EA-4E5F-8F7F-A199E5BDCF81}"
-                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
-                        s:DataSource="5771f375-ab6a-4ada-88b1-6732f506d093" />
-                    </actions>
-                  </rule>
-                  <rule
-                    uid="{00000000-0000-0000-0000-000000000000}"
-                    s:name="Default">
-                    <conditions>
-                      <condition
-                        uid="AC135370735948D9B585B532A681AB29"
-                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
-                    </conditions>
-                  </rule>
-                </ruleset>
-              </rls>
-            </r>
+              s:ph="/headless-main/sxa-page-content/landing-page-content-0-1" />
+            <r
+              uid="{DA164BF4-8B67-4450-9D56-796389FCD0F1}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Promo CTA 2"
+              s:id="{1A375FAC-6CC1-4A5A-A159-9BC6DBC66B80}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B49F0CFD6-EF47-4AD3-B011-3622D1AB250D%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/sxa-page-content/page-content-0-1" />
           </d>
         </r>
     - ID: "247be607-394a-4bf2-8c8a-509b07025dd9"
       Hint: Title
-      Value: New Landing Page
+      Value: Storyboard Drag and Drop
     - ID: "3d30539f-d403-496a-a512-ac885b1a2f8b"
       Hint: Content
       Value: <p>Lorem ipsum dolor sit amet</p>
@@ -114,7 +74,7 @@ Languages:
       Value: "{C8FF2A20-ABA6-409B-AD69-955CD5219D07}"
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
-      Value: New Landing Page
+      Value: Storyboard Drag and Drop
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d3b19e81-7512-4dbf-9ec3-acb7aba2ac99"
+      Value: "9c492932-59d8-4dfc-8ca0-4c55fed6db71"

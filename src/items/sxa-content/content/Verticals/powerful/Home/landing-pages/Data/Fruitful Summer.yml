@@ -1,0 +1,34 @@
+﻿---
+ID: "1936a2ed-e5a9-4610-aa97-2e9ff685ddd2"
+Parent: "94638f14-b5e4-4f51-a2d7-778e917f61b1"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: "/sitecore/content/Verticals/powerful/Home/landing-pages/Data/Fruitful Summer"
+SharedFields:
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="b071e571-66b3-4b39-bc87-864502bf0c3c" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: "Refresh your summer with Fruitful Lemonades!"
+    - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
+      Hint: Eyebrow
+      Value: Summer's Fresh Escape
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dc9f8ec3-f2b0-40b6-9981-fff19f7fa465"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><p>Dive into the ultimate refreshment! Fruitful's new lemonades bring vibrant fruit flavors and natural energy to every sunny moment. Sip, savor and stay cool all summer long!</p></div>
+    - ID: "e4f11fe1-3b24-42e4-8cea-9ed7fda32bab"
+      Hint: Subtitle
+      Value: "Low-calorie lemonades in lemon, orange and lime"

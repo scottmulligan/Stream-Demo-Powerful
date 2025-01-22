@@ -1,0 +1,13 @@
+﻿---
+ID: "491ca638-ab4e-48ad-a7b4-dd220201d13e"
+Parent: "937e3f3e-92e1-4b18-b0cd-0cba6847ae6a"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: "/sitecore/content/Verticals/powerful/Home/landing-pages/Storyboard Drag and Drop/Data/Promo CTA 2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f59e286c-177b-4f67-813a-2637f954bf34"

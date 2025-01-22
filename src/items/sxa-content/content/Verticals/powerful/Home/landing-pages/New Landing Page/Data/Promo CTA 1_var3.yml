@@ -1,0 +1,43 @@
+﻿---
+ID: "05f0ce8f-6a93-4665-9520-90dbb986a8c3"
+Parent: "1f836953-1aa9-435a-aa87-d1ee21225bbc"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: "/sitecore/content/Verticals/powerful/Home/landing-pages/New Landing Page/Data/Promo CTA 1_var3"
+BranchID: "c6d7d12b-a82d-400d-8977-863ed045bf9b"
+SharedFields:
+- ID: "e495efd3-5c43-45fc-af43-796a6b503716"
+  Hint: Image
+  Value: |
+    <image mediaid="77ba2569-2267-43db-8a9b-6399b0c2192b" />
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{DB076ACA-84B6-414E-AF03-B451F2144639}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
+      Hint: Title
+      Value: "Discover the Zest of Real Fruit in Every Bottle!"
+    - ID: "2fbad11a-8129-4c7e-aacc-6973619327a1"
+      Hint: Eyebrow
+      Value: Fuel Your Day, Naturally
+    - ID: "32f3e9b1-c441-4285-a063-0897453f37e2"
+      Hint: Link2
+      Value: |
+        <link linktype="external" url="https://example.com" target="" text="More details" title="" class=""/>
+    - ID: "507ba267-78fc-42f1-ac96-a1cb769b6de6"
+      Hint: Link
+      Value: |
+        <link linktype="internal" id="C20C4721-6206-4DEA-8063-39302065C2B5" anchor="" querystring="" target="" class="" text="Details" title=""/>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93d18014-5746-4085-aef9-e6d5de30f8c4"
+    - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><p><i>Infused with authentic fruit flavors, refreshing energy, and vital nutrients, Fruitful is your daily dose of health and vitality in one sip.</i></p><p>This variation emphasizes the benefits in a dynamic way while keeping a fresh and engaging tone for comparison.</p></div>

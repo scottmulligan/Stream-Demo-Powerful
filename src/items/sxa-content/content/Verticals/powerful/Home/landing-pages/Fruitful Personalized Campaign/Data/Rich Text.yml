@@ -1,0 +1,25 @@
+﻿---
+ID: "b9c8cc07-e952-4982-b0a5-b0c79b13cd37"
+Parent: "8c131906-c241-40ca-bbfd-26e30e02603c"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/Verticals/powerful/Home/landing-pages/Fruitful Personalized Campaign/Data/Rich Text"
+BranchID: "c6d7d12b-a82d-400d-8977-863ed045bf9b"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{527A11E8-6EB9-4C2C-88BF-FA623A1D31F1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><p>This summer, beat the heat with Fruitful’s refreshable fruit lemonades! Bursting with the zesty flavors of lemon, orange, and lime, these low-calorie drinks are the perfect blend of taste and health. Whether you’re lounging on the beach or enjoying a sunny adventure, our lemonades bring the natural energy and vibrancy of fruits to every moment. Stay cool, stay refreshed, and make every sip a splash of summer fun!</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ea06192e-fe39-47b5-9851-59e7af3bf710"
