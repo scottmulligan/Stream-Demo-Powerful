@@ -1,0 +1,13 @@
+﻿---
+ID: "30f133f2-e05b-43ec-9a09-a613b02d0ff5"
+Parent: "77b42a36-b94f-4ef2-b8f2-72586ef60cf3"
+Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
+Path: "/sitecore/content/play-stores/play-usa/Data/Images"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5200a81c-34d9-447c-8823-d4f6cd1f8a4c"

@@ -1,0 +1,13 @@
+﻿---
+ID: "334967b7-94f1-42df-95aa-ee2077ec787e"
+Parent: "54cea680-ff94-4670-891a-48ea7be814b2"
+Template: "54cea680-ff94-4670-891a-48ea7be814b2"
+Path: "/sitecore/templates/Project/play-nutrition/Headless Site/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "231e66a2-39f4-4aa3-9277-b28d2d3fd669"

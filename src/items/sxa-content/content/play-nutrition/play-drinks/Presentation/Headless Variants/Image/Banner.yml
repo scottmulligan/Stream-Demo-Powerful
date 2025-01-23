@@ -1,0 +1,17 @@
+﻿---
+ID: "1dd0afe6-2f84-4163-a19a-8b290b625c41"
+Parent: "432dfbf0-df2b-483c-96f5-3af739975fc8"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/play-nutrition/play-drinks/Presentation/Headless Variants/Image/Banner"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ddbff08-17c7-40a2-9fc2-457947c7d45d"

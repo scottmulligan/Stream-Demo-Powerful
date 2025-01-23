@@ -1,0 +1,13 @@
+﻿---
+ID: "2797bac9-f8da-499b-96cd-31a792c52655"
+Parent: "0af56f64-b5d7-473f-9497-1dc19265e494"
+Template: "b4d86f9b-e917-4d68-978e-741361332174"
+Path: "/sitecore/system/Settings/Project/play-stores"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "37e7c4c9-1702-4dc0-9016-023d8d6ee662"

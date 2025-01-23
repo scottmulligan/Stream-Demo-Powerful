@@ -1,0 +1,13 @@
+﻿---
+ID: "6ae264b4-1b52-4f23-a5f2-d19033e714ef"
+Parent: "ae509160-a315-439c-95c8-f7be9d2d0d0d"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/campaigns/Page/Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da5dec60-522d-4bf7-a166-43a4920b9b47"

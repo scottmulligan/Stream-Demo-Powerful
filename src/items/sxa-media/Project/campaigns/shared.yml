@@ -1,0 +1,13 @@
+﻿---
+ID: "e9ffd265-9933-47c9-aa92-f0e45f175fda"
+Parent: "5f60dbe2-453c-4e2b-bbee-f36704fe37c8"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/campaigns/shared
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f273d4c8-1852-4a11-acec-a2f39ac4853a"

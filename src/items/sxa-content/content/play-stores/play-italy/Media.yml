@@ -1,0 +1,24 @@
+﻿---
+ID: "7c6fd8c7-2ffb-4f53-904b-ba989360da69"
+Parent: "a7e91c88-648c-45ba-baf9-017d60308342"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: "/sitecore/content/play-stores/play-italy/Media"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
+  Hint: AdditionalChildren
+  Value: |
+    {CD412C6C-6B92-4461-9772-735199670956}
+    {3F72A8CA-919D-4EF6-8918-B0D6D3B3AD5E}
+    {B4D0BE7D-1DCD-4263-9EDE-9E6693DA8BCB}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A7F39EA2-9018-4622-891D-CB65627E5AF2}"
+Languages:
+- Language: "it-IT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b217dbd0-1e2a-47b9-bca7-6c32838739b3"

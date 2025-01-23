@@ -1,0 +1,13 @@
+﻿---
+ID: "0b612019-e3c2-47d6-a4e2-e8df5a77c725"
+Parent: "16afcf57-3297-402d-930d-de911c8f5cf2"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: "/sitecore/content/play-nutrition/nutrilife/Data/Texts"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6bc8463d-a4ca-46f2-b750-54400d5fbb80"

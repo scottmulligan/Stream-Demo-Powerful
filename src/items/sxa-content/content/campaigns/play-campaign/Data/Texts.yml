@@ -1,0 +1,13 @@
+﻿---
+ID: "faa2d642-8b0a-4054-ad60-6305e54d1268"
+Parent: "006a740f-b8c2-43ec-b67d-6612896e72b9"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: "/sitecore/content/campaigns/play-campaign/Data/Texts"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc96a987-f713-45dc-9e05-543c12e99222"

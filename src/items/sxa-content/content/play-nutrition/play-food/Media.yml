@@ -1,0 +1,24 @@
+﻿---
+ID: "2b8b08e3-4a0a-41b3-b811-270c02d3d734"
+Parent: "1ffad6e9-2744-4aec-bc71-6eb31900e844"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: "/sitecore/content/play-nutrition/play-food/Media"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
+  Hint: AdditionalChildren
+  Value: |
+    {F4972A2F-3A4F-49C2-92AB-E5A89E4406F1}
+    {B496032E-8D8E-49F7-9655-1E6E92BAACF6}
+    {B4D0BE7D-1DCD-4263-9EDE-9E6693DA8BCB}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A7F39EA2-9018-4622-891D-CB65627E5AF2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d9e227a3-ce5d-4c38-9ae0-636843fcb1be"

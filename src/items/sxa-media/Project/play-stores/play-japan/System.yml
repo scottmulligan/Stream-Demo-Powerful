@@ -1,0 +1,13 @@
+﻿---
+ID: "e14239ae-2ec4-4cb5-9421-a343b156783a"
+Parent: "eb7ed2bb-f3c0-4cb4-b8dd-b2856d895a98"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/play-stores/play-japan/System"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5d790c39-9eb3-43e7-b133-5b309983b6cf"

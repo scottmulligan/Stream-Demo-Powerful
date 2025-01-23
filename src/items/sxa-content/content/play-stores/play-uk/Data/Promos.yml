@@ -1,0 +1,13 @@
+﻿---
+ID: "5aaa4b86-5bec-4f85-9407-a500f36740ed"
+Parent: "d5b807f7-5de8-4109-8c02-b0fa65573d0a"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/play-stores/play-uk/Data/Promos"
+Languages:
+- Language: "en-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aa122021-faad-4abf-8da3-83e234d2d1a3"

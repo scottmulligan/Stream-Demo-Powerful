@@ -1,0 +1,13 @@
+﻿---
+ID: "d99d9fae-a35a-499f-aa17-bd184c213074"
+Parent: "6d9d80f0-1382-4640-a6bf-a07d60fae81f"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: "/sitecore/content/play-stores/play-spain/Data/Link Lists"
+Languages:
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9cc1464f-9fb2-4f0c-9b36-11b50cf073ec"

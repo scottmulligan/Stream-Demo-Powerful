@@ -1,0 +1,13 @@
+﻿---
+ID: "baeebb8d-2353-466a-b420-40fe2b389892"
+Parent: "227d1367-79bd-4a5d-a102-763bf691517b"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: "/sitecore/content/play-stores/play-japan/Data/Tags"
+Languages:
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "072a520b-9f25-4173-8725-3a0b8ead2ed9"

@@ -1,0 +1,13 @@
+﻿---
+ID: "eb7ed2bb-f3c0-4cb4-b8dd-b2856d895a98"
+Parent: "7b8fb9bc-63ec-4cfa-b2c9-f4477734ad18"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/play-stores/play-japan"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9ca5b68d-6925-4a6d-a75b-9fcd6f12fa0b"

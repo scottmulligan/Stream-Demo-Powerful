@@ -1,0 +1,13 @@
+﻿---
+ID: "a029f66e-2fd8-4acf-bb00-3ccb1ab813b4"
+Parent: "106789f1-0063-4d7a-88e9-550b57698b51"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: "/sitecore/content/play-stores/play-italy/Data/Texts"
+Languages:
+- Language: "it-IT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e83ca780-86f6-4c83-b7e8-427f59e37e13"

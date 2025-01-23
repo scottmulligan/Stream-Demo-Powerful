@@ -1,0 +1,13 @@
+﻿---
+ID: "26bd5546-efe5-4163-ad0c-7d97e6aac3ef"
+Parent: "53c2701f-2ba8-4877-a99f-1365d5f8527b"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/play-stores/play-netherlands/Data/Promos"
+Languages:
+- Language: "nl-NL"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f59d6f00-98d6-461e-a998-95a208d2dcdf"

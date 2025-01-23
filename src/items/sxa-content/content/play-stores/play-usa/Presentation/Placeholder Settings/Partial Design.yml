@@ -1,0 +1,13 @@
+﻿---
+ID: "1e907901-20d4-4e13-8a2c-32932f7f3b56"
+Parent: "dfa14cbc-19c5-44eb-bc51-3fced1c72218"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/play-stores/play-usa/Presentation/Placeholder Settings/Partial Design"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "565fd5f7-6f18-4324-a998-a5d38f69b5a6"

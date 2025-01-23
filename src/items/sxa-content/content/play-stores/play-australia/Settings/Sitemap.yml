@@ -1,0 +1,18 @@
+﻿---
+ID: "afcfcf61-f9bd-40ff-a276-ad8f578adf1e"
+Parent: "0be424ef-5a92-4b2c-8eb0-f6a7f98a3161"
+Template: "c71d8566-35c8-49b7-a84d-9d176e9cbd05"
+Path: "/sitecore/content/play-stores/play-australia/Settings/Sitemap"
+BranchID: "adb13058-5c08-4827-8f30-a269342a2e9e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{39E85A50-1AC7-4A65-A7F5-C726259BEC26}"
+Languages:
+- Language: "en-AU"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d371e50d-55ec-46e2-98d6-c63da128e575"

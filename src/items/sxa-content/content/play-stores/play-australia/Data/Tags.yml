@@ -1,0 +1,13 @@
+﻿---
+ID: "d2878218-67db-4cd4-a342-6075246c0ddd"
+Parent: "783b98c7-e032-4c95-99ba-2a3908f1d2fc"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: "/sitecore/content/play-stores/play-australia/Data/Tags"
+Languages:
+- Language: "en-AU"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1832054e-7e83-4368-9857-e4678026456b"

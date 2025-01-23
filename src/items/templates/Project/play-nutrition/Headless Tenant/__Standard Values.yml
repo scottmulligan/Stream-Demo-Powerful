@@ -1,0 +1,13 @@
+﻿---
+ID: "94277603-e721-48fc-9eb4-dcdf3b750716"
+Parent: "1e6836bb-d78e-4427-a663-7dc680939c40"
+Template: "1e6836bb-d78e-4427-a663-7dc680939c40"
+Path: "/sitecore/templates/Project/play-nutrition/Headless Tenant/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19f1960e-2851-40db-8a8d-401e941062cf"

@@ -1,0 +1,13 @@
+﻿---
+ID: "3b766a4d-939f-4434-88ff-6e2f6b14a09e"
+Parent: "43e9c33a-dd0e-46b3-a728-665e815ed592"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/play-stores/play-uk/Presentation/Placeholder Settings/Partial Design"
+Languages:
+- Language: "en-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bad3e076-10c1-42ae-bcf6-276723ec9660"

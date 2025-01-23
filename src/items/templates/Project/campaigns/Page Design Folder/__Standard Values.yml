@@ -1,0 +1,19 @@
+﻿---
+ID: "ff95e8d6-dd1a-4aee-9b4e-17c4a8943678"
+Parent: "5c80a255-8707-42a2-9b3e-a3757d8c52a6"
+Template: "5c80a255-8707-42a2-9b3e-a3757d8c52a6"
+Path: /sitecore/templates/Project/campaigns/Page Design Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {5C80A255-8707-42A2-9B3E-A3757D8C52A6}
+    {1105B8F8-1E00-426B-BF1F-C840742D827B}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1984f3ff-f46a-4e27-bd46-417729d44480"

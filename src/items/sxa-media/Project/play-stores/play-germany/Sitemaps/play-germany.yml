@@ -1,0 +1,13 @@
+﻿---
+ID: "c5660671-76f7-4cfd-b02a-fb00c3f27dfa"
+Parent: "03476593-e14a-495a-ac51-f2a0b534952d"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/play-stores/play-germany/Sitemaps/play-germany"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "533524d9-b53f-4c6e-99b9-efaacda11c05"

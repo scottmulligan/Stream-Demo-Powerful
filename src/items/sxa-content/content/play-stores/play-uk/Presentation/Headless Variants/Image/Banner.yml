@@ -1,0 +1,17 @@
+﻿---
+ID: "6ea4bc62-4055-4f9e-9f90-713945f60811"
+Parent: "5106ef8a-4d07-4e99-a75b-d314114025bc"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/play-stores/play-uk/Presentation/Headless Variants/Image/Banner"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "en-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9e1e47f-6070-45c1-b5ca-980696947145"

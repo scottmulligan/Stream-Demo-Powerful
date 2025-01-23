@@ -1,0 +1,13 @@
+﻿---
+ID: "1c8e7a13-4f0e-4c32-a641-a2a4e7e87efa"
+Parent: "8a1787fe-93e8-4942-9654-db00f732baec"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/play-stores/play-spain/Sitemaps/play-spain"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8b804108-aafe-44a4-8164-dc0f79a6faa1"

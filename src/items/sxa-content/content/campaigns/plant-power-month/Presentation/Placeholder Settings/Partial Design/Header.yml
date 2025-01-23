@@ -1,0 +1,17 @@
+﻿---
+ID: "58345a45-1d8e-4b15-af11-9979bb06b53e"
+Parent: "30312c3b-2d91-4214-b9b7-9efce7b635f0"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/campaigns/plant-power-month/Presentation/Placeholder Settings/Partial Design/Header"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-header"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "91cc300f-eeb5-496a-93f5-15967833ba1e"

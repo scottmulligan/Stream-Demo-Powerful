@@ -1,0 +1,43 @@
+﻿---
+ID: "a7849ad9-a583-4b39-8aac-38f5d36f5b9a"
+Parent: "fa9b4e93-2a49-458a-b533-b6b40c61cc20"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/play-nutrition/play-food/Presentation/Partial Designs/Header"
+BranchID: "c755de9b-1e44-4c8f-b830-168212b57fe7"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: header
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{9EC42174-AC40-4891-8239-8C21AAD0C6E8}"
+          p:before="*"
+          s:ds="local:/Data/Title"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b625DF0EF-E7C3-4220-BA4C-D8B7D35F85F4%7d&amp;FieldNames=%7b93278AC3-BD8B-481A-A7D1-B45352166762%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b81225C08-5783-4BED-A86A-AB2B87198885%7d"
+          s:ph="headless-header" />
+        <r
+          uid="{EC8BCC80-11AA-4B73-B7F8-CB58117982D9}"
+          p:after="*[1=2]"
+          s:id="{1DEB067F-0BB1-405E-94F5-2ABB537A6160}"
+          s:par="?LevelFrom={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;LevelTo={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;FieldNames=%7b97ABAA4A-CFA1-4B35-B8B8-7C479404FAD6%7d&amp;AddRoot=1&amp;Styles=%7b34B806D3-8227-47BD-96A7-90A9F875F0D8%7d%7c%7b53FDD23E-30CC-4097-947D-11E9B752D651%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;NavigationRoot=%7b9AD8ED92-A6DE-4B7C-A245-B2CED5FABEE5%7d"
+          s:ph="headless-header" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D044EFED-079F-4CB1-9D22-E7BFF1DB5A8F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7a3f3fc7-d8e9-4936-ad3f-24cf5b835628"

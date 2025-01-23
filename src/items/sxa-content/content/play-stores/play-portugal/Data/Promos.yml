@@ -1,0 +1,13 @@
+﻿---
+ID: "4b348a44-121e-4d6e-858c-2e78de37c667"
+Parent: "fbd3bd19-11f6-47c2-8a18-d7813631a24b"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/play-stores/play-portugal/Data/Promos"
+Languages:
+- Language: "pt-PT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "632372b7-fd71-4fc2-a615-5fb02ef102fa"

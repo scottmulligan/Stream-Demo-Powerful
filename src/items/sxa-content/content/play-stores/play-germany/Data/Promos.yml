@@ -1,0 +1,13 @@
+﻿---
+ID: "f9162651-9add-42ff-b5c8-e22c58e56e25"
+Parent: "1b901214-444c-4880-ab1c-d20b64e44e72"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/play-stores/play-germany/Data/Promos"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ccae6393-adc7-4a2c-9169-741eb0261328"

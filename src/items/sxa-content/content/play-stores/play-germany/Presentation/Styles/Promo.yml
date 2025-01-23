@@ -1,0 +1,25 @@
+﻿---
+ID: "e8ff4f7a-e651-4159-af99-8a653ca114c7"
+Parent: "b13ce66c-0493-4734-aa95-c9e5afe832f9"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: "/sitecore/content/play-stores/play-germany/Presentation/Styles/Promo"
+BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2400
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0580FC94-24D1-4226-908A-9632DE3FD787}"
+Languages:
+- Language: "de-DE"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "035c8747-5a28-4afd-9a84-da3ed9bf00ec"

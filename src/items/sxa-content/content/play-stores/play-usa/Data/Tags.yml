@@ -1,0 +1,13 @@
+﻿---
+ID: "207a70e5-5c5d-4ca7-9b78-8820a901148b"
+Parent: "77b42a36-b94f-4ef2-b8f2-72586ef60cf3"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: "/sitecore/content/play-stores/play-usa/Data/Tags"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be1c23c5-217d-451f-9c7d-50ba37c0dea1"

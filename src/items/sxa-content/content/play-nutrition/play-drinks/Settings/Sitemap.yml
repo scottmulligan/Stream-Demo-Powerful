@@ -1,0 +1,18 @@
+﻿---
+ID: "178078b2-8d9d-4cab-868a-95410f88a63e"
+Parent: "331a33d4-884f-4aba-ab52-fc08ae1bc6b2"
+Template: "c71d8566-35c8-49b7-a84d-9d176e9cbd05"
+Path: "/sitecore/content/play-nutrition/play-drinks/Settings/Sitemap"
+BranchID: "adb13058-5c08-4827-8f30-a269342a2e9e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{39E85A50-1AC7-4A65-A7F5-C726259BEC26}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d0a4723d-ed11-4142-8fa5-4d71846e7c14"

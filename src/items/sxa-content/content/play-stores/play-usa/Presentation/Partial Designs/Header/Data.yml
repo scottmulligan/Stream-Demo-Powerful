@@ -1,0 +1,18 @@
+﻿---
+ID: "0cace5d0-cabf-448d-be8c-95a995224f9e"
+Parent: "c004ee27-e17e-4c0c-99d4-e07f392a09b2"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/play-stores/play-usa/Presentation/Partial Designs/Header/Data"
+BranchID: "c755de9b-1e44-4c8f-b830-168212b57fe7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F526FC92-9C83-4135-AE12-82EAEF5ED796}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b25af6c5-8556-4308-845e-0b6284030141"

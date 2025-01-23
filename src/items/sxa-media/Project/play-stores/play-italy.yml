@@ -1,0 +1,13 @@
+﻿---
+ID: "cd412c6c-6b92-4461-9772-735199670956"
+Parent: "7b8fb9bc-63ec-4cfa-b2c9-f4477734ad18"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/play-stores/play-italy"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2013c5a0-2cc5-4c1e-8251-d11cce187c1b"

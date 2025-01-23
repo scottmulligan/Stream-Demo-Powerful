@@ -1,0 +1,13 @@
+﻿---
+ID: "da8917af-9ce7-4578-946c-0de0b4b80bc6"
+Parent: "6d9d80f0-1382-4640-a6bf-a07d60fae81f"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/play-stores/play-spain/Data/Promos"
+Languages:
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d2956a2e-2223-421d-b92c-6d4539b321ce"

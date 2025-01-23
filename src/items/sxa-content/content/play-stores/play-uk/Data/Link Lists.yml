@@ -1,0 +1,13 @@
+﻿---
+ID: "82a90e38-3642-4ce7-b027-6917fc05df22"
+Parent: "d5b807f7-5de8-4109-8c02-b0fa65573d0a"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: "/sitecore/content/play-stores/play-uk/Data/Link Lists"
+Languages:
+- Language: "en-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1ad834d4-a61a-43e6-83c1-3f08fd1f2a3f"

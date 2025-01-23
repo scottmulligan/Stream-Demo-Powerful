@@ -1,0 +1,17 @@
+﻿---
+ID: "454b750d-6bc2-488e-830e-434190741835"
+Parent: "9bb152ec-43ad-4b2e-a379-b827085fae3a"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/play-stores/play-italy/Presentation/Headless Variants/Image/Banner"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "it-IT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b52d1be4-237e-4649-bbf0-3c57cfd2d853"

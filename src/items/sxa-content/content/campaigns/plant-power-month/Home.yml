@@ -1,0 +1,74 @@
+﻿---
+ID: "6557575b-13cd-40a5-81d4-40395a08cc6e"
+Parent: "72acd796-8a7a-4e2f-bbd6-90d4eaff64fe"
+Template: "ae509160-a315-439c-95c8-f7be9d2d0d0d"
+Path: "/sitecore/content/campaigns/plant-power-month/Home"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{5362DE50-93AA-48BB-ACB0-6B74C364A36A}"
+          p:before="*"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b2C08766A-72DE-4079-ADC0-34792231419A%7d&amp;FieldNames=%7b1D0BB84D-29A0-4F61-B6B2-5C3A96F8104F%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b3DC91543-36F8-452A-BACD-F98B0C21BCF9%7d%7c%7b6F83979B-4C3F-4EEC-8C64-F8DA29D83961%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b271DE3B1-089F-4977-95EC-B5E51446FC01%7d%7c%7b1B189E02-FFC9-4ADC-84E5-D2AB5F6EC0FB%7d%7c%7b175CB6DA-CF89-4D56-888C-EB79F514D12F%7d%7c%7b94BCE55D-68FC-4020-A364-176EF1AAAFFB%7d%7c%7bF4BC7C4C-175F-4EA4-A6D9-EFCD92507276%7d%7c%7b7DF615F7-0A53-42E1-A164-2B36D6126314%7d%7c%7b1FEC5EDD-5489-43F1-8C19-A092206E130D%7d%7c%7bB706790E-8CB2-4A93-B341-6E7171734B61%7d"
+          s:ph="headless-main" />
+        <r
+          uid="{9B62C1C2-BF2E-4136-B840-B624E42ACB85}"
+          p:after="r[@uid='{5362DE50-93AA-48BB-ACB0-6B74C364A36A}']"
+          s:ds="local:/Data/Image 1"
+          s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+          s:par="?DynamicPlaceholderId=2&amp;FieldNames=%7b13A059CA-A25D-4C92-BB40-5FA2AE245754%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d"
+          s:ph="headless-main" />
+        <r
+          uid="{E665E581-7BA6-4C06-8FE9-82FAADC078B4}"
+          p:after="r[@uid='{9B62C1C2-BF2E-4136-B840-B624E42ACB85}']"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b2CBC6C9C-FADC-47A6-8780-3C4B35AEA90B%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{58A8636B-CA0C-450C-A55E-4AB0D7FE2CF9}"
+          p:after="r[@uid='{E665E581-7BA6-4C06-8FE9-82FAADC078B4}']"
+          s:ds="local:/Data/Text 2"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b8C7D50DB-C68F-4428-A22C-4CA8D11CC268%7d&amp;FieldNames=%7b1D0BB84D-29A0-4F61-B6B2-5C3A96F8104F%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b271DE3B1-089F-4977-95EC-B5E51446FC01%7d%7c%7b1B189E02-FFC9-4ADC-84E5-D2AB5F6EC0FB%7d"
+          s:ph="/headless-main/container-1" />
+        <r
+          uid="{6BD684D7-DFF9-4F67-9378-9C1099C9ADC3}"
+          p:after="r[@uid='{58A8636B-CA0C-450C-A55E-4AB0D7FE2CF9}']"
+          s:ds="local:/Data/PromoLeft"
+          s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+          s:par="?Styles=%7bE6EDFE4B-4790-411A-8682-CBC16B3B5470%7d&amp;FieldNames=%7b92EE02B8-D95A-4C75-B7CD-01153EE468B6%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b81225C08-5783-4BED-A86A-AB2B87198885%7d%7c%7b41E4B2ED-E813-46F9-8455-C26C88E78D47%7d%7c%7b1D84575C-B71C-40B2-BE7E-65503BCD666E%7d"
+          s:ph="/headless-main/container-1" />
+        <r
+          uid="{2DE2B491-9067-4ABF-8927-3A9E65CA9479}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/PromoRight"
+          s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+          s:par="?Styles=%7bE6EDFE4B-4790-411A-8682-CBC16B3B5470%7d&amp;FieldNames=%7b92EE02B8-D95A-4C75-B7CD-01153EE468B6%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b81225C08-5783-4BED-A86A-AB2B87198885%7d%7c%7b41E4B2ED-E813-46F9-8455-C26C88E78D47%7d%7c%7b1D84575C-B71C-40B2-BE7E-65503BCD666E%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F558BEC9-C602-4D7A-B9A1-D0411C946EA4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Home
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ee362728-4210-4681-b009-c4565c5277df"
+    - ID: "bc8c245d-773a-4b97-8ead-64329f799349"
+      Hint: Title
+      Value: Home

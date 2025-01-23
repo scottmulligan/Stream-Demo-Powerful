@@ -1,0 +1,17 @@
+﻿---
+ID: "3e20a6b2-8ef3-4f1c-80ff-209b363388a6"
+Parent: "057ce913-deab-418a-94ad-0750688dfce2"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/play-nutrition/nutri-health/Presentation/Headless Variants/Image/Banner"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1cb2520c-be16-4834-9741-1838fa8906ad"

@@ -1,0 +1,24 @@
+﻿---
+ID: "a3dc0b2d-d5a3-4514-9b9e-46b8710d82e8"
+Parent: "cb8ae7b7-1eae-41b3-b38e-5cdcba303d67"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: "/sitecore/content/campaigns/play-campaign/Presentation/Styles/Navigation"
+BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
+SharedFields:
+- ID: "62ca1c9e-71a4-465f-835e-55bda7bb270b"
+  Hint: Type
+  Value: droplist
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 297
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{46B862DA-A872-428E-A381-931E57DFAF12}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b3bef32-2923-46f2-a8bc-5be4af8629ff"

@@ -1,0 +1,13 @@
+﻿---
+ID: "a1b92e87-010f-4e46-a0f8-20e08c897655"
+Parent: "6d9d80f0-1382-4640-a6bf-a07d60fae81f"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: "/sitecore/content/play-stores/play-spain/Data/Texts"
+Languages:
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "74478c28-f150-4f2d-8123-9de93b12f16f"

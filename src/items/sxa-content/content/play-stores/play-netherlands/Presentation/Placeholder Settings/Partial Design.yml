@@ -1,0 +1,13 @@
+﻿---
+ID: "307655c3-de66-4c54-aaf5-95f43b469406"
+Parent: "0b1c30a2-cf43-49bb-b05f-af1764880481"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/play-stores/play-netherlands/Presentation/Placeholder Settings/Partial Design"
+Languages:
+- Language: "nl-NL"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d0e0ac33-c4c1-498a-8c99-6d5407dd1716"

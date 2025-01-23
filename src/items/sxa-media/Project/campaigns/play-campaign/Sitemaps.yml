@@ -1,0 +1,13 @@
+﻿---
+ID: "45dfb307-afb1-47fc-89ac-fc0169ce884f"
+Parent: "f91341f5-cee5-489d-b224-1989189c170b"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/campaigns/play-campaign/Sitemaps"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4817ed63-80b6-4baa-8cb6-f89be3b9e5d3"

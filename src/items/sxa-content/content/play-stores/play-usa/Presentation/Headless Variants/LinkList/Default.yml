@@ -1,0 +1,18 @@
+﻿---
+ID: "f25405c8-0a7f-4924-8eb0-5e7154082741"
+Parent: "3cda08ab-ade8-4a76-b4e1-5a0492e9ea87"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/play-stores/play-usa/Presentation/Headless Variants/LinkList/Default"
+BranchID: "70519928-c595-4b2b-bb35-75022feecc4c"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{25F1A8E5-EB4C-4202-A9F7-A97DB52DA9AF}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "400c72f3-274d-4ab5-9212-059c28302e94"

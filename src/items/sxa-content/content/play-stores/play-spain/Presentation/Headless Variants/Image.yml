@@ -1,0 +1,21 @@
+﻿---
+ID: "30f4b54b-2df3-4fae-898e-b958d2f9c652"
+Parent: "377adf17-b2b0-47ce-bcba-b23b11e28433"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: "/sitecore/content/play-stores/play-spain/Presentation/Headless Variants/Image"
+BranchID: "ae87ba03-4197-4107-82d5-f8b1cafe3bff"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/photo_landscape.png
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{22E4CE0C-BBBC-46EC-8F36-773779104491}"
+Languages:
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04efe70b-b976-4247-abb7-f015d412690f"

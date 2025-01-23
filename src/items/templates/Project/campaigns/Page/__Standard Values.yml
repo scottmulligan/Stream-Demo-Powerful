@@ -1,0 +1,22 @@
+﻿---
+ID: "3ae038cf-3368-44eb-a258-ddf0d3d3a2c3"
+Parent: "ae509160-a315-439c-95c8-f7be9d2d0d0d"
+Template: "ae509160-a315-439c-95c8-f7be9d2d0d0d"
+Path: /sitecore/templates/Project/campaigns/Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {AE509160-A315-439C-95C8-F7BE9D2D0D0D}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9be722d-3e71-4b25-862d-f69e242ff5b9"
+    - ID: "bc8c245d-773a-4b97-8ead-64329f799349"
+      Hint: Title
+      Value: $name

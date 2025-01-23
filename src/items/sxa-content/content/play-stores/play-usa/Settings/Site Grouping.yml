@@ -1,0 +1,18 @@
+﻿---
+ID: "9817b06d-82b7-4650-82a4-8bd55922e225"
+Parent: "a84d76d8-5256-4d8e-8305-83f93511ef60"
+Template: "8357f958-9aaa-46db-8898-36448a96356f"
+Path: "/sitecore/content/play-stores/play-usa/Settings/Site Grouping"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{DA3025E0-D396-4709-A975-92DB1A722710}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "81eba142-39c7-4b54-91af-8c1dd836350c"

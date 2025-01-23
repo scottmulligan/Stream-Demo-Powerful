@@ -1,0 +1,13 @@
+﻿---
+ID: "e5c06699-b01b-4b56-be93-a9e48a82a978"
+Parent: "cd412c6c-6b92-4461-9772-735199670956"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/play-stores/play-italy/Sitemaps"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8cbfb410-5842-439a-b726-67d6c5443cd3"

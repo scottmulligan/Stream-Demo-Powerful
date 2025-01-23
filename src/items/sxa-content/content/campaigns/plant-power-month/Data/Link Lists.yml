@@ -1,0 +1,13 @@
+﻿---
+ID: "fac12a21-d5f5-4970-8aa9-7c498a97de9b"
+Parent: "6ba161b7-5c8a-4a9f-94e5-bf03c82c3280"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: "/sitecore/content/campaigns/plant-power-month/Data/Link Lists"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bccf9007-7661-453d-bdc0-0a62adc6b2e0"

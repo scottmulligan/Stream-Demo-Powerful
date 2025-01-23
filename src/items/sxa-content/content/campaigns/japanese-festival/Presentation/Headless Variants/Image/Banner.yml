@@ -1,0 +1,17 @@
+﻿---
+ID: "e1c00e11-aadf-4aa6-bf97-524ba91e1eb9"
+Parent: "686954a5-e3b2-4c10-bdee-f7fd136fe245"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/campaigns/japanese-festival/Presentation/Headless Variants/Image/Banner"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3dfa0395-e13f-4519-962a-bb543c14aad8"

@@ -1,0 +1,50 @@
+﻿---
+ID: "c7c7d3c7-17dd-4222-9b16-9464b79e75be"
+Parent: "fa9b4e93-2a49-458a-b533-b6b40c61cc20"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/play-nutrition/play-food/Presentation/Partial Designs/Footer"
+BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{A5A20EFC-157C-464C-A676-90B983A708A1}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b9689439A-1B2E-4F5C-BB74-247CDB666CDC%7d%7c%7b513052A3-4AFF-489A-AA59-69441AB16859%7d%7c%7b8504CBBA-F298-4189-B3C4-37017C7EB4BC%7d%7c%7b06A14356-DF84-40DE-9A29-EE801BD33CB4%7d%7c%7bB7CA8368-DAF2-451E-AF0E-2834FEB90012%7d%7c%7bE43483AB-3EB6-46E7-9EF1-7354EED1C768%7d%7c%7b377F11BB-1A39-4B36-9450-AF0DE487813D%7d%7c%7b7DA238A6-D176-4F97-AA3E-D0ABE59FAD08%7d%7c%7bDA99EB1A-7D44-46B8-B8F0-78D769DEE389%7d%7c%7b6A7CC6BB-3178-40F7-A549-DAF1300AC591%7d%7c%7bE6BDA760-F72F-49A2-AD47-7134D527B53E%7d%7c%7b542B4271-A5EF-4844-94A7-CC91C19E5DF1%7d%7c%7bC931FC00-C941-41A7-9990-34758BAE4E3A%7d%7c%7b4A8AE67F-356E-4244-9ECF-E6EF50900EE0%7d%7c%7b9489DF4F-6F74-4D6C-9E9E-9E3CD6851B1F%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-footer" />
+        <r
+          uid="{AF0CA2A0-FB34-4293-B972-8E33365E18FA}"
+          p:after="r[@uid='{A5A20EFC-157C-464C-A676-90B983A708A1}']"
+          s:ds="local:/Data/Address"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7bAD42992F-B3DA-4475-96DB-9E9C70CF482D%7d&amp;FieldNames=%7b93278AC3-BD8B-481A-A7D1-B45352166762%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+        <r
+          uid="{6DE9C661-E1F0-4D8B-9E2E-426E48E7176A}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Contact info"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7bAD42992F-B3DA-4475-96DB-9E9C70CF482D%7d&amp;FieldNames=%7b93278AC3-BD8B-481A-A7D1-B45352166762%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EDB00EAA-5ACA-4C4D-8B88-3195D992F980}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "873fbf0d-e2a8-4644-8614-9f540a214afe"

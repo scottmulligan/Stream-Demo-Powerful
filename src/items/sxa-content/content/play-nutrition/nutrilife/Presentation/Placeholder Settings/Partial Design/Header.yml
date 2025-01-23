@@ -1,0 +1,17 @@
+﻿---
+ID: "05e8f9f2-f1c2-4b5d-a56a-8cda06d8dcab"
+Parent: "c7f61b00-55c2-4d14-b2b6-b62bc4a6bf6a"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/play-nutrition/nutrilife/Presentation/Placeholder Settings/Partial Design/Header"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-header"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d2cc914-798f-4b98-ae85-89880d38b5a8"

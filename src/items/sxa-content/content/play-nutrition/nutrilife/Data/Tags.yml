@@ -1,0 +1,13 @@
+﻿---
+ID: "7b3a39e3-09c9-4fe8-ab12-97536a66199e"
+Parent: "16afcf57-3297-402d-930d-de911c8f5cf2"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: "/sitecore/content/play-nutrition/nutrilife/Data/Tags"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "16b94f06-dc53-490c-b786-77962ba40134"

@@ -1,0 +1,17 @@
+﻿---
+ID: "02e9d084-4d6b-446c-b210-b19c1ca63445"
+Parent: "30f4b54b-2df3-4fae-898e-b958d2f9c652"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/play-stores/play-spain/Presentation/Headless Variants/Image/Banner"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2a55279b-5727-4f4a-b70b-4264208e3507"

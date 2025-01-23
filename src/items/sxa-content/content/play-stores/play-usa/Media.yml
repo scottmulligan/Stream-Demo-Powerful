@@ -1,0 +1,24 @@
+﻿---
+ID: "1d9178d7-55ee-4a57-a510-43941604def4"
+Parent: "88591f3e-f52d-409e-8627-e1b3fe21148b"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: "/sitecore/content/play-stores/play-usa/Media"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
+  Hint: AdditionalChildren
+  Value: |
+    {BA6234DE-458B-42F2-8E65-5583957DFD5A}
+    {3F72A8CA-919D-4EF6-8918-B0D6D3B3AD5E}
+    {B4D0BE7D-1DCD-4263-9EDE-9E6693DA8BCB}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A7F39EA2-9018-4622-891D-CB65627E5AF2}"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b8a64e31-8e24-4b44-8949-56e5f28cef76"

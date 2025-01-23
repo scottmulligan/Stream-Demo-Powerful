@@ -1,0 +1,18 @@
+﻿---
+ID: "fa9b4e93-2a49-458a-b533-b6b40c61cc20"
+Parent: "a14dcc12-b1f8-4286-abd8-84d53d084f40"
+Template: "04b29338-e98b-4476-93e3-f7114af7aebc"
+Path: "/sitecore/content/play-nutrition/play-food/Presentation/Partial Designs"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{703ABB6D-BE33-4F9D-97FF-EE1571A14C81}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6d366011-7a7c-413d-9d20-c47733342abf"

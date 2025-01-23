@@ -1,0 +1,17 @@
+﻿---
+ID: "d9f6c7e7-af73-4994-804e-fdacb9cf633b"
+Parent: "9f7daed4-bf6c-44da-88e0-9badb644bae6"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: "/sitecore/content/play-stores/play-germany/Presentation/Page Designs/Default"
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{3F27A22F-8C1B-4155-9034-A678670AD543}|{F119F9AB-D7E4-406D-B498-F94ACAE24407}"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "648341fd-1791-4f61-85f5-005d69a2ea67"

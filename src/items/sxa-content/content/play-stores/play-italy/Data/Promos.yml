@@ -1,0 +1,13 @@
+﻿---
+ID: "943bc6cd-c9ae-4fe3-8483-b6588e069e4b"
+Parent: "106789f1-0063-4d7a-88e9-550b57698b51"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/play-stores/play-italy/Data/Promos"
+Languages:
+- Language: "it-IT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0e07876c-8c76-4cc0-81a8-fc9c51e61632"

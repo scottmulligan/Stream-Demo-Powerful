@@ -1,0 +1,13 @@
+﻿---
+ID: "02293829-802e-4c03-af56-93436b2f620a"
+Parent: "6421dcee-36a3-47ea-9aa3-2298876d5b8c"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: "/sitecore/content/play-nutrition/nutri-health/Data/Texts"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "db5d41e9-4ff2-4ec4-aec4-cccab85d1da2"

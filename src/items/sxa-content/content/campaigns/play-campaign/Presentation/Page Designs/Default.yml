@@ -1,0 +1,17 @@
+﻿---
+ID: "592c1df2-2813-4e22-8f51-2b00d2cb98f5"
+Parent: "9e0b4976-eebc-4e60-a1a5-7075ff2b74bb"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: "/sitecore/content/campaigns/play-campaign/Presentation/Page Designs/Default"
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{41731326-F654-4C88-80DE-330ECEFFE05D}|{447F2562-F18F-4EF7-96F1-8EE527452A16}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "515b53bb-3087-4767-a2bb-ffe102da23df"

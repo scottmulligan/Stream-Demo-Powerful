@@ -1,0 +1,18 @@
+﻿---
+ID: "ad3853fe-25c5-4537-9184-ca736b1293c9"
+Parent: "6ba16e49-3081-481e-a91e-5a43a702fd6f"
+Template: "50587a50-da00-4cdc-bf6a-d784d45c53ba"
+Path: "/sitecore/content/play-stores/play-uk/Presentation/Partial Designs"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{703ABB6D-BE33-4F9D-97FF-EE1571A14C81}"
+Languages:
+- Language: "en-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f29212c6-521e-48f3-ada6-23944830c095"

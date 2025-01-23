@@ -1,0 +1,13 @@
+﻿---
+ID: "9daf84e4-d779-45c8-a7d0-251a5c90de4c"
+Parent: "1b901214-444c-4880-ab1c-d20b64e44e72"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: "/sitecore/content/play-stores/play-germany/Data/Link Lists"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bc1b988e-5f58-4a39-9af6-6763556c469d"

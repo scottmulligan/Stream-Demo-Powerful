@@ -1,0 +1,13 @@
+﻿---
+ID: "78745135-ca0f-4078-ab63-fbae4ca06e83"
+Parent: "fbd3bd19-11f6-47c2-8a18-d7813631a24b"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: "/sitecore/content/play-stores/play-portugal/Data/Link Lists"
+Languages:
+- Language: "pt-PT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "72b0144c-05ad-4476-a242-7b231bfb842f"

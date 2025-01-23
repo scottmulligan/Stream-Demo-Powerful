@@ -1,0 +1,13 @@
+﻿---
+ID: "84a43c2b-b180-4411-a028-cc1431cde90a"
+Parent: "3011f31e-1887-410e-9fc9-f1874601158c"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/play-stores/play-australia/Presentation/Placeholder Settings/Partial Design"
+Languages:
+- Language: "en-AU"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "190e30ad-5dca-475f-a491-1922bef852a0"

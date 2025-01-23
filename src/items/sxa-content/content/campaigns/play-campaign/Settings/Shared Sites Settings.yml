@@ -1,0 +1,18 @@
+﻿---
+ID: "b9b9be25-12cc-40ba-9389-58954345881f"
+Parent: "7bea386d-d390-45b0-bb3e-030289c66d37"
+Template: "c14bf746-030f-4e59-8594-395f6d299e61"
+Path: "/sitecore/content/campaigns/play-campaign/Settings/Shared Sites Settings"
+BranchID: "55330bb7-6095-414a-b29b-0042ce8d9331"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4CAE3F14-39ED-448F-A48C-F7A985A6EB77}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "690df8b8-cb3c-47b4-85d8-d462ec61a361"

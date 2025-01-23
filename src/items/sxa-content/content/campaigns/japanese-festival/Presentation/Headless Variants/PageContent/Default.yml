@@ -1,0 +1,18 @@
+﻿---
+ID: "2e1f18a1-39dd-47ae-9f4e-de7c94fe5013"
+Parent: "bb7299af-3090-46d8-a2f2-b679b8e5077a"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/campaigns/japanese-festival/Presentation/Headless Variants/PageContent/Default"
+BranchID: "5abe3762-5a9c-4710-9730-bb302e90fd13"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E9B59BC9-57CB-43AC-8FD7-F9A676B0C46F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "30b58944-4c75-47a0-af9f-9029bde6563e"

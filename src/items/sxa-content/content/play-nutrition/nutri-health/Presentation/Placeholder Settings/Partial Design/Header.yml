@@ -1,0 +1,17 @@
+﻿---
+ID: "41aae02d-9c6a-4908-9b9f-94619e6df8b9"
+Parent: "009cecb2-c718-4391-b89a-709e0585c034"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/play-nutrition/nutri-health/Presentation/Placeholder Settings/Partial Design/Header"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-header"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dbb9c67d-ccc6-4d2a-98d1-c644eb0638e3"

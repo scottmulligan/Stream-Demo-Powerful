@@ -1,0 +1,18 @@
+﻿---
+ID: "5f9bc8a5-0d59-434f-91b9-90f84dd4a26a"
+Parent: "082d8a06-40c2-4cc5-accb-71d159547799"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/campaigns/plant-power-month/Presentation/Headless Variants/Title/Default"
+BranchID: "3f7de82f-366f-4708-a1fe-9b0a42862492"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{17537200-43DF-4384-85AD-8C795BB461E6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e1c0b2ff-ad0c-468d-b6f9-74107f409a61"

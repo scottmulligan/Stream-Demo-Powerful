@@ -1,0 +1,17 @@
+﻿---
+ID: "5ba632b5-2312-4565-9919-d243724b2be4"
+Parent: "a286ba20-0dfe-4e89-a31e-3c2299e4c6b3"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: "/sitecore/content/play-stores/play-uk/Presentation/Page Designs/Default"
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{7BE3CDDD-EEE2-43BF-9152-C637C8EA83E4}|{5B12EFCA-0B29-4ECA-89FC-00AC4849C719}"
+Languages:
+- Language: "en-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cf6fd910-c042-4abb-b814-2783c80b19f8"

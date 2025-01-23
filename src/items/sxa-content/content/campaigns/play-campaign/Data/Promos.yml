@@ -1,0 +1,13 @@
+﻿---
+ID: "5a37f267-c266-43d5-9fd1-81ba9711fe4e"
+Parent: "006a740f-b8c2-43ec-b67d-6612896e72b9"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/campaigns/play-campaign/Data/Promos"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "69527b29-3594-4254-9628-451fe4c8109f"

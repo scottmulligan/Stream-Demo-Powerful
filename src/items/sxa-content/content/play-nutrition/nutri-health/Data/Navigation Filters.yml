@@ -1,0 +1,13 @@
+﻿---
+ID: "6ef57f0a-d764-4028-af10-74bcca6443ed"
+Parent: "6421dcee-36a3-47ea-9aa3-2298876d5b8c"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/play-nutrition/nutri-health/Data/Navigation Filters"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f185c7a3-0cec-4e15-b8a1-9922daf8e5cb"

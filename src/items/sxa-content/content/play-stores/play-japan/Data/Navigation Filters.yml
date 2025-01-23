@@ -1,0 +1,13 @@
+﻿---
+ID: "6cc9f2e4-a17c-4e62-a363-6bd3c29c4d3d"
+Parent: "227d1367-79bd-4a5d-a102-763bf691517b"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/play-stores/play-japan/Data/Navigation Filters"
+Languages:
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6f9ac5d7-bf43-4606-9b25-0ffece6d4cd7"

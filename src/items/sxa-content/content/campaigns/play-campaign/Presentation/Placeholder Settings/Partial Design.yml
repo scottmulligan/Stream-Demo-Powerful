@@ -1,0 +1,13 @@
+﻿---
+ID: "5bdc2772-76ec-404b-9259-41dafacc914c"
+Parent: "2bbd73fe-190b-47a1-97e4-efbe167509ab"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/campaigns/play-campaign/Presentation/Placeholder Settings/Partial Design"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "30496ede-9f00-42fe-bd78-a80d7659df0b"

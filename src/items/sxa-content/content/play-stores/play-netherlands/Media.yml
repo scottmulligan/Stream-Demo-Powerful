@@ -1,0 +1,24 @@
+﻿---
+ID: "ecc02ab6-246b-4c3b-9120-eebf70adb827"
+Parent: "67b18866-35af-4f0f-9ad9-f4f9c91c480f"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: "/sitecore/content/play-stores/play-netherlands/Media"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
+  Hint: AdditionalChildren
+  Value: |
+    {733E8E69-6D20-4DC1-B037-DC901A7C5222}
+    {3F72A8CA-919D-4EF6-8918-B0D6D3B3AD5E}
+    {B4D0BE7D-1DCD-4263-9EDE-9E6693DA8BCB}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A7F39EA2-9018-4622-891D-CB65627E5AF2}"
+Languages:
+- Language: "nl-NL"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "14eda1a8-f881-4881-9e93-2d846bbd49d4"

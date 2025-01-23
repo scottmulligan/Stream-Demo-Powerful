@@ -1,0 +1,13 @@
+﻿---
+ID: "7a436f99-8750-4808-a208-903becffe628"
+Parent: "9d413b56-86bb-4189-aa5f-24ffe6d10083"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: "/sitecore/content/campaigns/japanese-festival/Data/Texts"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1db67642-74d1-4781-b539-1addf80e8aaa"

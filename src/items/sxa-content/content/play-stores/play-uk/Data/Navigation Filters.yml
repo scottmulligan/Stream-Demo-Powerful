@@ -1,0 +1,13 @@
+﻿---
+ID: "44d44423-63a8-49ea-9bde-e773628096ea"
+Parent: "d5b807f7-5de8-4109-8c02-b0fa65573d0a"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/play-stores/play-uk/Data/Navigation Filters"
+Languages:
+- Language: "en-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c7c9504a-9dc8-42d3-ac0f-1662819d00ee"

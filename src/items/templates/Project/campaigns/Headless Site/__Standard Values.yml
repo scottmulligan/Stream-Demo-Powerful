@@ -1,0 +1,13 @@
+﻿---
+ID: "33c00389-c04a-49ff-bf1a-f7d72defc668"
+Parent: "de5c3b47-ca8e-4c92-bca7-2fb426cb532c"
+Template: "de5c3b47-ca8e-4c92-bca7-2fb426cb532c"
+Path: /sitecore/templates/Project/campaigns/Headless Site/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b71bf20b-d217-4fb2-9a7b-a32d74a71fb7"

@@ -1,0 +1,21 @@
+﻿---
+ID: "f3757353-e2ea-484a-8df2-4049f89c2fd6"
+Parent: "c4cf50ec-70e4-4662-87d7-02d55fe98c35"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: "/sitecore/content/play-stores/play-japan/Presentation/Available Renderings/Media"
+BranchID: "80a19fb5-570d-4b16-94cf-6d294ddc78ec"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: "{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A2C2E7AD-2885-48FB-BE23-052C4C5F5CC4}"
+Languages:
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f70bab2-bf3a-4c13-a927-51ac1dc6f164"

@@ -1,0 +1,13 @@
+﻿---
+ID: "52f7fc34-1bad-417d-8f4f-03db621a0034"
+Parent: "53c2701f-2ba8-4877-a99f-1365d5f8527b"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/play-stores/play-netherlands/Data/Navigation Filters"
+Languages:
+- Language: "nl-NL"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "27dd1454-336f-4e1a-99ce-8ae71de0a22f"

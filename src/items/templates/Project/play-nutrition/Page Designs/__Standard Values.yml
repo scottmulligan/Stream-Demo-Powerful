@@ -1,0 +1,19 @@
+﻿---
+ID: "7d4a02ba-3cbc-440f-84b3-c86328fafbf2"
+Parent: "ae5d977c-40b1-48a6-b3d3-38574e1e9b57"
+Template: "ae5d977c-40b1-48a6-b3d3-38574e1e9b57"
+Path: "/sitecore/templates/Project/play-nutrition/Page Designs/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {5EDDDD83-FA9A-4577-8384-1D0546640D3E}
+    {1105B8F8-1E00-426B-BF1F-C840742D827B}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b5a436a4-f4c6-49a5-8dfb-8ec566f6f20a"

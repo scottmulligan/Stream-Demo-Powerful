@@ -1,0 +1,19 @@
+﻿---
+ID: "71f56a3e-10bf-46cd-8f5e-e0e70d0676ed"
+Parent: "6ccbc65f-e503-4354-ba22-29a37232504f"
+Template: "6ccbc65f-e503-4354-ba22-29a37232504f"
+Path: /sitecore/templates/Project/campaigns/Partial Designs/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {F4BAB6CF-0A47-4027-AB68-A3E011284C36}
+    {FD2059FD-6043-4DFE-8C04-E2437CE87634}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "00d1a1c7-82c7-4811-b560-1897153f4359"

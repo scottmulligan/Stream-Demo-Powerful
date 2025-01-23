@@ -1,0 +1,18 @@
+﻿---
+ID: "5ec69752-0f5c-43d5-b001-e2b06439f95f"
+Parent: "7db07111-8c7f-4600-a868-8e1e716d7f2a"
+Template: "c14bf746-030f-4e59-8594-395f6d299e61"
+Path: "/sitecore/content/play-stores/play-uk/Settings/Shared Sites Settings"
+BranchID: "55330bb7-6095-414a-b29b-0042ce8d9331"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4CAE3F14-39ED-448F-A48C-F7A985A6EB77}"
+Languages:
+- Language: "en-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b43d5909-c936-4467-ae53-e5cf4e622f01"

@@ -1,0 +1,21 @@
+﻿---
+ID: "39998ca3-6fdd-432e-b079-0bab39990a54"
+Parent: "a0993f5c-9b71-4550-80ac-1351cbbf378e"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/play-stores/play-australia/Presentation/Partial Designs/Header/Data/Title"
+BranchID: "c755de9b-1e44-4c8f-b830-168212b57fe7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{89F92411-6F78-42D7-A789-5066D7092839}"
+Languages:
+- Language: "en-AU"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: <h1>Skate Park</h1>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e437a2c-c5f3-42f1-acea-5be531b8d441"

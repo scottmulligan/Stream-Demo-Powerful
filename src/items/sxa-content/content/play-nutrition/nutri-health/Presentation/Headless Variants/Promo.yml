@@ -1,0 +1,21 @@
+﻿---
+ID: "ab519e34-881b-4753-b76d-eb3a78432ce1"
+Parent: "847c57f5-bc72-42f4-a76a-dcfcfa98a264"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: "/sitecore/content/play-nutrition/nutri-health/Presentation/Headless Variants/Promo"
+BranchID: "37229eac-e94c-4507-b543-6cb1f31294e4"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/window_dialog.png
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{63F9B1F7-5D78-4053-8480-70874BAF0DC4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "56272991-e004-41f8-b1b5-f0659010bafe"

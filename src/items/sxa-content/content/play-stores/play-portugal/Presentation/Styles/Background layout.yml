@@ -1,0 +1,24 @@
+﻿---
+ID: "6dfc7edb-1cab-4378-a714-d8c75462d9dd"
+Parent: "c5eb58f6-057b-432c-b7b3-051dbd323acd"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: "/sitecore/content/play-stores/play-portugal/Presentation/Styles/Background layout"
+BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
+SharedFields:
+- ID: "62ca1c9e-71a4-465f-835e-55bda7bb270b"
+  Hint: Type
+  Value: droplist
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 291
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{89147495-83E6-470D-901C-089F6C520913}"
+Languages:
+- Language: "pt-PT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4850b286-69b4-4c59-87e9-460730612e8c"

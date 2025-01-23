@@ -1,0 +1,13 @@
+﻿---
+ID: "64315340-196b-40ff-97c0-adfe8b0bbb6a"
+Parent: "d5b807f7-5de8-4109-8c02-b0fa65573d0a"
+Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
+Path: "/sitecore/content/play-stores/play-uk/Data/Images"
+Languages:
+- Language: "en-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "48748dbb-cbfe-41bc-9a95-ed76b2d34e20"

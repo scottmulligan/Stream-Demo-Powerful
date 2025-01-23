@@ -1,0 +1,13 @@
+﻿---
+ID: "92a300a4-36ee-450c-859b-82567a20452a"
+Parent: "783b98c7-e032-4c95-99ba-2a3908f1d2fc"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/play-stores/play-australia/Data/Navigation Filters"
+Languages:
+- Language: "en-AU"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "58d81619-eecb-4e99-bbc5-9f77e86a6035"

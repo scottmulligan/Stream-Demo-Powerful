@@ -1,0 +1,13 @@
+﻿---
+ID: "9a2dbe51-a69e-4ecc-a01e-2d4c3c3a4754"
+Parent: "227d1367-79bd-4a5d-a102-763bf691517b"
+Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
+Path: "/sitecore/content/play-stores/play-japan/Data/Images"
+Languages:
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d11a6255-dfae-43f4-b67c-641d8730c169"

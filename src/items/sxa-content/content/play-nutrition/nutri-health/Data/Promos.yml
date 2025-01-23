@@ -1,0 +1,13 @@
+﻿---
+ID: "99fd2461-3456-4313-b371-ee5a7b8a4a6b"
+Parent: "6421dcee-36a3-47ea-9aa3-2298876d5b8c"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/play-nutrition/nutri-health/Data/Promos"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4008fc46-f074-4f1a-b9c2-687a8987dd79"

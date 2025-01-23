@@ -1,0 +1,13 @@
+﻿---
+ID: "89226369-3488-4dcf-a28d-84736966ccbf"
+Parent: "fbd3bd19-11f6-47c2-8a18-d7813631a24b"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: "/sitecore/content/play-stores/play-portugal/Data/Tags"
+Languages:
+- Language: "pt-PT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c4915d2-11db-42e8-8c7f-7fecb31d67c6"

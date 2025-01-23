@@ -1,0 +1,17 @@
+﻿---
+ID: "cba040b0-b1f7-4256-beaf-f6f3552f1c6a"
+Parent: "2facfd42-20c8-498a-9db7-6823886413c6"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/campaigns/japanese-festival/Presentation/Placeholder Settings/Partial Design/Footer"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-footer"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "159cd697-fbc1-4f24-89c5-16afe0b457b4"

@@ -1,0 +1,13 @@
+﻿---
+ID: "0f2461e2-ee8b-4475-bf72-c18f578ffecd"
+Parent: "8d5c0ac0-f245-4a90-96e8-f4c434233be0"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Project/play-stores/Page/Content"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0b61e810-e062-406c-98f9-63d11bd925e4"

@@ -1,0 +1,13 @@
+﻿---
+ID: "81391243-e230-45d8-bb98-743124017125"
+Parent: "77b42a36-b94f-4ef2-b8f2-72586ef60cf3"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: "/sitecore/content/play-stores/play-usa/Data/Link Lists"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "46313c06-47d9-4a2e-95bf-b243c6a1e4b6"

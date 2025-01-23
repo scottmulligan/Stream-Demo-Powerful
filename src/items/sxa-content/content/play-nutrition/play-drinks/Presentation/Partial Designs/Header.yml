@@ -1,0 +1,43 @@
+﻿---
+ID: "e3b120e4-dae2-4709-b7b4-03f52b27331b"
+Parent: "f75bc265-1c7a-4efe-8866-f07d7fa3b35c"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/play-nutrition/play-drinks/Presentation/Partial Designs/Header"
+BranchID: "c755de9b-1e44-4c8f-b830-168212b57fe7"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: header
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{6E7D5EB3-0639-49E8-B21D-DE12DE0E182F}"
+          p:before="*"
+          s:ds="local:/Data/Title"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b132F829F-983F-429D-85D7-48073DAA7E93%7d&amp;FieldNames=%7b0673E54E-E82B-45F2-A7D2-077EDB2ABCED%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b81225C08-5783-4BED-A86A-AB2B87198885%7d"
+          s:ph="headless-header" />
+        <r
+          uid="{1CF013CE-C152-4EEC-B03D-5CB356F4DB84}"
+          p:after="*[1=2]"
+          s:id="{1DEB067F-0BB1-405E-94F5-2ABB537A6160}"
+          s:par="?LevelFrom={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;LevelTo={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;FieldNames=%7b492B281F-40A1-4209-960A-5218D5C42DE1%7d&amp;AddRoot=1&amp;Styles=%7b90D9C0CC-9283-4536-BCCE-F87EEA4D9853%7d%7c%7bF34D3335-D71C-4A56-839F-09DE06940E56%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;NavigationRoot=%7b9E0C88DB-3F81-4DBA-89FB-773ED56DE3E1%7d"
+          s:ph="headless-header" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D044EFED-079F-4CB1-9D22-E7BFF1DB5A8F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "127a51fd-34c9-429f-baa7-250851131ab5"

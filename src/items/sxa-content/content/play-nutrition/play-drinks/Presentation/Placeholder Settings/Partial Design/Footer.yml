@@ -1,0 +1,17 @@
+﻿---
+ID: "2a9d3e2c-344e-429c-96e1-ec515af7c38d"
+Parent: "28291681-494b-4aaa-8204-081b7f59cbf1"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/play-nutrition/play-drinks/Presentation/Placeholder Settings/Partial Design/Footer"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-footer"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc290b9e-1822-4cc8-9022-24ca2ba98110"

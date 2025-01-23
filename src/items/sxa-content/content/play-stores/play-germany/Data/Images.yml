@@ -1,0 +1,13 @@
+﻿---
+ID: "7ef720de-3763-435d-a106-9d61fc02bba4"
+Parent: "1b901214-444c-4880-ab1c-d20b64e44e72"
+Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
+Path: "/sitecore/content/play-stores/play-germany/Data/Images"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "57c0e11e-7d30-4d18-9c0c-95783fcd9cf3"

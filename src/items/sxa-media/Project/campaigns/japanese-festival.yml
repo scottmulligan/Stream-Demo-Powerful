@@ -1,0 +1,13 @@
+﻿---
+ID: "66bc4e6d-a4e6-463b-b3b2-12f2eb788b44"
+Parent: "5f60dbe2-453c-4e2b-bbee-f36704fe37c8"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/campaigns/japanese-festival"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b4f61aeb-a758-43ee-a033-8825f40446bc"

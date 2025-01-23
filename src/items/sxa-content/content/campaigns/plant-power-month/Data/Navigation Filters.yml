@@ -1,0 +1,13 @@
+﻿---
+ID: "3cadedf9-5e87-4407-b695-173b49ebe583"
+Parent: "6ba161b7-5c8a-4a9f-94e5-bf03c82c3280"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/campaigns/plant-power-month/Data/Navigation Filters"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "011829a0-6776-4659-ac4b-a221ed149f5c"

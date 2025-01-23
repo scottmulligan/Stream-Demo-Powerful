@@ -1,0 +1,13 @@
+﻿---
+ID: "d2f4573d-cb58-49be-a412-df08ba831337"
+Parent: "0af56f64-b5d7-473f-9497-1dc19265e494"
+Template: "b4d86f9b-e917-4d68-978e-741361332174"
+Path: "/sitecore/system/Settings/Project/play-nutrition"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0c79bb3-98b8-4c5f-a2ed-2c1313252bfd"

@@ -1,0 +1,17 @@
+﻿---
+ID: "a109784a-bfa1-4a27-bbc4-88c761ccea3a"
+Parent: "84625e7d-fa3d-4e09-a8f4-bf83a61d6280"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: "/sitecore/content/play-stores/play-japan/Presentation/Page Designs/Default"
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{E7C4DE33-DE02-40E0-B7FE-6EA932F3A72F}|{E9776239-B585-4C16-B1E2-E23BBDFACE34}"
+Languages:
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dd7c7869-4645-4545-bde2-1e255022d4a5"

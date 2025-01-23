@@ -1,0 +1,33 @@
+﻿---
+ID: "cb51c81c-dc7f-43be-a7ac-29d7528cd4a7"
+Parent: "d83d3432-191a-4159-b9e1-bf538d3835e1"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: "/sitecore/content/play-stores/play-spain/Presentation/Styles/Common/Boxed"
+BranchID: "75653e9d-3c5c-45d4-823d-1bb04474400b"
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: boxed
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Value: |
+    {7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}
+    {C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}
+    {3836D951-BB14-43AC-9231-649B7F245DC5}
+- ID: "95579875-484e-41f0-b9c2-804eafaf3ccc"
+  Hint: IsVerifiedStyle
+  Value: 1
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 3800
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EA2921DF-2799-477D-8661-F2BBEFBF3B3D}"
+Languages:
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e7033634-cff9-485d-a7fd-1a18a0f792bc"

@@ -1,0 +1,13 @@
+﻿---
+ID: "f33106c0-2195-4b67-9e8c-3ea479b7687c"
+Parent: "d1ea4abd-eb19-45bb-8671-a78219340d48"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/play-nutrition/play-drinks/System"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "896c7a54-88c1-4023-b828-553d445e12c3"

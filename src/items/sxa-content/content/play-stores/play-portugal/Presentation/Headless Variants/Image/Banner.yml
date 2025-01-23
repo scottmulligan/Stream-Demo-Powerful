@@ -1,0 +1,17 @@
+﻿---
+ID: "a691fdd7-c074-44b2-84c1-b37a6251b2d3"
+Parent: "ca169582-78be-4e5c-9105-501505913c0c"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/play-stores/play-portugal/Presentation/Headless Variants/Image/Banner"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "pt-PT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "52223abd-ab9f-4cab-9838-25a50d8a720a"

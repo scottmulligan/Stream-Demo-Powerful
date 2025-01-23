@@ -1,0 +1,43 @@
+﻿---
+ID: "627dc8a6-d0e1-484e-b4e0-d1cb73101bf0"
+Parent: "a62bc3a6-ecb8-4957-95f5-927bfa32d792"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/play-nutrition/nutri-health/Presentation/Partial Designs/Header"
+BranchID: "c755de9b-1e44-4c8f-b830-168212b57fe7"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: header
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{8260C4F0-1DBE-4E86-806A-3F0BE1B32DFF}"
+          p:before="*"
+          s:ds="local:/Data/Title"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7bD1690F6D-40D9-4F2B-9F8C-96CF28F21428%7d&amp;FieldNames=%7b80CA6B4A-7A27-4AC9-81B1-40A82FB1F6A0%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b81225C08-5783-4BED-A86A-AB2B87198885%7d"
+          s:ph="headless-header" />
+        <r
+          uid="{FE5D6CDE-4D15-48AC-A8DD-C9C7C8516506}"
+          p:after="*[1=2]"
+          s:id="{1DEB067F-0BB1-405E-94F5-2ABB537A6160}"
+          s:par="?LevelFrom={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;LevelTo={1BB88840-5FB3-4353-AD8D-81136F6FF75A}&amp;FieldNames=%7bC8B8AE71-D8B1-4B03-9588-6A870096A0B8%7d&amp;AddRoot=1&amp;Styles=%7b444D7392-2B95-4E9B-9FEE-264EB6FCF1F0%7d%7c%7b4B9EBC11-2E39-4412-BBD8-5BA5AE12577B%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;NavigationRoot=%7bA704A5D6-117B-46DD-8B72-82C6F3DD46BC%7d"
+          s:ph="headless-header" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D044EFED-079F-4CB1-9D22-E7BFF1DB5A8F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "24b20fe6-8bb4-4fd5-98db-390a578a43d0"

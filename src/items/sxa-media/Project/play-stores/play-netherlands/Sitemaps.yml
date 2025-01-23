@@ -1,0 +1,13 @@
+﻿---
+ID: "2abc7bb1-36e3-4388-8476-6e08c2d34b8a"
+Parent: "733e8e69-6d20-4dc1-b037-dc901a7c5222"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/play-stores/play-netherlands/Sitemaps"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7a1ceec9-0757-4d5d-819d-22d9d0fe4c88"

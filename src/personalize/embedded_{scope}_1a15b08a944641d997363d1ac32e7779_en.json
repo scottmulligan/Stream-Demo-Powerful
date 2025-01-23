@@ -3,9 +3,9 @@
   "href": "https://api-us.boxever.com/v3/flowDefinitions/7d1e07c4-cd85-4489-b3b6-695cc2b7c13c",
   "ref": "7d1e07c4-cd85-4489-b3b6-695cc2b7c13c",
   "name": "embedded_{scope}_1a15b08a944641d997363d1ac32e7779_en",
-  "modifiedByRef": "auth0|638f17b0ae457931c59d5656",
-  "modifiedAt": "2025-01-21T12:37:12.516Z",
-  "revision": 2,
+  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
+  "modifiedAt": "2025-01-22T09:11:35.619Z",
+  "revision": 4,
   "archived": false,
   "friendlyId": "embedded_{scope}_1a15b08a944641d997363d1ac32e7779_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -21,7 +21,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2025-01-21T12:37:12.664Z",
+    "modifiedAt": "2025-01-22T09:11:35.639Z",
     "splits": [
       {
         "template": "{\"variantId\": \"45728f7342fd4bfb96446e0a7171715f\"}",
@@ -47,7 +47,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "53d8eb8b-e23e-441f-a8f2-7928720b0722",
+      "ref": "dd6b618e-759c-474c-ae3e-8b8855f1fbd2",
       "name": "Fruitful Summer",
       "tasks": [
         {

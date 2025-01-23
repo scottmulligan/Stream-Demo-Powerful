@@ -1,0 +1,20 @@
+﻿---
+ID: "5f690a74-4d5c-4523-94ab-d506d51ab957"
+Parent: "0f2461e2-ee8b-4475-bf72-c18f578ffecd"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: "/sitecore/templates/Project/play-stores/Page/Content/Title"
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79e3416d-4d5c-4907-9b92-8a4a26fb081d"

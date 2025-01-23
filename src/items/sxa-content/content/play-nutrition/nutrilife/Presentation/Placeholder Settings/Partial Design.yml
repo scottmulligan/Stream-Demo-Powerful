@@ -1,0 +1,13 @@
+﻿---
+ID: "c7f61b00-55c2-4d14-b2b6-b62bc4a6bf6a"
+Parent: "c8d3bc4a-abea-416f-99df-8877dc3d9296"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/play-nutrition/nutrilife/Presentation/Placeholder Settings/Partial Design"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1329fd08-dbeb-4d85-a0f0-683334bbf6b3"

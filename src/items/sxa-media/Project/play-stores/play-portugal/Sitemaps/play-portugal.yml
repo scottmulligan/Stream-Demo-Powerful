@@ -1,0 +1,13 @@
+﻿---
+ID: "507c82f0-43b6-4b37-9dd6-3d6bb48b6421"
+Parent: "ee5239d5-45b7-4dd7-b35b-671abaf17e11"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/play-stores/play-portugal/Sitemaps/play-portugal"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d26dda66-3c0c-4104-a6f5-e16f9134b879"

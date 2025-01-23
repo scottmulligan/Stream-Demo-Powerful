@@ -1,0 +1,13 @@
+﻿---
+ID: "0a6dda6a-193f-4524-aa24-8fa3673fd8fa"
+Parent: "5257280a-c438-480c-b942-9c7a62ca52ed"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/campaigns/plant-power-month/Sitemaps/plant-power-month"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ea379ba1-fc81-43bb-920b-c3e3abc08ef9"

@@ -1,0 +1,18 @@
+﻿---
+ID: "0e0e85e8-2b51-4a3b-a27e-358a596b02a3"
+Parent: "f079a432-e02b-49d9-9590-337dff2323b3"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/play-stores/play-spain/Presentation/Partial Designs/Footer/Data"
+BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E40DAC6C-75CE-4489-A49D-9CFC58B28EC9}"
+Languages:
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c437d670-142d-4ba8-b143-54aad058453b"

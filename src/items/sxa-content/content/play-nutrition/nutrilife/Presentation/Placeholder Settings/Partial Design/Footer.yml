@@ -1,0 +1,17 @@
+﻿---
+ID: "95dcf372-23da-4a51-97aa-f2fbfa9ba590"
+Parent: "c7f61b00-55c2-4d14-b2b6-b62bc4a6bf6a"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/play-nutrition/nutrilife/Presentation/Placeholder Settings/Partial Design/Footer"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-footer"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1e42f091-2022-4d9a-bc41-f3ac0f0222d7"

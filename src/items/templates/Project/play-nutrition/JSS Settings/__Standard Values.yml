@@ -1,0 +1,13 @@
+﻿---
+ID: "b37ec8f9-d1ac-4c02-a54c-ffef23b6cf18"
+Parent: "b3cfb23c-ca7a-4009-a38f-1d2fe02fa1a3"
+Template: "b3cfb23c-ca7a-4009-a38f-1d2fe02fa1a3"
+Path: "/sitecore/templates/Project/play-nutrition/JSS Settings/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "54b48cd3-c459-4c7f-8edf-e9d8c564a63e"

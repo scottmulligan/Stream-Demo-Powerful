@@ -1,0 +1,13 @@
+﻿---
+ID: "bd46077b-eac7-4001-a194-3f64b43b1202"
+Parent: "006a740f-b8c2-43ec-b67d-6612896e72b9"
+Template: "c237d144-647a-4afe-aa7b-1570f3e3f139"
+Path: "/sitecore/content/campaigns/play-campaign/Data/Link Lists"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "972482a6-9587-44ed-82d2-c5fda19a98a9"

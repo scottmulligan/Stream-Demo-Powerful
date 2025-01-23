@@ -1,0 +1,13 @@
+﻿---
+ID: "19375981-42c1-4a71-84dd-21ecfecccc4e"
+Parent: "fe71c646-bf6f-4b5c-8095-c1fce1ab5693"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/play-stores/play-australia/Sitemaps/play-australia"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "26281136-abbf-46a8-8d36-c8d0d8ad8b8d"

@@ -1,0 +1,13 @@
+﻿---
+ID: "12f16e32-a468-4e3f-b390-f3a841ff003a"
+Parent: "1b901214-444c-4880-ab1c-d20b64e44e72"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: "/sitecore/content/play-stores/play-germany/Data/Tags"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b3becb34-209c-4ad1-9d98-5d172047aae5"

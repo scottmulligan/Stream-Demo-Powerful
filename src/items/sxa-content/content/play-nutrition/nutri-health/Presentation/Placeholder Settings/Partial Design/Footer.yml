@@ -1,0 +1,17 @@
+﻿---
+ID: "a3d4a24c-a2c7-4297-99c2-69857b70b547"
+Parent: "009cecb2-c718-4391-b89a-709e0585c034"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/play-nutrition/nutri-health/Presentation/Placeholder Settings/Partial Design/Footer"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-footer"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d735a3a-8090-425d-9d9f-27fdca65affc"

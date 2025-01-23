@@ -1,0 +1,17 @@
+﻿---
+ID: "c9caef35-259d-4b97-a54b-b7fde03195a9"
+Parent: "a4dfb460-7586-4202-83a2-a2dff337f9a8"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/play-stores/play-japan/Presentation/Headless Variants/Image/Banner"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4db2fa8b-89a3-4cbb-8e76-67539dad392d"

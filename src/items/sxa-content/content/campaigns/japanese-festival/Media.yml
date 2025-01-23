@@ -1,0 +1,24 @@
+﻿---
+ID: "5c1c33a3-9d4e-4552-8a5e-011d1be397ea"
+Parent: "a82e0691-7e4b-4984-ac8c-b13349963190"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: "/sitecore/content/campaigns/japanese-festival/Media"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
+  Hint: AdditionalChildren
+  Value: |
+    {66BC4E6D-A4E6-463B-B3B2-12F2EB788B44}
+    {E9FFD265-9933-47C9-AA92-F0E45F175FDA}
+    {B4D0BE7D-1DCD-4263-9EDE-9E6693DA8BCB}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A7F39EA2-9018-4622-891D-CB65627E5AF2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a26077b-69db-4206-a8ac-58ffde82b13c"

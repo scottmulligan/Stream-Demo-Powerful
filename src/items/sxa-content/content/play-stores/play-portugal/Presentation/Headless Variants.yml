@@ -1,0 +1,18 @@
+﻿---
+ID: "a474897b-be8d-4d89-bfe4-ac8509518370"
+Parent: "9a2be957-e9d0-4ca8-893b-b2963b0c53c9"
+Template: "da26c636-96e1-45e4-88d6-3fcec70d5699"
+Path: "/sitecore/content/play-stores/play-portugal/Presentation/Headless Variants"
+BranchID: "ab383616-86fa-41a3-bb12-2c478166886f"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{C731A7FC-9233-4913-A35B-B6EE5AA35DE5}"
+Languages:
+- Language: "pt-PT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "13fd6117-16c1-40ce-9576-d1b2eb178398"

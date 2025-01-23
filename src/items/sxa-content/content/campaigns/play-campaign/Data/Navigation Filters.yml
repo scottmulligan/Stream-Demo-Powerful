@@ -1,0 +1,13 @@
+﻿---
+ID: "91605ab8-101d-4538-b608-4835ffde921a"
+Parent: "006a740f-b8c2-43ec-b67d-6612896e72b9"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/campaigns/play-campaign/Data/Navigation Filters"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1c150c17-bf48-4bea-aa0d-726ca9999e4c"

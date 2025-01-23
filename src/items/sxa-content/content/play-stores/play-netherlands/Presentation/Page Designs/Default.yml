@@ -1,0 +1,17 @@
+﻿---
+ID: "48d6af33-9ea3-4b50-b6f4-2a9cd835cdf6"
+Parent: "d54fad67-394c-433e-aff9-8c2bdab5f450"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: "/sitecore/content/play-stores/play-netherlands/Presentation/Page Designs/Default"
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{90AB785E-EB24-41F5-A763-EE66CABF5D24}|{A89BB4C0-B3EE-4038-A3E6-CF1BD2A85AE7}"
+Languages:
+- Language: "nl-NL"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac060316-eeee-4a16-90ef-a3bd0cf74164"

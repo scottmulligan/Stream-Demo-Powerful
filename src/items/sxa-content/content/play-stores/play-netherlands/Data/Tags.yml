@@ -1,0 +1,13 @@
+﻿---
+ID: "681d2dfb-b6c1-4243-8722-2f2465f7ca54"
+Parent: "53c2701f-2ba8-4877-a99f-1365d5f8527b"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: "/sitecore/content/play-stores/play-netherlands/Data/Tags"
+Languages:
+- Language: "nl-NL"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a106f526-ebce-4d73-95bb-23cd05bccad1"

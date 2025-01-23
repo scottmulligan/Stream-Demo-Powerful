@@ -1,0 +1,13 @@
+﻿---
+ID: "97bf8bc1-a086-4379-8f7f-e36d3fae5c05"
+Parent: "8a59e479-450f-4cd7-97e6-71a1e08a5906"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/play-stores/play-japan/Presentation/Placeholder Settings/Partial Design"
+Languages:
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01e1e20f-c7c5-457a-93fb-e1c8c365085a"

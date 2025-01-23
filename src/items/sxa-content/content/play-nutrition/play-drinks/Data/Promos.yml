@@ -1,0 +1,13 @@
+﻿---
+ID: "091494a2-4335-4e53-aba2-11e2bc4c9e92"
+Parent: "f76118f4-dd92-4bf0-ba6d-af9ab470bd30"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/play-nutrition/play-drinks/Data/Promos"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0291a0dc-e8a4-476a-a3be-f5fdf25515ee"

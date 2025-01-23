@@ -1,0 +1,17 @@
+﻿---
+ID: "798c431d-8f8b-4b83-bfb9-673b4e6761fd"
+Parent: "84a43c2b-b180-4411-a028-cc1431cde90a"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/play-stores/play-australia/Presentation/Placeholder Settings/Partial Design/Header"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-header"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f13bb36e-0add-49aa-96d5-231a095236f6"

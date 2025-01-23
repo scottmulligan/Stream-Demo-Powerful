@@ -1,0 +1,17 @@
+﻿---
+ID: "9f3b62de-6b41-4c26-b3dd-36756e0d9146"
+Parent: "30312c3b-2d91-4214-b9b7-9efce7b635f0"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/campaigns/plant-power-month/Presentation/Placeholder Settings/Partial Design/Footer"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-footer"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "44254990-fc43-4fe8-9bfd-c56f8eb32f2e"

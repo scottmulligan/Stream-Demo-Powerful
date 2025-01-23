@@ -1,0 +1,18 @@
+﻿---
+ID: "1e70278b-ccb7-41b3-8e3f-47993993f5cc"
+Parent: "dfc9b6cd-2c6b-45b0-adf3-04d5855a9942"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/campaigns/plant-power-month/Presentation/Partial Designs/Header/Data"
+BranchID: "c755de9b-1e44-4c8f-b830-168212b57fe7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F526FC92-9C83-4135-AE12-82EAEF5ED796}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50dd74fe-a8e8-4b12-b65e-d2d8d05ef647"

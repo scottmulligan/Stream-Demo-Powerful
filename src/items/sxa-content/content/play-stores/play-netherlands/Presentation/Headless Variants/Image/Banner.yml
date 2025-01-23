@@ -1,0 +1,17 @@
+﻿---
+ID: "f5ea5937-2935-48df-b447-0627448e3f77"
+Parent: "a74af2ed-706a-43d3-9856-069673eb5bfe"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/play-stores/play-netherlands/Presentation/Headless Variants/Image/Banner"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "nl-NL"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5f9045f2-18a1-4e62-b915-2c14a6e6c30c"

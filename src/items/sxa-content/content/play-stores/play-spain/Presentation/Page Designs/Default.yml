@@ -1,0 +1,17 @@
+﻿---
+ID: "4503cac0-128e-4107-93c0-c59f30d2f154"
+Parent: "9c3540d1-253d-431d-bd97-b9789f43b072"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: "/sitecore/content/play-stores/play-spain/Presentation/Page Designs/Default"
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{F079A432-E02B-49D9-9590-337DFF2323B3}|{BA0B9725-5FB7-4388-8479-6C1F490DFE84}"
+Languages:
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ff531302-bcd6-483f-8e05-1f23b3563193"

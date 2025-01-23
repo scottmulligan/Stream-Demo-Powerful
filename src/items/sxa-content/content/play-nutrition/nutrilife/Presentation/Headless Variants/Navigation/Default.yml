@@ -1,0 +1,18 @@
+﻿---
+ID: "6b4822fe-696d-4ce4-94c8-7628398f91b5"
+Parent: "a8097a5e-c57a-44b8-a786-b6b1703e87c5"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/play-nutrition/nutrilife/Presentation/Headless Variants/Navigation/Default"
+BranchID: "70519928-c595-4b2b-bb35-75022feecc4c"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{25F1A8E5-EB4C-4202-A9F7-A97DB52DA9AF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b13ad1c6-ff99-47aa-8db9-becffaa07d57"

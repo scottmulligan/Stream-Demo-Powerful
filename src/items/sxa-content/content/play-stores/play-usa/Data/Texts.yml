@@ -1,0 +1,13 @@
+﻿---
+ID: "a5747344-76d5-4fbc-9618-3581e29e478d"
+Parent: "77b42a36-b94f-4ef2-b8f2-72586ef60cf3"
+Template: "b762d567-87f5-493c-bb48-0c455d834457"
+Path: "/sitecore/content/play-stores/play-usa/Data/Texts"
+Languages:
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c5a33e8e-df3f-48fd-9d4a-72447e27a059"

@@ -1,0 +1,19 @@
+﻿---
+ID: "ecf2236d-9663-4a2c-b79c-c1aa04fbd5f3"
+Parent: "ad5d37e0-b91b-4d12-935b-ecaed901df13"
+Template: "ad5d37e0-b91b-4d12-935b-ecaed901df13"
+Path: "/sitecore/templates/Project/play-nutrition/Partial Design Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {AD5D37E0-B91B-4D12-935B-ECAED901DF13}
+    {FD2059FD-6043-4DFE-8C04-E2437CE87634}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7cc9d3d3-f340-4a37-9b4d-6af3370837f7"

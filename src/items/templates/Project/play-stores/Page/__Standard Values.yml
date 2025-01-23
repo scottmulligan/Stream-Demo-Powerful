@@ -1,0 +1,22 @@
+﻿---
+ID: "c44cc122-57da-46c6-b78b-547ecf02a0c4"
+Parent: "8d5c0ac0-f245-4a90-96e8-f4c434233be0"
+Template: "8d5c0ac0-f245-4a90-96e8-f4c434233be0"
+Path: "/sitecore/templates/Project/play-stores/Page/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {8D5C0AC0-F245-4A90-96E8-F4C434233BE0}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5f690a74-4d5c-4523-94ab-d506d51ab957"
+      Hint: Title
+      Value: $name
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7351fee3-92ed-4dab-a1f9-33875b6f04f5"

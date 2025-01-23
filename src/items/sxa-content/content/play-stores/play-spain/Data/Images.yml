@@ -1,0 +1,13 @@
+﻿---
+ID: "064dbc1f-b5d1-45f3-b3c1-e4fa951050bc"
+Parent: "6d9d80f0-1382-4640-a6bf-a07d60fae81f"
+Template: "f7a45276-87f1-4ea5-bf25-e3c7cb7aa993"
+Path: "/sitecore/content/play-stores/play-spain/Data/Images"
+Languages:
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "278cf732-cb3f-4e16-9d4d-86f4b3112925"

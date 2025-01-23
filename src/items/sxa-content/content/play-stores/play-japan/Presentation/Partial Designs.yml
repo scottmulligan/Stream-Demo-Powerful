@@ -1,0 +1,22 @@
+﻿---
+ID: "8b7a68e6-6155-45e2-8838-1b6fc9bae836"
+Parent: "afcbd273-9000-4fec-8e3c-3d546a915d26"
+Template: "50587a50-da00-4cdc-bf6a-d784d45c53ba"
+Path: "/sitecore/content/play-stores/play-japan/Presentation/Partial Designs"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{703ABB6D-BE33-4F9D-97FF-EE1571A14C81}"
+Languages:
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: パーシャル デザイン
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a01dbf40-2f08-4015-b9f1-93ad49ee12fd"

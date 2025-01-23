@@ -1,0 +1,24 @@
+﻿---
+ID: "c4bcb37e-3c84-4813-9ac3-f1ce3ef2195e"
+Parent: "72acd796-8a7a-4e2f-bbd6-90d4eaff64fe"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: "/sitecore/content/campaigns/plant-power-month/Media"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
+  Hint: AdditionalChildren
+  Value: |
+    {346734AF-EF0F-45AE-8FB1-D35A1D8A415E}
+    {E9FFD265-9933-47C9-AA92-F0E45F175FDA}
+    {B4D0BE7D-1DCD-4263-9EDE-9E6693DA8BCB}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A7F39EA2-9018-4622-891D-CB65627E5AF2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "623c018f-f031-4a12-8984-1983cbc68da1"

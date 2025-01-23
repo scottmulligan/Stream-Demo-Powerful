@@ -1,0 +1,25 @@
+﻿---
+ID: "84625e7d-fa3d-4e09-a8f4-bf83a61d6280"
+Parent: "afcbd273-9000-4fec-8e3c-3d546a915d26"
+Template: "8d3f1fed-f426-42f7-9087-c628bd0cb5b3"
+Path: "/sitecore/content/play-stores/play-japan/Presentation/Page Designs"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7b8D5C0AC0-F245-4A90-96E8-F4C434233BE0%7d%3d%257BA109784A-BFA1-4A27-BBC4-88C761CCEA3A%257D"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
+Languages:
+- Language: "ja-JP"
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: ページ デザイン
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "581c5fcd-5405-46f1-9b44-b022fff590d1"

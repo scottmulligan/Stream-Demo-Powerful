@@ -1,0 +1,13 @@
+﻿---
+ID: "fe999767-9272-4e58-ac2f-e6dc832ea654"
+Parent: "227d1367-79bd-4a5d-a102-763bf691517b"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/play-stores/play-japan/Data/Promos"
+Languages:
+- Language: "ja-JP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e92b57bc-c751-4a80-b9af-c7a8ec5511e6"

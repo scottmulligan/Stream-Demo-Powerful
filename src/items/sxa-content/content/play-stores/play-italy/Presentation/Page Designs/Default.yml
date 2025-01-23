@@ -1,0 +1,17 @@
+﻿---
+ID: "b07cbf19-bd6e-449a-a2f4-8eddfeeebf2d"
+Parent: "66a5c1d4-09fe-4d3d-9bd8-411a335a718e"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: "/sitecore/content/play-stores/play-italy/Presentation/Page Designs/Default"
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{50F6617A-7B1E-4370-BBCD-B8967E803539}|{64F87AF9-0F91-4A17-AF96-4E77F2D95555}"
+Languages:
+- Language: "it-IT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d06e127b-0123-451f-89ee-b316676fea68"

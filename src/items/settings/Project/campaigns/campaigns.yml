@@ -1,0 +1,16 @@
+﻿---
+ID: "c3764753-be2a-4c96-8682-b5214e7b88b4"
+Parent: "31411f08-8897-4953-8d43-d65c032f5b3e"
+Template: "bed31d6f-d968-45a9-b54e-12d7f977d861"
+Path: /sitecore/system/Settings/Project/campaigns/campaigns 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0e5ed9ff-9c55-4370-9890-1286a0ebddf3"
+    - ID: "c202067e-7fab-4606-afb4-e76df2185ddc"
+      Hint: Name
+      Value: campaigns

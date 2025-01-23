@@ -1,0 +1,13 @@
+﻿---
+ID: "35ec15d2-554e-487c-aee1-198883b991eb"
+Parent: "5be6ce70-6bdb-4c2f-b2c2-e40e902d7d6e"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/play-nutrition/play-food/Sitemaps/play-food"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e30a380d-f5cc-4eea-af16-aded5d68c8bb"

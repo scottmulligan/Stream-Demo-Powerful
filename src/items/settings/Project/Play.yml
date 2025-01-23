@@ -1,0 +1,13 @@
+﻿---
+ID: "87c1f73a-8f21-4d80-81fc-1bd63ee93710"
+Parent: "0af56f64-b5d7-473f-9497-1dc19265e494"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/system/Settings/Project/Play
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "23d229b7-740d-456c-9456-920f01b4d864"

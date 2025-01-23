@@ -1,0 +1,13 @@
+﻿---
+ID: "b03ea7c6-1a67-488d-9c17-b28434e7889b"
+Parent: "caf233fc-d10b-4767-acf4-5867113697ac"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Project/play-stores/play-uk/Sitemaps"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d80a710-b102-4f6f-82a2-ef6e4dc2119e"

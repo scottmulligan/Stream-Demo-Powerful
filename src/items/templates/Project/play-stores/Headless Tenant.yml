@@ -1,0 +1,26 @@
+﻿---
+ID: "47bb2195-996a-4055-aff4-61aa821a95eb"
+Parent: "8be5b209-89b5-475a-9203-bb1d7dc964d0"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: "/sitecore/templates/Project/play-stores/Headless Tenant"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/window.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {B91811F1-FA8B-47F8-B131-BD2C6D5EC805}
+    {3BC304DB-FE8F-4AA8-B95C-8C331E823F4C}
+    {DCB42A80-68C9-46F9-B036-BC44A27D96FE}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{81D32299-19A5-4A3D-B575-8AEBAE18F221}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "210bc4af-93e7-4dfc-9add-62c9be7735a8"

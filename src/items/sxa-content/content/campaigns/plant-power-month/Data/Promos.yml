@@ -1,0 +1,13 @@
+﻿---
+ID: "b9e40c11-3ff6-4a31-8879-352b6f67d1ae"
+Parent: "6ba161b7-5c8a-4a9f-94e5-bf03c82c3280"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/campaigns/plant-power-month/Data/Promos"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c833f9e5-7cdb-44c6-8cee-180889a2949e"

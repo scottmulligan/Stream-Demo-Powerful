@@ -1,0 +1,13 @@
+﻿---
+ID: "ef48db68-b4c5-45b8-afdc-c0b03fda4444"
+Parent: "16afcf57-3297-402d-930d-de911c8f5cf2"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/play-nutrition/nutrilife/Data/Navigation Filters"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "614c0a81-cdb8-485d-a4aa-07f4bdf07e69"

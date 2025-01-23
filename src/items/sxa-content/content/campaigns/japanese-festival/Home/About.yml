@@ -1,0 +1,46 @@
+﻿---
+ID: "bce58392-d0ff-4beb-b4ac-ce89bc03af00"
+Parent: "a21c731a-6c34-494f-b666-1c9002719447"
+Template: "ae509160-a315-439c-95c8-f7be9d2d0d0d"
+Path: "/sitecore/content/campaigns/japanese-festival/Home/About"
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{0E2C3B40-855F-4BF5-94EB-FFEF6DFA2D2F}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7bAF78B094-21CE-4486-A089-D19C572C0A02%7d%7c%7bAEDF86D8-1AC1-4A00-BF49-25DC739C35AD%7d%7c%7bAF63B3A2-151C-4B41-96FF-EBD99D738189%7d%7c%7b8C9D0CFD-F22C-4DCE-A271-6F9ACA1669EB%7d%7c%7b067EDE06-9C9A-4D42-9E91-0F468352A10C%7d%7c%7b2B0B882F-EBB2-4F8E-885A-D761FB340D13%7d%7c%7bEE14B80C-174A-4B4B-9035-3486C3364154%7d%7c%7b6C51DE1B-0DD1-4427-BF54-373D9F418C56%7d%7c%7b403251A4-AC20-40A9-97D1-E4EA693565D6%7d%7c%7b1D35C148-8AAD-4288-83C2-0FA9CC0B34E8%7d%7c%7bD0691479-E6D8-40ED-8CDD-31812B9BD37B%7d%7c%7bF96C9235-22F9-47FE-8F7F-4617E14279AD%7d%7c%7b8D0AC1F7-28EB-4BE3-B5E5-558BC4229427%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{0422D2F4-9C23-40D5-89CB-473209907C09}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b175CB6DA-CF89-4D56-888C-EB79F514D12F%7d%7c%7b7DF615F7-0A53-42E1-A164-2B36D6126314%7d&amp;FieldNames=%7b9DF8B011-EEAD-4DD7-9A09-39AAF8233965%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B8E694EC-3576-4CC6-8628-AEE286A9AB38}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "adc854b5-3b79-4056-8dee-ad2e4dca1781"
+    - ID: "bc8c245d-773a-4b97-8ead-64329f799349"
+      Hint: Title
+      Value: About

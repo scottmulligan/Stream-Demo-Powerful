@@ -1,0 +1,18 @@
+﻿---
+ID: "9443f443-5ab0-4bc0-aba3-665762ad1f1c"
+Parent: "ddaede7a-cc6f-4421-b5f8-b4cfac543543"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/play-stores/play-italy/Home/Data"
+BranchID: "bf982a12-b7d1-46d0-b750-cb3bc8f89988"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A294864A-F47F-4FCF-AF99-5B2574BF6034}"
+Languages:
+- Language: "it-IT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40b6e8ad-b3de-4494-b3a7-9e0ebc73ca18"

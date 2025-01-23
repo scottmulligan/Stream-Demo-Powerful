@@ -1,0 +1,26 @@
+﻿---
+ID: "581c67c3-7975-450e-bd94-1b7f9894c5fb"
+Parent: "8dd15b73-8f12-4acc-8b29-a36b6691ac0e"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/campaigns/japanese-festival/Presentation/Partial Designs/Footer/Data/Contact info"
+BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{24280E66-0C0C-42B5-9B03-B8D789E81922}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <span id="docs-internal-guid-7ad7f9d6-7fff-281f-d1e1-3575add84e48"></span>
+        <p><span>info@Skatepark.com</span></p>
+        <p><span>234-234-234-234</span></p>
+        <div><span><br />
+        </span></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6f4123fb-3a20-4a64-9741-83056e7e8f70"

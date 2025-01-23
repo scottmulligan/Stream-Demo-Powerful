@@ -1,0 +1,18 @@
+﻿---
+ID: "313f255a-53a8-4078-ae82-3b5c9d8e3dc2"
+Parent: "93cad8d4-7ad1-403c-813f-07c1c12e65ae"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/campaigns/play-campaign/Presentation/Headless Variants/Title/Default"
+BranchID: "3f7de82f-366f-4708-a1fe-9b0a42862492"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{17537200-43DF-4384-85AD-8C795BB461E6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f5724d37-a711-4cc7-885b-4eb788bfcafc"

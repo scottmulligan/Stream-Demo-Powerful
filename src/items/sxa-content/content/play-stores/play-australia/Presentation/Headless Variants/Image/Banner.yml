@@ -1,0 +1,17 @@
+﻿---
+ID: "18377cee-f792-4ddd-a6e6-3a65c3df7f6e"
+Parent: "685ca2ad-eb41-48db-9c39-581d1a565831"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: "/sitecore/content/play-stores/play-australia/Presentation/Headless Variants/Image/Banner"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "en-AU"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f19efbf9-f5e4-4f38-a127-c5ba3e1d00fc"

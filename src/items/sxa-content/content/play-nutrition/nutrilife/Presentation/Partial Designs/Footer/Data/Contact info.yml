@@ -1,0 +1,26 @@
+﻿---
+ID: "c9dbf33f-44a2-4502-b7d0-958af9104bef"
+Parent: "7b440fd6-aa15-4811-a599-b6a08cad8680"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/play-nutrition/nutrilife/Presentation/Partial Designs/Footer/Data/Contact info"
+BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{24280E66-0C0C-42B5-9B03-B8D789E81922}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <span id="docs-internal-guid-7ad7f9d6-7fff-281f-d1e1-3575add84e48"></span>
+        <p><span>info@Skatepark.com</span></p>
+        <p><span>234-234-234-234</span></p>
+        <div><span><br />
+        </span></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "920b3039-f95f-439d-868e-179a059300e7"

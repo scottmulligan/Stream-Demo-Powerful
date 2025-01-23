@@ -1,0 +1,13 @@
+﻿---
+ID: "1cf77bbf-3c6e-40d2-99a9-6bd6b6b8f22c"
+Parent: "2826bad7-ca59-4d79-912c-13aede733066"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Verticals/Basic/System
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "14c457f9-93dd-4c58-afe6-00fe9bef0ea8"

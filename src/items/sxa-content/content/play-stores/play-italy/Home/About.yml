@@ -1,0 +1,46 @@
+﻿---
+ID: "aec2a184-084c-48e4-9bf2-527dbb5710ac"
+Parent: "ddaede7a-cc6f-4421-b5f8-b4cfac543543"
+Template: "8d5c0ac0-f245-4a90-96e8-f4c434233be0"
+Path: "/sitecore/content/play-stores/play-italy/Home/About"
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{7334F9B6-8514-4534-9CEB-97D19B64067C}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7bE8E815A2-8E92-400A-AFE5-4FD1F71AE14E%7d%7c%7b0B8A88CC-9C0F-411D-AC16-911029701CF8%7d%7c%7bCA76AC96-5206-498A-92E3-5DD47E3F0549%7d%7c%7b9FEE0F99-948C-43FD-B787-FF0F24AF2E20%7d%7c%7b80C8AF62-2013-448F-B365-F1FD2FD375EC%7d%7c%7b82D2E143-336A-488B-9C53-B7733FE30D2D%7d%7c%7b038A9CD8-9571-4425-80F6-C1DE79E39F38%7d%7c%7bEAA5AA0C-38D6-485D-8EF5-339A902F5CF1%7d%7c%7bA7706618-77F4-4D40-8A79-21D065171657%7d%7c%7bC462A73B-E201-4F01-9F7C-403EA55F378F%7d%7c%7bB1007BC1-16C4-4826-8015-C9D980E3C56B%7d%7c%7bFA580B48-B5DA-4C46-A8F0-4BFA87C0ABB3%7d%7c%7b8F48BDE2-8B51-41BC-8902-70A5743B9ECE%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{DD0C14BE-8F42-4258-B198-7DF6C3606A26}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b175CB6DA-CF89-4D56-888C-EB79F514D12F%7d%7c%7b7DF615F7-0A53-42E1-A164-2B36D6126314%7d&amp;FieldNames=%7b75E25BE9-57AD-4028-84A3-38BA75CEFB28%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B8E694EC-3576-4CC6-8628-AEE286A9AB38}"
+Languages:
+- Language: "it-IT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About
+    - ID: "5f690a74-4d5c-4523-94ab-d506d51ab957"
+      Hint: Title
+      Value: About
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ddf13a51-18ea-48d1-876e-a2fe75c75ddb"

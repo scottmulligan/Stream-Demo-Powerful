@@ -1,0 +1,13 @@
+﻿---
+ID: "b67ae48c-efe9-42f5-86b4-d2833affeca4"
+Parent: "9d413b56-86bb-4189-aa5f-24ffe6d10083"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/campaigns/japanese-festival/Data/Navigation Filters"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eddd21e5-c41f-4e6a-8bcb-ae89fb2ae5f8"

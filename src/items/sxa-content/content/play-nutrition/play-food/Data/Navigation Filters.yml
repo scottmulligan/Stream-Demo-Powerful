@@ -1,0 +1,13 @@
+﻿---
+ID: "4db460a1-36c0-4526-b18a-dca783910dbd"
+Parent: "fadaf1f2-c991-42d1-8fda-95f7b0c1e389"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/play-nutrition/play-food/Data/Navigation Filters"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6d4d4fbb-b8ac-4dda-b9a2-a6859deca19e"

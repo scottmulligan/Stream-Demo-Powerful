@@ -1,0 +1,18 @@
+﻿---
+ID: "db810475-92ed-43dc-a7ae-3a120884c9d8"
+Parent: "9a2be957-e9d0-4ca8-893b-b2963b0c53c9"
+Template: "fbc802e5-4b9e-480f-93da-3f2a80cae5cb"
+Path: "/sitecore/content/play-stores/play-portugal/Presentation/Page Branches"
+BranchID: "aa6c7b9e-a399-47ae-82b8-0d88c695249b"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{63D0F6B2-D72F-4C31-BBA2-1709C4B68B7B}"
+Languages:
+- Language: "pt-PT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2c7d07e6-cfa7-4192-aa87-b75a2f61a68e"

@@ -1,0 +1,13 @@
+﻿---
+ID: "009cecb2-c718-4391-b89a-709e0585c034"
+Parent: "ed852e0e-fec5-4a3d-8f68-b3f07e6b36d7"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/play-nutrition/nutri-health/Presentation/Placeholder Settings/Partial Design"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "62202f33-bb4f-43b6-bfea-2044016213fa"

@@ -1,0 +1,13 @@
+﻿---
+ID: "40700d84-8367-49af-b57e-6f133b288d09"
+Parent: "fbd3bd19-11f6-47c2-8a18-d7813631a24b"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/play-stores/play-portugal/Data/Navigation Filters"
+Languages:
+- Language: "pt-PT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "10fb1fab-7397-42d3-9c4c-5f8b2e1fa976"

@@ -1,0 +1,18 @@
+﻿---
+ID: "3fe08492-3d29-4e52-9864-245b86c20bb2"
+Parent: "f29ecec2-4e00-48c8-860c-3f1334eb3242"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/campaigns/play-campaign/Home/Data"
+BranchID: "bf982a12-b7d1-46d0-b750-cb3bc8f89988"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A294864A-F47F-4FCF-AF99-5B2574BF6034}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "907ae65d-b8fa-48e3-baed-ef2cf3354f0f"

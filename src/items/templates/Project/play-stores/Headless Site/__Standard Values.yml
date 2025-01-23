@@ -1,0 +1,13 @@
+﻿---
+ID: "2cc3c3cb-f47c-4a8e-a531-62574e7488f8"
+Parent: "c935ac58-0b2f-42df-8d32-618e5ecd7ce9"
+Template: "c935ac58-0b2f-42df-8d32-618e5ecd7ce9"
+Path: "/sitecore/templates/Project/play-stores/Headless Site/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8e3eea66-6643-4512-bfa7-107f017ffcd1"

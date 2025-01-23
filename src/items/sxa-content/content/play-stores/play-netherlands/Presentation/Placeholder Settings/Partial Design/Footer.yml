@@ -1,0 +1,17 @@
+﻿---
+ID: "8bc27f68-6721-4570-8e15-28fcea95ef39"
+Parent: "307655c3-de66-4c54-aaf5-95f43b469406"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/play-stores/play-netherlands/Presentation/Placeholder Settings/Partial Design/Footer"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-footer"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aa3f036e-a84d-41e4-a0d5-903a7014b24f"

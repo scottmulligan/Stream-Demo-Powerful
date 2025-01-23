@@ -1,0 +1,21 @@
+﻿---
+ID: "e371b9dd-19af-4d59-87b0-d991453cdf9b"
+Parent: "c0e5edab-a360-44e4-88d8-cfdace6d122c"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/play-nutrition/nutri-health/Presentation/Partial Designs/Header/Data/Title"
+BranchID: "c755de9b-1e44-4c8f-b830-168212b57fe7"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{89F92411-6F78-42D7-A789-5066D7092839}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: <h1>Skate Park</h1>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "54798165-0931-48bb-8ac4-aa29beb4c7eb"

@@ -1,0 +1,13 @@
+﻿---
+ID: "02926e3b-8863-49c7-8227-ce28ac3c9355"
+Parent: "783b98c7-e032-4c95-99ba-2a3908f1d2fc"
+Template: "8fe7f8dc-cb5d-42c2-99f8-76608c243f10"
+Path: "/sitecore/content/play-stores/play-australia/Data/Promos"
+Languages:
+- Language: "en-AU"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0b91a497-20c4-4353-9119-e09473df3ade"

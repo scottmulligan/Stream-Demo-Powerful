@@ -1,0 +1,18 @@
+﻿---
+ID: "cf11ffb9-be98-44dc-ad05-bd8f796243b7"
+Parent: "4a1112bb-67c0-4d88-a7b4-2638f697a271"
+Template: "da26c636-96e1-45e4-88d6-3fcec70d5699"
+Path: "/sitecore/content/play-stores/play-netherlands/Presentation/Headless Variants"
+BranchID: "ab383616-86fa-41a3-bb12-2c478166886f"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{C731A7FC-9233-4913-A35B-B6EE5AA35DE5}"
+Languages:
+- Language: "nl-NL"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b94307cf-c36b-449f-8659-924ac184181c"

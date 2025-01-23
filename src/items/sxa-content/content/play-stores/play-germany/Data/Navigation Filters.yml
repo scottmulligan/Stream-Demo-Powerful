@@ -1,0 +1,13 @@
+﻿---
+ID: "a4024221-a7f0-430b-b7b5-2726df99db4a"
+Parent: "1b901214-444c-4880-ab1c-d20b64e44e72"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: "/sitecore/content/play-stores/play-germany/Data/Navigation Filters"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4a65d61-7994-4071-bdfa-9641ec56a308"

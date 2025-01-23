@@ -1,0 +1,13 @@
+﻿---
+ID: "28291681-494b-4aaa-8204-081b7f59cbf1"
+Parent: "0b24a39e-ad5c-4ff6-baa5-e7e92690ab65"
+Template: "52288e39-7830-4694-b62d-32a54c6ef7ba"
+Path: "/sitecore/content/play-nutrition/play-drinks/Presentation/Placeholder Settings/Partial Design"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4ab23315-d817-4a49-892d-db91ea71ed8b"

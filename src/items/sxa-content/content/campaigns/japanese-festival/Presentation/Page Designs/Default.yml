@@ -1,0 +1,17 @@
+﻿---
+ID: "4c91048e-6c88-49c5-b597-5b12c2fa36fd"
+Parent: "06e70cc6-8507-4e7d-a0e6-c774aa2d722d"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: "/sitecore/content/campaigns/japanese-festival/Presentation/Page Designs/Default"
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{6571026D-B89E-47BC-9B9D-7D923EC8D7B8}|{EF144992-1502-4652-ABE4-9C58E0F945F8}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dc66605e-7533-445b-8a1a-3f18cc872c4d"

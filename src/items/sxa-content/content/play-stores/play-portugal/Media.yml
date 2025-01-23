@@ -1,0 +1,24 @@
+﻿---
+ID: "59c44b13-0997-4cbc-9235-b7625918c4f4"
+Parent: "d2b36920-a256-42e4-9bc7-b19fe5de94e0"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: "/sitecore/content/play-stores/play-portugal/Media"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
+  Hint: AdditionalChildren
+  Value: |
+    {008CC51C-4F5A-408F-A046-BDD402C79503}
+    {3F72A8CA-919D-4EF6-8918-B0D6D3B3AD5E}
+    {B4D0BE7D-1DCD-4263-9EDE-9E6693DA8BCB}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A7F39EA2-9018-4622-891D-CB65627E5AF2}"
+Languages:
+- Language: "pt-PT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5d47342d-c7b5-462e-b7b8-7685ad556241"

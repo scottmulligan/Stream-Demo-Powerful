@@ -1,0 +1,17 @@
+﻿---
+ID: "1d3afbbe-ad34-4892-b2e4-c87d0db76af2"
+Parent: "f1f8efc2-458c-48a2-9a2e-64abef6f6b35"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/play-stores/play-spain/Presentation/Placeholder Settings/Partial Design/Header"
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "sxa-header"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "89b38a42-b691-4a95-9d5b-20a56adebe43"

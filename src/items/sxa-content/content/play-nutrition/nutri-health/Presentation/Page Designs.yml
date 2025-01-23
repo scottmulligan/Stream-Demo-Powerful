@@ -1,0 +1,21 @@
+﻿---
+ID: "f1d132bd-eca2-461d-ac2f-e93b3e2d331b"
+Parent: "c043889e-0984-439a-8acd-e9bd8add6806"
+Template: "ae5d977c-40b1-48a6-b3d3-38574e1e9b57"
+Path: "/sitecore/content/play-nutrition/nutri-health/Presentation/Page Designs"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7b9C382777-61C2-4995-ADDE-F8B2B95424CF%7d%3d%257B24DB9FBA-F4C9-4A7A-8D51-5C17A96DDB47%257D"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0eb7bbb6-1282-4f1a-af6e-c42c04a3b715"
