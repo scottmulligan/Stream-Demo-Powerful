@@ -1,0 +1,13 @@
+﻿---
+ID: "f4b61508-a8e9-4144-994e-ea77b91bc5d4"
+Parent: "20190553-b927-4494-a1a0-c2bfb56f0d64"
+Template: "c0943942-ae0f-4205-86fa-84884cce4a53"
+Path: "/sitecore/content/Verticals/powerful/Home/landing-pages/Fruitful Product Launch/Data/Promo CTA 2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b12161b5-9687-4c9f-a1c5-521e1b1b5123"

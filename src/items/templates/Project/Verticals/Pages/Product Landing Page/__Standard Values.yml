@@ -1,0 +1,33 @@
+﻿---
+ID: "158b458d-d831-46ad-b7dd-cc66feee1318"
+Parent: "9b278dd8-88d8-4685-9e7f-c87b0ec3b44f"
+Template: "9b278dd8-88d8-4685-9e7f-c87b0ec3b44f"
+Path: /sitecore/templates/Project/Verticals/Pages/Product Landing Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{C14B6289-8AC2-439C-9E5B-40DE9F820C3F}"
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{E9B6C600-C6E8-4867-BCB7-8B0DC5F19840}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca3d75e7-4c3d-4bcf-bc02-2c4d61001660"
+    - ID: "df71625e-7e6c-413b-a4fa-f77511e7964c"
+      Hint: Title
+      Value: $name
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "227b36e1-539c-4d2f-983e-993167bf5e67"
+    - ID: "df71625e-7e6c-413b-a4fa-f77511e7964c"
+      Hint: Title
+      Value: $name

@@ -50,10 +50,41 @@ Languages:
             <r
               uid="{DF32940D-148B-4AD6-8FB3-C63FF981B0D2}"
               p:after="*[1=2]"
-              s:ds="local:/Data/Promo CTA 1"
+              s:ds="78ac5236-afbe-4383-8d1e-d794a0364d4e"
               s:id="{1A375FAC-6CC1-4A5A-A159-9BC6DBC66B80}"
               s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B49F0CFD6-EF47-4AD3-B011-3622D1AB250D%7D&amp;Styles=%7B556C1B7B-E0B6-42CB-BDD7-CAC09677991E%7D%7C%7BC631FF42-A943-46CF-8CA9-52578F078B7F%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
-              s:ph="/headless-main/sxa-page-content/landing-page-content-0-1" />
+              s:ph="/headless-main/sxa-page-content/landing-page-content-0-1">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{BDD932A7-153C-4236-9D5C-ED09821635D3}"
+                    s:name="68ab6567fe6e46c6910c92099dfb35fb">
+                    <conditions>
+                      <condition
+                        uid="ACC5E733C4B4472A993AE11D4A175492"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="68ab6567fe6e46c6910c92099dfb35fb" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{DBC22320-E91F-460A-A50E-1DBC634D8B47}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="a749e1b2-330e-43af-9c45-f6a489472112" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="20A27A83472B4C97B29683F5E5769634"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
           </d>
         </r>
     - ID: "247be607-394a-4bf2-8c8a-509b07025dd9"
@@ -70,4 +101,91 @@ Languages:
       Value: Fruitful Personalized Campaign
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b3e7b871-e1a6-488c-ad4a-b219db38b1ed"
+      Value: "fbee48f9-b614-4848-97ac-19945c914655"
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{776D80EC-B5AF-45EF-AF16-157CE8909AC6}"
+              p:before="*"
+              s:ds="A8AB97F6-14AD-4421-B9E8-6BD1519023E0"
+              s:id="{F9905F68-21E8-4C6F-8B89-56BB99020D31}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="headless-main" />
+            <r
+              uid="{1FA10770-95D6-4DC6-B791-0238A954047F}"
+              p:after="r[@uid='{776D80EC-B5AF-45EF-AF16-157CE8909AC6}']"
+              s:ds="local:/Data/Rich Text"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B30F0134F-9B3D-485D-8925-3DF75D041D7D%7D&amp;Styles=%7B3095075E-F1C0-4CEB-9CAF-2258775A026F%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/sxa-page-content/landing-page-content-0-1" />
+            <r
+              uid="{DF32940D-148B-4AD6-8FB3-C63FF981B0D2}"
+              p:after="*[1=2]"
+              s:ds="78ac5236-afbe-4383-8d1e-d794a0364d4e"
+              s:id="{1A375FAC-6CC1-4A5A-A159-9BC6DBC66B80}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B49F0CFD6-EF47-4AD3-B011-3622D1AB250D%7D&amp;Styles=%7B556C1B7B-E0B6-42CB-BDD7-CAC09677991E%7D%7C%7BC631FF42-A943-46CF-8CA9-52578F078B7F%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-main/sxa-page-content/landing-page-content-0-1">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{BDD932A7-153C-4236-9D5C-ED09821635D3}"
+                    s:name="68ab6567fe6e46c6910c92099dfb35fb">
+                    <conditions>
+                      <condition
+                        uid="ACC5E733C4B4472A993AE11D4A175492"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="68ab6567fe6e46c6910c92099dfb35fb" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{DBC22320-E91F-460A-A50E-1DBC634D8B47}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="a749e1b2-330e-43af-9c45-f6a489472112" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="20A27A83472B4C97B29683F5E5769634"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+          </d>
+        </r>
+    - ID: "247be607-394a-4bf2-8c8a-509b07025dd9"
+      Hint: Title
+      Value: Fruitful abc Campaign
+    - ID: "3d30539f-d403-496a-a512-ac885b1a2f8b"
+      Hint: Content
+      Value: <p>Lorem ipsum dolor sit amet</p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{C8FF2A20-ABA6-409B-AD69-955CD5219D07}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Fruitful Personalized Campaign
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f70297d5-1d6e-4b84-9469-696c8e0f04c3"
+    - ID: "9857f526-390f-48df-b6d1-1a97cc328e8f"
+      Hint: __Version Name
+      Value: Fruit Campaign v2
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20250124T130506Z

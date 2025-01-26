@@ -10,28 +10,77 @@
     "components": [
       {
         "libraryId": "generated",
+        "id": "0-RIKDfaA-",
+        "collectionId": "EfQDdUxRmd",
+        "name": "Hero Banner",
+        "description": "",
+        "status": "changed",
+        "versionCount": 1,
+        "stagedVersionCount": 0,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2025-01-24T07:47:19.301Z",
+        "stagedAt": null,
+        "publishedAt": null,
+        "modifiedAt": "2025-01-24T07:50:17.844Z",
+        "modifiedBy": {
+          "id": "638f17b0ae457931c59d5656",
+          "name": "Sebastian Winter",
+          "email": "sebastian.winter@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/afd9234e08e3a1663a31be8b4ea51511?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fse.png",
+          "givenName": "Sebastian",
+          "familyName": "Winter"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "0-RIKDfaA-",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2025-01-24T07:47:27.743Z",
+            "modifiedAt": "2025-01-24T07:47:27.743Z"
+          }
+        ]
+      },
+      {
+        "libraryId": "generated",
         "id": "MCzUv9T7CV",
         "collectionId": "EfQDdUxRmd",
         "name": "Teaser",
         "description": "",
-        "status": "published",
+        "status": "changed",
         "versionCount": 2,
         "stagedVersionCount": 2,
-        "embeddableVersionCount": 3,
+        "embeddableVersionCount": 1,
         "datasourceIds": [],
         "createdAt": "2023-06-08T08:45:02.309Z",
         "stagedAt": null,
         "publishedAt": "2023-06-08T13:06:57.252Z",
-        "modifiedAt": "2023-06-08T13:06:57.252Z",
+        "modifiedAt": "2025-01-24T07:47:09.42Z",
         "modifiedBy": {
-          "id": "62f3ba1cba5df761961e5a78",
-          "name": "Sintija Potaicuka",
-          "email": "sintija.potaicuka@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png",
-          "givenName": "Sintija",
-          "familyName": "Potaicuka"
+          "id": "638f17b0ae457931c59d5656",
+          "name": "Sebastian Winter",
+          "email": "sebastian.winter@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/afd9234e08e3a1663a31be8b4ea51511?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fse.png",
+          "givenName": "Sebastian",
+          "familyName": "Winter"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "MCzUv9T7CV",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2025-01-24T07:47:08.736Z",
+            "modifiedAt": "2025-01-24T07:47:08.736Z"
+          }
+        ]
       },
       {
         "libraryId": "generated",

@@ -3,9 +3,9 @@
   "href": "https://api-us.boxever.com/v3/flowDefinitions/b7d59cb3-5bc8-423c-b648-1fb5dd5e32b4",
   "ref": "b7d59cb3-5bc8-423c-b648-1fb5dd5e32b4",
   "name": "embedded_{scope}_ff05d95782ff45b8aede7bf65196dbd9_en",
-  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2025-01-22T09:11:37.886Z",
-  "revision": 5,
+  "modifiedByRef": "auth0|638f17b0ae457931c59d5656",
+  "modifiedAt": "2025-01-24T08:13:15.526Z",
+  "revision": 11,
   "archived": false,
   "friendlyId": "embedded_{scope}_ff05d95782ff45b8aede7bf65196dbd9_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -21,11 +21,11 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2025-01-22T09:11:37.896Z",
+    "modifiedAt": "2025-01-24T08:13:15.567Z",
     "splits": [
       {
         "template": "{\"variantId\": \"f511a2a6c4524933b8f61f2b3268d9ba\"}",
-        "variantName": "Test",
+        "variantName": "Summer Campaign",
         "audienceName": "Test",
         "conditionGroups": [
           {
@@ -41,14 +41,90 @@
             ]
           }
         ]
+      },
+      {
+        "template": "{\"variantId\": \"39f0580b01d94a838871bf973bca8e37\"}",
+        "variantName": "Dutch visitors",
+        "audienceName": "Dutch visitors",
+        "conditionGroups": [
+          {
+            "conditions": [
+              {
+                "templateId": "country",
+                "params": {
+                  "is": "is",
+                  "country(s)": "NL"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "template": "{\"variantId\": \"bb1154df0f7d406f947b9e2cbc95f109\"}",
+        "variantName": "October Visitors",
+        "audienceName": "October Visitors",
+        "conditionGroups": [
+          {
+            "conditions": [
+              {
+                "templateId": "organization_month_of_visit",
+                "params": {
+                  "is": "is",
+                  "month(s)": "October"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "template": "{\"variantId\": \"68ab6567fe6e46c6910c92099dfb35fb\"}",
+        "variantName": "Sports Campaign",
+        "audienceName": "Sports Campaign",
+        "conditionGroups": [
+          {
+            "conditions": [
+              {
+                "templateId": "utm_value",
+                "params": {
+                  "type": "campaign",
+                  "compares to": "is equal to",
+                  "UTM value": "sports"
+                }
+              }
+            ]
+          },
+          {
+            "unionType": "AND",
+            "conditions": [
+              {
+                "templateId": "completed_questionnaire",
+                "params": {}
+              }
+            ]
+          },
+          {
+            "unionType": "OR",
+            "conditions": [
+              {
+                "templateId": "country",
+                "params": {
+                  "is": "is",
+                  "country(s)": "AU"
+                }
+              }
+            ]
+          }
+        ]
       }
     ]
   },
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "dd9cfecc-21e2-48ae-81df-d1c8a9a80bd6",
-      "name": "Test",
+      "ref": "69f6b2c7-a9af-4e29-8cd1-1d3535983911",
+      "name": "Summer Campaign",
       "tasks": [
         {
           "implementation": "templateRenderTask",

@@ -1,0 +1,20 @@
+﻿---
+ID: "8daef8c3-e58d-477f-b5b9-a5f257d4beaa"
+Parent: "a4fd6280-d2b1-4798-9067-2095e80d3c19"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Verticals/Pages/Campaign Landing Page/Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "10aed107-849c-41c5-8445-84c6614657ad"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b1494664-e492-49ef-bda0-a0a1e6fa07a7"

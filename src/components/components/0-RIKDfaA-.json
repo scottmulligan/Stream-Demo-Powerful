@@ -1,0 +1,33 @@
+{
+  "libraryId": "generated",
+  "id": "PpfV6Naneb",
+  "componentId": "0-RIKDfaA-",
+  "name": "Name",
+  "description": "",
+  "status": "saved",
+  "orderIdx": "03qKK",
+  "revision": 9,
+  "model": "",
+  "view": "<style data-format-version=\"30\">/* Type: grid Id: custom-grid Title: Custom grid Instance Id: NzFTrkZMcs */ .-grid--custom[data-instance-id=\"NzFTrkZMcs\"]:not(._._._._._._#_) { ---self--display: grid; display: var(---self--display); grid-template-rows: minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px,36px) minmax(36px, auto); grid-template-columns: minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr) minmax(0px,1fr); row-gap: var(---spacing--row-gap); column-gap: var(---spacing--column-gap); } .-grid--custom[data-instance-id=\"NzFTrkZMcs\"] > :nth-child(1):not(._._._._._._#_) { grid-column: 7; grid-column-end: 13; grid-row: 1; grid-row-end: 6; order: 0; position: relative; } /* Data: {\"type\":\"grid\",\"details\":{\"title\":\"Custom grid\",\"description\":\"\",\"id\":\"custom-grid\",\"exampleContent\":null,\"slug\":\"custom\",\"isInternal\":true,\"isHidden\":true,\"instanceId\":\"NzFTrkZMcs\"},\"props\":{\"columns\":[{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}},{\"min\":{\"value\":0,\"unit\":\"px\"},\"max\":{\"value\":1,\"unit\":\"fr\"}}],\"rows\":[{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":{\"value\":36,\"unit\":\"px\"}},{\"min\":{\"value\":36,\"unit\":\"px\"},\"max\":null}],\"items\":[{\"from\":{\"row\":1,\"column\":7},\"to\":{\"row\":6,\"column\":13},\"order\":0}]}} */</style><section class=\"-grid--custom -has--background\" data-instance-id=\"NzFTrkZMcs\"><div class=\"-card\"><h2>Modernize your DX</h2><p>Build and launch lightning-fast personalized experiences that drive engagement and keep customers coming back for more.</p><button>Read more</button></div><picture class=\"-image--background\"><img src=\"https://delivery-sitecore.sitecorecontenthub.cloud/api/public/content/1966226fe61149e1a843a1831e6cca94?t=sc900\" /></picture></section>",
+  "diff": {},
+  "breakpointIds": null,
+  "datasourceIds": [],
+  "isEmbeddable": false,
+  "forkOriginId": null,
+  "forkOriginRevision": 0,
+  "forkedAt": null,
+  "classList": [
+    "-theme--default"
+  ],
+  "createdAt": "2025-01-24T07:47:28.091Z",
+  "deletedAt": null,
+  "modifiedAt": "2025-01-24T07:50:17.844Z",
+  "modifiedBy": {
+    "id": "638f17b0ae457931c59d5656",
+    "name": "Sebastian Winter",
+    "givenName": "Sebastian",
+    "familyName": "Winter",
+    "email": "sebastian.winter@sitecore.com",
+    "picture": "https://s.gravatar.com/avatar/afd9234e08e3a1663a31be8b4ea51511?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fse.png"
+  }
+}

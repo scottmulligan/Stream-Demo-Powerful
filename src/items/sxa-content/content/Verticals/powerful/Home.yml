@@ -10,6 +10,9 @@ SharedFields:
     {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
     {5282D418-6C18-46EB-85AF-9116CDE9E6EB}
     {14431DCE-508D-4D54-9D04-C22ABBDC8F83}
+    {47B86292-33F2-4A28-A65A-69F123CD952D}
+    {9B278DD8-88D8-4685-9E7F-C87B0EC3B44F}
+    {A4FD6280-D2B1-4798-9067-2095E80D3C19}
 - ID: "4a749557-242b-4372-8a20-b2db9d406301"
   Hint: __AutoThumbnails
   Value: 
@@ -260,7 +263,7 @@ Languages:
       Value: Powerful
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4b8a4fac-3ff4-4917-95c0-8042dc433896"
+      Value: "3b832dfe-7620-4520-83f1-721c1908d22e"
     - ID: "d77eab5a-d654-445f-b15c-d32283737e1f"
       Hint: Title
       Value: "Powerful - Home"

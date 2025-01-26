@@ -1,13 +1,13 @@
 {
   "clientKey": "3509a0a2b7cc0542af1e697ea16dafe9",
-  "href": "https://api-us.boxever.com/v3/flowDefinitions/de849add-c736-48d0-ba0f-9445270925c9",
-  "ref": "de849add-c736-48d0-ba0f-9445270925c9",
-  "name": "embedded_{scope}_c1892daef994499dbd350d1c46bd4b6a_en",
-  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2025-01-23T23:11:38.597Z",
-  "revision": 8,
+  "href": "https://api-us.boxever.com/v3/flowDefinitions/de372a7e-d509-47e6-aa28-1b516c73fa44",
+  "ref": "de372a7e-d509-47e6-aa28-1b516c73fa44",
+  "name": "embedded_{scope}_e5c7f7932e22425d930570c7d36950be_en",
+  "modifiedByRef": "auth0|638f17b0ae457931c59d5656",
+  "modifiedAt": "2025-01-24T07:53:54.031Z",
+  "revision": 2,
   "archived": false,
-  "friendlyId": "embedded_{scope}_c1892daef994499dbd350d1c46bd4b6a_en",
+  "friendlyId": "embedded_{scope}_e5c7f7932e22425d930570c7d36950be_en",
   "type": "INTERACTIVE_API_FLOW",
   "subtype": "EXPERIENCE",
   "channels": [
@@ -21,12 +21,12 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2025-01-23T23:11:38.618Z",
+    "modifiedAt": "2025-01-24T07:53:54.256Z",
     "splits": [
       {
-        "template": "{\"variantId\": \"11bb44f2cbbe4028a50f41151fc736ae\"}",
-        "variantName": "Fruitful Summer",
-        "audienceName": "Fruitful Summer",
+        "template": "{\"variantId\": \"076f2155a3754623aecbdacd45e95388\"}",
+        "variantName": "Campaign Variant",
+        "audienceName": "Campaign Variant",
         "conditionGroups": [
           {
             "conditions": [
@@ -47,15 +47,15 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "601beb61-a999-4dca-bcfb-a66699ad1f0b",
-      "name": "Fruitful Summer",
+      "ref": "5d98a0ea-c14f-4356-b5d3-a1924dbd99a2",
+      "name": "Campaign Variant",
       "tasks": [
         {
           "implementation": "templateRenderTask",
           "input": {
             "inputType": "templateRenderTaskInput",
             "type": "application/json",
-            "template": "{\"variantId\": \"11bb44f2cbbe4028a50f41151fc736ae\"}"
+            "template": "{\"variantId\": \"076f2155a3754623aecbdacd45e95388\"}"
           }
         },
         {
@@ -80,10 +80,10 @@
   "status": "PRODUCTION",
   "schedule": {
     "type": "simpleSchedule",
-    "startDate": "2025-01-21T12:43:41.735Z"
+    "startDate": "2025-01-24T07:53:18.917Z"
   },
   "revisions": {
-    "href": "https://api-us.boxever.com/v3/flowDefinitions/de849add-c736-48d0-ba0f-9445270925c9/revisions"
+    "href": "https://api-us.boxever.com/v3/flowDefinitions/de372a7e-d509-47e6-aa28-1b516c73fa44/revisions"
   },
   "sampleSizeConfig": {
     "baseValue": 0.15,

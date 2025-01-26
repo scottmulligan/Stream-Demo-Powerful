@@ -49,7 +49,7 @@ Languages:
               s:ph="/headless-main/sxa-page-content/landing-page-content-0-1" />
             <r
               uid="{97422285-3647-4510-979C-C51DE633D953}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{1FA10770-95D6-4DC6-B791-0238A954047F}']"
               s:id="{DDC43BE7-D77A-4CE3-9282-03DD036EEC6D}"
               s:pt="personalizationTest"
               s:par="ComponentName=SitecoreForm%3FformId%3D283430210f8f41589ff36c824a92117c-euw&amp;ComponentProps&amp;ComponentLabel=Fruitful%20product%20launch&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
@@ -89,6 +89,13 @@ Languages:
                 </ruleset>
               </rls>
             </r>
+            <r
+              uid="{8F1C6891-26E7-481D-8045-FD6E711E7418}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Promo CTA 2"
+              s:id="{1A375FAC-6CC1-4A5A-A159-9BC6DBC66B80}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B49F0CFD6-EF47-4AD3-B011-3622D1AB250D%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/sxa-page-content/page-content-0-1" />
           </d>
         </r>
     - ID: "247be607-394a-4bf2-8c8a-509b07025dd9"
@@ -105,4 +112,4 @@ Languages:
       Value: Fruitful Product Launch
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "160dd077-3723-4599-9554-346565b94fd6"
+      Value: "c47bc1d8-1a37-4e7a-bc0d-cb6aa25aa6f8"

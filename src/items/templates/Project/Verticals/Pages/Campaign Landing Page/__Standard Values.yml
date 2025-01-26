@@ -1,0 +1,33 @@
+﻿---
+ID: "439995b9-eae3-4057-ba83-51cd8f8e5ffd"
+Parent: "a4fd6280-d2b1-4798-9067-2095e80d3c19"
+Template: "a4fd6280-d2b1-4798-9067-2095e80d3c19"
+Path: /sitecore/templates/Project/Verticals/Pages/Campaign Landing Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{C14B6289-8AC2-439C-9E5B-40DE9F820C3F}"
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{E9B6C600-C6E8-4867-BCB7-8B0DC5F19840}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b2893a5b-dcf6-4af7-aaea-554f9efb767a"
+    - ID: "d80de1c0-2ce0-4b21-8441-c024caaab3a4"
+      Hint: Title
+      Value: $name
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "227b36e1-539c-4d2f-983e-993167bf5e67"
+    - ID: "d80de1c0-2ce0-4b21-8441-c024caaab3a4"
+      Hint: Title
+      Value: $name
