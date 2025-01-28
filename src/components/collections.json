@@ -31,19 +31,7 @@
           "givenName": "Sebastian",
           "familyName": "Winter"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "0-RIKDfaA-",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2025-01-24T07:47:27.743Z",
-            "modifiedAt": "2025-01-24T07:47:27.743Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -58,7 +46,7 @@
         "datasourceIds": [],
         "createdAt": "2023-06-08T08:45:02.309Z",
         "stagedAt": null,
-        "publishedAt": "2023-06-08T13:06:57.252Z",
+        "publishedAt": "2023-06-08T12:50:50.669Z",
         "modifiedAt": "2025-01-24T07:47:09.42Z",
         "modifiedBy": {
           "id": "638f17b0ae457931c59d5656",
@@ -68,19 +56,7 @@
           "givenName": "Sebastian",
           "familyName": "Winter"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "MCzUv9T7CV",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2025-01-24T07:47:08.736Z",
-            "modifiedAt": "2025-01-24T07:47:08.736Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",

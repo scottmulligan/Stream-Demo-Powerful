@@ -4,8 +4,8 @@
   "ref": "7d1e07c4-cd85-4489-b3b6-695cc2b7c13c",
   "name": "embedded_{scope}_1a15b08a944641d997363d1ac32e7779_en",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2025-01-23T23:11:37.128Z",
-  "revision": 6,
+  "modifiedAt": "2025-01-27T10:07:28.347Z",
+  "revision": 8,
   "archived": false,
   "friendlyId": "embedded_{scope}_1a15b08a944641d997363d1ac32e7779_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -21,7 +21,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2025-01-23T23:11:37.183Z",
+    "modifiedAt": "2025-01-27T10:07:28.495Z",
     "splits": [
       {
         "template": "{\"variantId\": \"45728f7342fd4bfb96446e0a7171715f\"}",
@@ -47,7 +47,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "a0720b43-1394-4efa-9745-410903a5447e",
+      "ref": "a7853583-907b-4eba-87e0-cb984c9d6941",
       "name": "Fruitful Summer",
       "tasks": [
         {
