@@ -1,0 +1,76 @@
+﻿---
+ID: "e0bbc25f-b9f7-40da-97b8-208876c7b88e"
+Parent: "ffea8ca4-cf8c-453a-9f7d-49d6e60eea5d"
+Template: "60fe154b-e0bc-4fa8-b87c-55ab54015a49"
+Path: /sitecore/content/Verticals/Services/Home/portfolio/AB Test Test
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{E9B6C600-C6E8-4867-BCB7-8B0DC5F19840}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{677DC903-FC4A-44CF-B721-DACEB8A9874D}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Promo CTA 1"
+              s:id="{1A375FAC-6CC1-4A5A-A159-9BC6DBC66B80}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B61ABB421-7323-4050-82C2-CB31540E4C9A%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/sxa-project-content/project-additional-content-0-1">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{33CEE577-8297-447D-8C22-D93D9B50A73F}"
+                    s:name="677dc903fc4a44cfb721daceb8a9874d_1cd81c0d89ff448d904130913d04262f">
+                    <conditions>
+                      <condition
+                        uid="2AEE0ED44151474185F76C04F2256022"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="677dc903fc4a44cfb721daceb8a9874d_1cd81c0d89ff448d904130913d04262f" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{F25F3F98-476F-497C-BEC2-38D7806BE019}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="93ce9c89-6650-4b5f-b30f-8b299df51228" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="9D8CB978A8414369A12F1F5B213ECFF1"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+          </d>
+        </r>
+    - ID: "10c6bd9b-7e77-47aa-a1fb-0e2ae97f81d0"
+      Hint: Title
+      Value: AB Test Test
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{171CCFD4-8543-428E-9A9B-8E6557E63B6D}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AB Test Test
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a6f2b9c-d9c6-439d-a11e-dccf05b929a7"

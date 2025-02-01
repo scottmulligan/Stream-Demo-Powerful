@@ -1,11 +1,11 @@
 {
-  "clientKey": "84c3696ed849ab686bb60d0058523ef9",
-  "href": "https://api-us.boxever.com/v3/flowDefinitions/dd7b5601-b728-497c-94a1-150c6ca14a23",
-  "ref": "dd7b5601-b728-497c-94a1-150c6ca14a23",
+  "clientKey": "3509a0a2b7cc0542af1e697ea16dafe9",
+  "href": "https://api-us.boxever.com/v3/flowDefinitions/7d1e07c4-cd85-4489-b3b6-695cc2b7c13c",
+  "ref": "7d1e07c4-cd85-4489-b3b6-695cc2b7c13c",
   "name": "embedded_{scope}_1a15b08a944641d997363d1ac32e7779_en",
-  "modifiedByRef": "Ub7x6sEoPLwXjVuenV6Knbn8KanIQMNf@clients",
-  "modifiedAt": "2025-01-29T09:59:03.339Z",
-  "revision": 2,
+  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
+  "modifiedAt": "2025-01-31T12:56:00.263Z",
+  "revision": 10,
   "archived": false,
   "friendlyId": "embedded_{scope}_1a15b08a944641d997363d1ac32e7779_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -21,7 +21,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2025-01-29T09:59:03.494Z",
+    "modifiedAt": "2025-01-31T12:56:00.413Z",
     "splits": [
       {
         "template": "{\"variantId\": \"45728f7342fd4bfb96446e0a7171715f\"}",
@@ -47,7 +47,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "e6e13997-136f-4c1c-8060-ddede998be3f",
+      "ref": "43ddfbd7-5f4e-4bb0-843d-71c0f2ac096f",
       "name": "Fruitful Summer",
       "tasks": [
         {
@@ -83,7 +83,7 @@
     "startDate": "2025-01-21T12:36:30.349Z"
   },
   "revisions": {
-    "href": "https://api-us.boxever.com/v3/flowDefinitions/dd7b5601-b728-497c-94a1-150c6ca14a23/revisions"
+    "href": "https://api-us.boxever.com/v3/flowDefinitions/7d1e07c4-cd85-4489-b3b6-695cc2b7c13c/revisions"
   },
   "sampleSizeConfig": {
     "baseValue": 0.15,

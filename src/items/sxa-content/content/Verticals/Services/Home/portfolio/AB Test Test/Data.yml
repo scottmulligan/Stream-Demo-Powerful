@@ -1,0 +1,13 @@
+﻿---
+ID: "c3f6baa0-27ae-4e28-aeae-4193c24b7ba1"
+Parent: "e0bbc25f-b9f7-40da-97b8-208876c7b88e"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Verticals/Services/Home/portfolio/AB Test Test/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6579f887-b0ff-44a3-8986-a790225bd7af"
